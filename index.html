@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Language" content="en">
+  <title>Dnevni horoskop</title>
+  
+  <script src="horoskop.js"></script>
+    <style>
+    body {
+      background: linear-gradient(to right, #1e1e2f, #2c2c3e);
+      color: #f0f0f5;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 40px;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+      color: #ffd700;
+      text-shadow: 1px 1px 5px #000;
+    }
+
+    select {
+      padding: 10px;
+      font-size: 1.1em;
+      border-radius: 8px;
+      border: none;
+      background-color: #333;
+      color: #fff;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 1.1em;
+      border-radius: 8px;
+      border: none;
+      background-color: #ffd700;
+      color: #1e1e2f;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #ffcc00;
+    }
+
+    #output {
+      margin-top: 30px;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      color: #87cefa;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  select, button {
+    width: 100%;
+    font-size: 1em;
+    margin-bottom: 15px;
+  }
+
+  #output {
+    padding: 15px;
+    font-size: 1em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  p {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <h1>🌟 Dnevna Doza Zabave</h1>
+  <select id="signSelect">
+    <option value="aries">♈️ Ovan</option>
+    <option value="taurus">♉️ Bik</option>
+    <option value="gemini">♊️ Blizanci</option>
+    <option value="cancer">♋️ Rak</option>
+    <option value="leo">♌️ Lav</option>
+    <option value="virgo">♍️ Djevica</option>
+    <option value="libra">♎️ Vaga</option>
+    <option value="scorpio">♏️ Škorpion</option>
+    <option value="sagittarius">♐️ Strijelac</option>
+    <option value="capricorn">♑️ Jarac</option>
+    <option value="aquarius">♒️ Vodenjak</option>
+    <option value="pisces">♓️ Ribe</option>
+    <!-- Add all 12 signs -->
+  </select>
+  <button onclick="showForecast()"> 🔮 Pogledaj Horoskop</button>
+  <div id="output"></div>
+  <div>
+      <a href="https://www.lfbuyer.com" target="_blank">
+      <button>🌐 Posjeti oglasnik LF BUYER.COM</button>
+    </a>
+</div> 
+  <script>
+    function showForecast() {
+      const sign = document.getElementById("signSelect").value;
+      const today = new Date().toISOString().split("T")[0];
+      const forecast = horoscopes[today]?.[sign];
+      const theme = horoscopes[today]?.theme;
+
+      if (forecast) {
+        document.getElementById("output").innerHTML = `
+          <h2>Theme: ${theme}</h2>
+          <p>${forecast}</p>
+        `;
+      } else {
+        document.getElementById("output").innerText = "No forecast available for today.";
+      }
+    }
+  </script>
+ 
+  </div>
+  
+  
+</body>
+</html>
+
