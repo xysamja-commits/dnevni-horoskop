@@ -1,19 +1,20 @@
 const horoscopes = {
-  "2025-09-14": {
-    theme: "Refleksija",
-    aries: "Danas osjećaš nalet ambicije. Razmisli što te zaista pokreće—tvoja hrabrost je tvoj kompas.",
-    taurus: "Uspori i uživaj u trenutku. Refleksija donosi jasnoću odluci koju odgađaš.",
-    gemini: "Misli su ti raspršene, ali u njima se krije istina. Zapiši ih ili razgovaraj da je pronađeš.",
-    cancer: "Emocije su danas duboke. Razmisli o onome što si potiskivao—oslobađanje donosi mir.",
-    leo: "Navikao si blistati, ali danas zastani i pogledaj unutra. Tvoja unutarnja vatra treba pažnju.",
-    virgo: "Detalji su važni, ali ne zaboravi širu sliku. Razmisli o svojoj svrsi, ne samo zadacima.",
-    libra: "Ravnoteža je tvoj dar—iskoristi je da procijeniš svoje nedavne odluke. Što ti djeluje usklađeno?",
-    scorpio: "Tvoja intenzivnost je moćna. Razmisli gdje je usmjeravaš—služi li ti to i dalje?",
-    sagittarius: "Avantura je tvoja priroda, ali danas je vrijeme za mir. Razmisli kamo ideš.",
-    capricorn: "Daleko si stigao—zastani i osvrni se. Refleksija otkriva koliko si snažan postao.",
-    aquarius: "Ideje ti se vrte u glavi. Razmisli koje zaista rezoniraju s tvojom dušom.",
-    pisces: "Snovi su živopisni—razmisli o njihovom značenju. Tvoja podsvijest danas jasno govori."
-  },
+"2025-09-14": {
+  theme: "Refleksija",
+  aries: "Danas osjećaš nalet ambicije, ali prije nego zakoračiš naprijed, zastani i pitaj se što te zaista pokreće. Tvoja hrabrost je tvoj kompas, no smjer kojim ideš treba biti usklađen s tvojom unutarnjom istinom, a ne samo s vanjskim priznanjem. Refleksija ti danas donosi jasnoću: što je gorivo tvoje vatre—želja za dokazivanjem ili stvarna strast? Kada odgovoriš iskreno, svaki korak postaje jači i sigurniji.",
+  taurus: "Usporavanje ti danas donosi mir, a iz tog mira rađa se jasnoća. Refleksija ti pomaže da sagledaš odluku koju već dugo odgađaš. Umjesto da se povučeš u rutinu, priušti sebi trenutak tišine i pogledaj unutra. Što ti donosi osjećaj sigurnosti, a što te zadržava u zastoju? Tvoja snaga leži u sposobnosti da pronađeš stabilnost u jednostavnosti, a današnja introspekcija otkriva put prema trajnom miru.",
+  gemini: "Tvoje misli su danas poput kaleidoskopa—raspršene, šarene, neuhvatljive. No u toj mnoštvenosti krije se dragocjena istina. Refleksija znači uzeti trenutak da zapišeš ono što ti se mota po glavi ili podijeliš s nekim kome vjeruješ. Kada izraziš svoje ideje, otkrit ćeš koja od njih zaista rezonira s tvojim srcem. Iz kaosa će se roditi jasnoća, a iz jasnoće nova iskra kreativnog puta.",
+  cancer: "Tvoje emocije danas plutaju duboko poput valova koji dotiču dno oceana. Refleksija ti donosi priliku da se suočiš s onim što si možda potiskivao iz straha ili boli. Kada pogledaš unutar sebe bez osude, oslobađaš prostor za mir. Tvoja nježnost i osjetljivost nisu slabosti, već most prema iscjeljenju. Danas je dan da dopustiš sebi da osjetiš sve, jer samo kroz to možeš pronaći lakoću.",
+  leo: "Naviknut si blistati pred drugima, ali današnja refleksija te poziva da pogledaš svjetlost unutar sebe. Tvoja unutarnja vatra nije samo za svijet, već i za tvoju dušu koja traži pažnju. Ponekad najveća snaga dolazi iz tihog trenutka introspekcije. Zastani i zapitaj se: što te zaista ispunjava kada svjetla reflektora utihnu? Danas njeguj tu unutarnju iskru—ona je temelj tvog istinskog sjaja.",
+  virgo: "Detalji su tvoj dar, ali danas te refleksija poziva da podigneš pogled s papira i vidiš širu sliku svog života. Tvoje liste zadataka i planovi su važni, ali oni su alati, ne svrha. Danas zastani i razmisli o svom putovanju—ne samo o onome što još trebaš dovršiti, već i o tome zašto to uopće radiš. Integracija svrhe s djelovanjem donosi ti jasnoću i unutarnji mir.",
+  libra: "Tvoj prirodni dar je ravnoteža, a refleksija ti danas daje priliku da procijeniš svoje nedavne odluke. Pogledaj ih kao vagu: koje odluke ti donose unutarnju lakoću, a koje nemir? Harmonija nije u tome da svima udovoljiš, već da tvoje srce i razum pronađu zajednički jezik. Kada zastaneš i pogledaš unatrag s nježnošću, otkrit ćeš gdje si usklađen, a gdje je vrijeme za prilagodbu.",
+  scorpio: "Tvoja intenzivnost je tvoja snaga, ali refleksija ti danas šapuće da provjeriš kamo usmjeravaš tu moć. Strast može graditi ili spaliti, a ti biraš u kojem smjeru ide. Kada zastaneš i pogledaš unatrag, vidiš obrasce koji su te vodili ovdje. Služe li ti još uvijek? Ili je vrijeme da ih otpustiš? Tvoja dubina je dar, a introspekcija danas otvara vrata transformaciji koja te osnažuje.",
+  sagittarius: "Tvoja priroda je istraživanje, ali današnja refleksija te poziva na unutarnje putovanje. Umjesto novih horizonata, zastani i sagledaj kamo zapravo ideš. Avantura bez svrhe brzo se gubi, a svrha se nalazi u tišini introspekcije. Danas pitaj svoje srce što traži, a ne samo kamo bi željelo pobjeći. Prava sloboda dolazi kada znaš smjer svoje duše, a ne samo cestu pod nogama.",
+  capricorn: "Tvoje putovanje je već dugo, a refleksija ti danas pokazuje koliko si daleko stigao. Često gledaš prema vrhu planine, zaboravljajući na staze koje si već savladao. Danas zastani, osvrni se i priznaj svoju snagu. Tvoj trud nije prošao nezapaženo—ni od drugih, ni od univerzuma. Refleksija ti donosi zahvalnost, a iz zahvalnosti raste još dublja odlučnost za nastavak tvog puta.",
+  aquarius: "Tvoj um vrvi idejama, ali refleksija ti danas pomaže da razlučiš koje od njih zaista odjekuju u tvojoj duši. Inovacija i vizija su tvoji darovi, no nisu sve misli jednako vrijedne tvoje energije. Kada zastaneš i sagledaš širu sliku, otkrivaš koja ideja nije samo zanimljiva, već i istinska. Danas je dan da pronađeš misao koja te pokreće iznutra i da joj daš prostor da raste.",
+  pisces: "Tvoje snove danas obavija posebna jasnoća—oni nisu samo slike, već poruke tvoje podsvijesti. Refleksija ti daje priliku da zastaneš i oslušneš što ti ti simboli žele reći. Tvoja duhovna priroda zna čitati između redaka stvarnosti, a danas je dan kada ti snovi mogu pokazati istinu koju si tražio. Zapiši ih, razmisli o njima—oni su vodiči ka tvojoj unutarnjoj mudrosti i miru."
+}
+,
   "2025-09-15": {
     theme: "Ljubav",
     aries:
@@ -175,81 +176,85 @@ pisces:
 
 
 Object.assign(horoscopes, {
-  "2025-09-19": {
-    theme: "Odnosi",
-    aries: "Povezanost se produbljuje kada više slušaš nego govoriš. Danas budi prisutan za nekoga kome si potreban.",
-    taurus: "Stabilnost u odnosima je tvoj dar. Ponudi sigurnost i zauzvrat ćeš dobiti povjerenje.",
-    gemini: "Zaigrana razmjena može postati značajna. Ne podcjenjuj moć lagane povezanosti.",
-    cancer: "Tvoja brižna energija je potrebna. Netko blizak tiho traži tvoju utjehu.",
-    leo: "Vodi s empatijom, ne egom. Odnosi cvjetaju kada dijeliš pozornost.",
-    virgo: "Budi iskren o svojim potrebama. Odnosi se razvijaju kada jasnoća zamijeni pretpostavke.",
-    libra: "Harmonija je lijepa—ali ne izbjegavaj sukob. Nježna istina može izliječiti više od tišine.",
-    scorpio: "Emocionalna dubina je tvoja snaga. Podijeli je s nekim tko je zaslužio tvoje povjerenje.",
-    sagittarius: "Sloboda je važna, ali i predanost. Razmisli kako izgleda ravnoteža za tebe.",
-    capricorn: "Odanost je tvoj oslonac. Danas budi tu za nekoga bez potrebe za priznanjem.",
-    aquarius: "Neobične veze te mogu iznenaditi. Budi otvoren za povezivanje izvan uobičajenog kruga.",
-    pisces: "Osjetljivost je tvoja supermoć. Iskoristi je za razumijevanje, ne za upijanje tuđih emocija."
-  },
-  "2025-09-20": {
-    theme: "Kreativnost",
-    aries: "Tvoje ideje su hrabre—ne čekaj dopuštenje da ih izraziš. Stvaraj s vatrom.",
-    taurus: "Ljepota te inspirira. Okruži se umjetnošću, glazbom ili prirodom da potakneš svoju.",
-    gemini: "Tvoj um je kaleidoskop. Pusti kreativnost kroz riječi, boje ili pokret.",
-    cancer: "Emocije hrane tvoju umjetnost. Usmjeri osjećaje u nešto što govori umjesto tebe.",
-    leo: "Rođen si da blistaš. Stvori nešto što odražava tvoju unutarnju briljantnost.",
-    virgo: "Struktura može biti kreativna. Organiziraj misli u nešto elegantno i korisno.",
-    libra: "Estetska harmonija je tvoja muza. Dizajniraj, ukrasi ili kreiraj nešto lijepo danas.",
-    scorpio: "Tvoja kreativnost je duboka. Istraži teme misterije, transformacije ili želje.",
-    sagittarius: "Avantura hrani maštu. Pusti kreativnost da slobodno luta—bez granica danas.",
-    capricorn: "Izgradi nešto trajno. Tvoja kreativnost cvjeta kada je povezana sa svrhom.",
-    aquarius: "Izmisli nešto divlje. Tvoja originalnost je potrebna—ne zadržavaj se.",
-    pisces: "Snovi su tvoja platna. Neka intuicija vodi tvoje kreativno izražavanje."
-  },
-  "2025-09-21": {
-    theme: "Iscjeljenje",
-    aries: "Iscjeljenje nije slabost—ono je snaga. Dopusti si odmor i obnovu bez krivnje.",
-    taurus: "Udobnost je iscjeljujuća. Uživaj u nečemu umirujućem i pusti tijelo da izdahne.",
-    gemini: "Izgovori to. Iscjeljenje počinje kada daš glas onome što je bilo potisnuto.",
-    cancer: "Tvom srcu danas treba nježnost. Zaštiti svoj mir i poštuj svoje emocije.",
-    leo: "Otpusti ponos. Iscjeljenje dolazi kada priznaš što boli i dopustiš da zacijeli.",
-    virgo: "Savršenstvo nije cilj—cjelovitost jest. Budi nježan prema sebi dok se iscjeljuješ.",
-    libra: "Uravnoteži svoj unutarnji svijet. Iscjeljenje znači njegovanje i radosti i tuge.",
-    scorpio: "Transformacija je iscjeljenje. Odbaci ono što ti više ne služi i uzdigni se obnovljen.",
-    sagittarius: "Pokret iscjeljuje. Šetnja, istezanje ili ples mogu promijeniti tvoju energiju.",
-    capricorn: "Jak si, ali čak i planine erodiraju. Dopusti si da se danas omekšaš.",
-    aquarius: "Iscjeljenje može doći s neočekivanih mjesta. Budi otvoren za nekonvencionalne metode.",
-    pisces: "Pusti suze ako trebaju poteći. Iscjeljenje je sveto, i sigurno je da osjećaš."
-  },
-  "2025-09-22": {
-    theme: "Komunikacija",
-    aries: "Govori hrabro, ali slušaj duboko. Tvoje riječi imaju težinu—koristi ih mudro.",
-    taurus: "Reci ono što misliš. Jasna komunikacija spriječit će buduće nesporazume.",
-    gemini: "Tvoj glas je danas magnetičan. Podijeli ideje—naći će zainteresirane slušatelje.",
-    cancer: "Govori iz srca. Ranjivost će ojačati tvoje veze.",
-    leo: "Tvoja karizma blista kroz riječi. Iskoristi je da podigneš druge, ne da dominiraš.",
-    virgo: "Preciznost je važna. Pažljivo biraj riječi—bit će zapamćene.",
-    libra: "Diplomacija je tvoj dar. Iskoristi je da premostiš razlike i ublažiš napetosti.",
-    scorpio: "Reci ono što si zadržavao. Istina više iscjeljuje nego tišina.",
-    sagittarius: "Tvoja iskrenost je osvježavajuća. Samo pazi da bude obavijena ljubaznošću.",
-    capricorn: "Izrazi svoje granice. Poštovanje počinje jasnoćom.",
-    aquarius: "Tvoje ideje izazivaju norme. Podijeli ih s hrabrošću i znatiželjom.",
-    pisces: "Poetika živi u tvom glasu. Izrazi se kroz umjetnost, glazbu ili metaforu."
-  },
-  "2025-09-23": {
-    theme: "Donošenje odluka",
-    aries: "Vjeruj svom osjećaju. Pravi izbor možda nije najlakši, ali će te osnažiti.",
-    taurus: "Uzmi si vremena. Dobro promišljena odluka donijet će trajni mir.",
-    gemini: "Ne razmišljaj previše. Odaberi ono što ti djeluje usklađeno, ne samo pametno.",
-    cancer: "Neka emocije vode, ali ne zamagle prosudbu. Ravnoteža je ključ.",
-    leo: "Odaberi hrabro. Tvoja će hrabrost inspirirati druge da te slijede.",
-    virgo: "Analiziraj, pa djeluj. Tvoja jasnoća vodi do pametnog i zadovoljavajućeg ishoda.",
-    libra: "Odmjeri opcije, ali nemoj se zaglaviti. Blagi poticaj naprijed je sve što ti treba.",
-    scorpio: "Odaberi transformaciju. Put koji te plaši možda je onaj koji te oslobađa.",
-    sagittarius: "Reci 'da' rastu. Nova prilika može te proširiti—na dobar način.",
-    capricorn: "Biraj s integritetom. Tvoja reputacija se gradi na odlukama koje donosiš.",
-    aquarius: "Razmišljaj izvan okvira. Nekonvencionalan izbor može biti najautentičniji.",
-    pisces: "Neka intuicija vodi. Odgovor može doći u snu ili tihom trenutku."
-  }
+"2025-09-19": {
+  theme: "Odnosi",
+  aries: "Povezanost raste kad zaustaviš vlastiti plamen i naučiš slušati tišinu drugoga. Tvoja prirodna snaga je akcija, ali danas je dar u prisutnosti. Budi rame, budi uho, budi dah koji smiruje nemir. Kada drugome pokloniš prostor da progovori, pokazuješ ljubav snažniju od riječi. Ponekad najveća hrabrost nije govoriti, već šutjeti i osjećati. Danas tvoje srce ne osvaja svijet, već gradi most povjerenja s onim tko ti je najbliži.",
+  taurus: "Tvoje srce zna graditi temelje, a tvoje ruke znaju pružiti mir. U odnosima tvoja snaga je poput stijene – čvrsta, tiha i nepokolebljiva. Danas ponudi nekome sigurnost, i gledaj kako povjerenje cvjeta poput ruže na proljetnom suncu. Ljubav se ne rađa u velikim riječima, već u malim, stalnim gestama. Kada pokažeš da si tu, bez obzira na oluje, drugi u tebi pronalaze utočište. Tvoja ljubav je dom u kojem se srce osjeća sigurno.",
+  gemini: "Tvoja riječ pleše, a tvoj smijeh otvara vrata srcima. Danas i najlakša razmjena može postati sjeme dubokog razumijevanja. Ne podcjenjuj moć igre – jer u lakoći često leži istina. Ljudi vole tvoju zaigranu prirodu, ali iza nje se krije dar povezivanja. Jedna šala, jedna iskrena misao, može nekome osvijetliti put. Ti si most između srca, tkalac razgovora u kojem se rađa bliskost. Danas je tvoja riječ dar, a tvoj osmijeh ključ.",
+  cancer: "U tvojoj nježnosti leži ocean ljubavi. Danas netko tiho čeka tvoju toplinu, ne tražeći je naglas, ali ti osjećaš poziv. Tvoja prisutnost je poput meke svjetlosti koja smiruje tamu. Kada nekoga zagrliš svojom brigom, on se sjeti da nije sam. Tvoja snaga nije u velikim gestama, već u suptilnom razumijevanju koje liječi. U odnosima si utočište, luka u kojoj se ranjena srca odmaraju. Danas je tvoj dar suosjećanje koje gradi povjerenje.",
+  leo: "Sunce si, ali danas svijet ne treba tvoje zrake, već tvoju toplinu. Ljepota odnosa cvjeta kada pažnju ne tražiš, već je daruješ. Vodi srce s empatijom, ne s ponosom. Tvoj sjaj je snažan, ali ono što osvaja duše jest tvoja velikodušna nježnost. Kad nekome pružiš osjećaj da je viđen i važan, tvoje svjetlo postaje ljubav. Danas tvoja snaga nije u centru pozornice, već u tihoj gesti koja gradi neuništivu bliskost.",
+  virgo: "Tvoja misao analizira, ali srce traži jasnoću. U odnosima rasteš kad prestaneš nagađati i počneš govoriti iskreno. Tvoje potrebe zaslužuju glas, a tvoja istina prostor. Danas otvori vrata iskrenoj komunikaciji – ona briše zidove i gradi povjerenje. Ljudi oko tebe žele znati što ti je važno. Kad se pokažeš ranjivim kroz istinu, daješ priliku drugima da te upoznaju dublje. Odnos cvjeta kad prestaneš šutjeti i počneš dijeliti ono što osjećaš.",
+  libra: "Tvoje srce traži sklad, ali harmonija nije uvijek tišina. Danas je nježna istina lijek koji iscjeljuje više od skrivanja. Ljubav ne živi u izbjegavanju, već u hrabrosti da kažeš ono što je stvarno. Kada nježno izgovoriš ono što osjećaš, pokazuješ poštovanje – i prema sebi i prema drugome. Balans nije savršenstvo bez sjene, već ples svjetla i tame. U odnosima si most, a danas tvoj dar je hrabrost koja gradi dublju bliskost.",
+  scorpio: "Tvoja dubina je ocean u kojem drugi nalaze odraz vlastitih tajni. U odnosima daješ najviše kada se usudiš otvoriti vrata svoje duše. Povjerenje za tebe nije lako, ali kada ga daruješ, ono postaje sveto. Danas pokaži svoje emocije onome tko je dostojan tvoje istine. Tvoja ranjivost nije slabost, već snaga koja privlači iskrenu ljubav. Kada netko osjeti tvoju autentičnost, odnos postaje oganj koji ne gasi vrijeme. Tvoja iskrenost je magnet za bliskost.",
+  sagittarius: "Sloboda je tvoje nebo, ali odnosi su tvoja zemlja. Danas zastani i razmisli – kako spojiti jedno i drugo? Tvoje srce voli širinu, ali prava bliskost traži predanost. Ne moraš birati, već pronaći ravnotežu. Kad podijeliš svoje snove s nekim, on postaje suputnik na tvom putu. Tvoja iskrenost je dar koji gradi povjerenje, a tvoj entuzijazam toplina koja drži odnos živim. Ljubav je putovanje, a ti biraš hoće li biti zajedničko.",
+  capricorn: "U tvom srcu odanost živi poput planine – tiha, ali nepokolebljiva. U odnosima si oslonac, a danas je tvoj dar prisutnost bez potrebe za priznanjem. Tvoje djelovanje govori više od riječi, a tvoja dosljednost gradi mostove jače od obećanja. Ljudi se uz tebe osjećaju sigurno jer znaju da ne odustaješ. Iako rijetko pokazuješ emocije naglas, tvoja briga je vidljiva u djelima. Danas ljubav znači biti tu, u tišini, u vjernosti, u snazi.",
+  aquarius: "Tvoja duša voli hodati stazama koje drugi ne vide. Danas ti se otvara prilika za susrete koji dolaze izvan uobičajenog kruga. Neobične povezanosti mogu ti donijeti uvid ili radost koju nisi očekivao. Tvoja originalnost privlači ljude jer im pokazuješ da postoji i drugačiji put. Kada ostaneš otvoren, odnosi ti šire horizonte. Ljubav za tebe nije okvir, već prostor slobode i prihvaćanja. Danas tvoje srce gradi most prema onome što je jedinstveno i istinsko.",
+  pisces: "Tvoja osjetljivost je poput rijeke – nosi te duboko u tuđe emocije. No danas nauči razlikovati suosjećanje od preuzimanja boli. Tvoja intuicija je dar koji može iscijeliti, ali samo ako ga koristiš s granicama. Ljudi se uz tebe osjećaju shvaćeno jer čuješ tišinu njihovih srca. Tvoja nježnost je svjetlost koja obasjava sjene. U odnosima si pjesma, melodija koja smiruje dušu. Danas je tvoja moć u tome da osjetiš – ali ostaneš svoj."
+},
+
+"2025-09-20": {
+  theme: "Kreativnost",
+  aries: "Tvoje ideje gore poput iskrica koje čekaju da se rasplamsaju u plamen. Ne traži dopuštenje da izraziš ono što gori u tebi – tvoja je snaga u hrabrosti da stvaraš sada i ovdje. Danas je vrijeme da povjeruješ vlastitoj vatri, jer tvoje stvaralaštvo ne treba potvrdu drugih. Kada dopustiš sebi da stvoriš bez straha, otkrivaš snagu koja pokreće i tebe i one oko tebe. Tvoja mašta je oružje, a danas – tvoja istina.",
+  taurus: "Ljepota je tvoje nadahnuće, a tvoja osjetila vrata prema kreativnosti. Danas okruži sebe umjetnošću, glazbom, mirisima ili prirodom – sve ono što budi tvoju dušu. Kada upiješ ljepotu svijeta, tvoje stvaranje poprima oblik koji je i miran i snažan. U tebi živi umjetnik koji stvara iz dodira i osjeta. Dovoljno je da zastaneš i pogledaš svijet oko sebe – i već tada u tebi niče ideja spremna za oblikovanje u nešto posebno.",
+  gemini: "Tvoj um je kaleidoskop boja, riječi i pokreta. Danas dopusti toj razigranoj energiji da izađe van i pronađe svoje platno – bilo da je to razgovor, pisanje, slikanje ili ples. Tvoja kreativnost ne poznaje granice jer izvire iz radoznalosti. Kada spojiš različite ideje, nastaje čarolija koja inspirira i druge. U tvojoj mašti svijet je uvijek u pokretu, a današnji dan traži da ga pustiš da se izrazi kroz tvoju igru i tvoju riječ.",
+  cancer: "Emocije su tvoji najdublji izvori stvaralaštva. Sve ono što osjećaš, danas možeš pretvoriti u umjetnost koja govori umjesto tebe. Bilo kroz pisanu riječ, glazbu ili slike, tvoje srce zna pronaći put da izrazi ono što je skriveno. Tvoja kreativnost hrani se osjećajima i zato je toliko autentična i snažna. Kada dopustiš emocijama da slobodno teku, tvoje stvaranje postaje lijek – i za tebe i za one koji ga dožive.",
+  leo: "Rođen si da blistaš, a danas tvoje svjetlo traži oblik u stvaranju. Kreativnost ti daje priliku da pokažeš svijet svoju unutarnju briljantnost – kroz umjetnost, pokret ili djelo koje ostavlja trag. Ne boj se stvoriti nešto što odražava tvoje pravo ja, jer tvoje stvaranje nosi toplinu i inspiraciju. Kad se prepustiš svojoj strasti, sve što dotakneš poprima sjaj. Danas tvoje srce stvara sunčevu pjesmu koju svijet čeka da čuje.",
+  virgo: "Za tebe kreativnost nije kaos, već struktura koja gradi ljepotu. Danas organiziraj svoje misli, ideje ili osjećaje u nešto što će postati korisno i elegantno. Tvoja moć leži u sposobnosti da stvoriš red koji blista jednostavnošću. Kada posložiš ono što ti je važno, otvara se prostor za jasno stvaralaštvo koje govori i drugima. Tvoja umjetnost je u detaljima, a danas svaki mali korak vodi prema djelu koje zrači skladom.",
+  libra: "Estetika i harmonija tvoje su muze. Danas se okreni svemu što može donijeti ljepotu – bilo kroz dizajn, uređenje prostora, crtanje ili jednostavno usklađivanje boja i oblika oko sebe. Tvoja kreativnost izvire iz osjećaja za ravnotežu i sklad. Kada stvaraš iz tog unutarnjeg mira, svijet oko tebe postaje ljepši. Tvoje oko vidi proporcije i ljepotu koje drugi ne primjećuju, a današnji dan je poziv da tu viziju podijeliš sa svijetom.",
+  scorpio: "Tvoja kreativnost izvire iz dubina koje drugi rijetko dotiču. Danas usmjeri svoju maštu prema temama misterije, transformacije ili strasti koje gori u tebi. Tvoje stvaranje ima moć da razotkrije skrivene slojeve života, da otvori oči i srca. Ne boj se tamnih tonova u svom izrazu – oni su dio tvoje snage i daju tvojoj umjetnosti dubinu. Kada stvaraš iz vlastitih unutarnjih dubina, tvoje djelo postaje ogledalo istine i moćne emocije.",
+  sagittarius: "Tvoja kreativnost hrani se slobodom i pustolovinom. Danas dopusti svojoj mašti da luta bez granica, da istražuje nova područja i ideje. Kada se povežeš s onim što ti daje osjećaj širine, tvoje stvaranje postaje iskra koja pokreće druge. U tvom izrazu uvijek živi radost otkrića i entuzijazam za život. Sve što stvoriš danas, nosit će duh avanture i slobode. Tvoja umjetnost je putovanje, a svaki korak vodi prema novom horizontu.",
+  capricorn: "Za tebe kreativnost nije prolazna iskra, već gradnja nečega što traje. Danas stvori djelo koje ima svrhu i stabilnost, nešto na što ćeš se ponosno osvrnuti. Tvoja moć je u tome da spojiš disciplinu i maštu, i tako izgradiš most između snova i stvarnosti. Kada usmjeriš svoju energiju u djelo koje ima temelje, tvoje stvaranje postaje nasljeđe. Danas tvoja kreativnost cvjeta kada joj daš smisao i cilj koji nadilazi trenutak.",
+  aquarius: "Tvoja originalnost danas traži svoj oblik. Izmisli nešto novo, nešto neočekivano – jer tvoje ideje svijetu donose svježinu i drugačiji pogled. Ne ograničavaj se pravilima ili mišljenjima drugih, jer tvoja kreativnost živi izvan okvira. Kada pustiš da tvoja mašta slobodno teče, nastaje nešto što može inspirirati zajednicu i promijeniti pogled na stvarnost. Tvoja je snaga u tome da vidiš ono što drugi ne vide, i to danas trebaš izraziti.",
+  pisces: "Tvoji snovi su platna, a tvoja intuicija kist. Danas dopusti svojoj mašti da vodi tvoje ruke, riječi ili glas i stvori nešto što nosi duh tvog unutarnjeg svijeta. Tvoja osjetljivost daje boju svakom tvom izrazu, a tvoja umjetnost dodiruje srca jer izvire iz duše. Kada se prepustiš tom toku, tvoje stvaranje postaje pjesma između svjetova. Danas tvoja kreativnost nije samo izraz – to je most između sna i stvarnosti, nježan i moćan u isto vrijeme."
+},
+
+"2025-09-21": {
+  theme: "Iscjeljenje",
+  aries: "Iscjeljenje nije znak slabosti, već dokaz tvoje unutarnje snage. Tvoje tijelo i duša danas traže predah i obnovu. Nema krivnje u odmoru, jer upravo u tišini i miru pronalaziš novu snagu za buduće korake. Kada dopustiš sebi da staneš i udahneš, iscjeljenje se počinje odvijati prirodno. Budi nježan prema sebi, jer tvoje srce zaslužuje mir isto onako kako zaslužuješ i pobjede. Danas tvoje iscjeljenje postaje tvoj pravi izvor moći.",
+  taurus: "Za tebe iscjeljenje dolazi kroz udobnost i dodir života koji smiruje. Danas se prepusti stvarima koje hrane tvoja osjetila – meka deka, mirisna šalica čaja, šetnja prirodom ili topla glazba. Kada tvoje tijelo i srce osjete sigurnost i mir, iscjeljenje se budi iznutra. Ne trebaš se gurati naprijed, već nježno njegovati sebe. Tvoja sposobnost da pronađeš mir u jednostavnim stvarima otvara vrata tvojoj unutarnjoj ravnoteži i obnovi.",
+  gemini: "Za tebe iscjeljenje započinje riječima. Ono što je dugo ostalo neizgovoreno, danas traži svoj glas. Možda je to razgovor s nekim kome vjeruješ, možda pisanje u bilježnicu, možda šapat u tišini. Kada podijeliš ono što je u tebi, oslobađaš prostor za lakoću i mir. Tvoje misli trebaju letjeti, a ne biti zarobljene u tišini. Danas otpuštaš teret kroz izražavanje, i otkrivaš da iscjeljenje dolazi kada se istina konačno pusti van.",
+  cancer: "Tvome srcu danas je potrebna nježnost i prostor da se osjeti sigurno. Nisi dužan svima biti oslonac – sada je vrijeme da zaštitiš vlastiti mir. Tvoje emocije zaslužuju poštovanje, a iscjeljenje se rađa kad dopustiš sebi da ih osjetiš bez srama. Budi u okruženju koje ti donosi toplinu i sigurnost. Kada njeguješ vlastite osjećaje, otvaraš put unutarnjoj ravnoteži. Danas tvoje iscjeljenje dolazi iz brige o sebi i nježnosti koju daješ vlastitom srcu.",
+  leo: "Tvoja snaga često se skriva iza ponosa, ali pravo iscjeljenje dolazi kada dopustiš sebi da priznaš što boli. Danas pusti svoj ponos i osluškuj rane koje žele biti viđene. Kada ih priznaš, počinju zacjeljivati. Snaga nije u skrivanju, već u otvorenosti prema vlastitoj ranjivosti. Kad pokažeš sebi nježnost, tvoja unutarnja svjetlost sja još jače. Danas tvoje iscjeljenje počinje s iskrenošću i završava s oslobođenim srcem.",
+  virgo: "Savršenstvo nikada nije bio cilj tvoje duše – ono što istinski tražiš je cjelovitost. Danas učiš da iscjeljenje dolazi kroz prihvaćanje, a ne kroz kritiku. Tvoje rane nisu dokaz slabosti, već znak da si živ i da rasteš. Budi blag prema sebi i znaj da je proces iscjeljenja put, a ne cilj. Kada pustiš potrebu da sve kontroliraš, otvaraš prostor da se tvoja duša sama obnavlja. Danas tvoje iscjeljenje znači prihvatiti sebe sa svim svojim bojama.",
+  libra: "Tvoj unutarnji svijet danas traži ravnotežu između svjetla i sjene. Iscjeljenje za tebe znači prigrliti i radost i tugu, jer obje su jednako vrijedne. Kada njeguješ sve dijelove sebe, pronalaziš mir koji ne ovisi o vanjskim okolnostima. Harmonija se ne rađa iz potiskivanja, već iz prihvaćanja. Danas njeguj svoje srce kroz male rituale ljepote i mira. U ravnoteži između osjećaja leži tvoje iscjeljenje i snaga za novi početak.",
+  scorpio: "Za tebe je iscjeljenje uvijek povezano s transformacijom. Danas se pozivaš da otpustiš ono što ti više ne služi – stare rane, navike ili strahove. Kada odbaciš staru kožu, rađaš se obnovljen. Tvoja moć leži u tome da se ne bojiš dubine, i zato tvoje iscjeljenje donosi snagu rasta i promjene. Budi spreman suočiti se s onim što skrivaš, jer upravo tamo leži tvoja sloboda. Danas je tvoj iscjeljujući čin čin preobražaja.",
+  sagittarius: "Tvoje tijelo i duh iscjeljuju se kroz pokret i slobodu. Danas dopusti sebi da se izraziš kroz šetnju, ples ili istezanje. Kada se tvoje tijelo oslobodi ukočenosti, oslobađa se i tvoja energija. Iscjeljenje ne mora biti tišina – ponekad dolazi kroz kretanje, smijeh i istraživanje. Tvoja priroda traži slobodu, i kada je pronađe, srce se oporavlja. Danas iscjeljenje znači pustiti svoje tijelo i duh da dišu u ritmu života.",
+  capricorn: "Jak si i izdržljiv, ali i planine se s vremenom troše i omekšaju. Danas si pozvan da se odrekneš uloge nepokolebljivog stupa i dopustiš sebi nježnost. Iscjeljenje dolazi kada priznaš da i ti trebaš odmor i toplinu. Tvoja snaga ne nestaje kada se omekšaš – upravo tada postaje još autentičnija. Kada se osloniš na druge ili jednostavno na vlastitu tišinu, tvoje srce pronalazi mir. Danas je iscjeljenje u dopuštanju, a ne u izdržavanju.",
+  aquarius: "Za tebe iscjeljenje ne mora doći na tradicionalan način. Danas budi otvoren za metode koje možda izgledaju neuobičajeno – razgovor s nekim nepoznatim, meditacija, umjetnost ili ideja koja ti iznenada dođe. Tvoja otvorenost prema novim iskustvima stvara prostor za unutarnju obnovu. Kada se oslobodiš očekivanja da sve mora izgledati određeno, iscjeljenje dolazi lakše. Danas tvoje srce pronalazi mir u onome što je jedinstveno i neočekivano.",
+  pisces: "Tvoje srce je poput rijeke, a suze su njen prirodni tok. Danas dopusti sebi da osjetiš i pustiš emocije da slobodno teku. U tom činu leži iscjeljenje, jer osjećaji nisu slabost, već sveta snaga tvog bića. Tvoja intuicija zna da kada se oslobodiš unutarnjeg tereta, prostor se puni svjetlom. Tvoje iscjeljenje dolazi kroz suosjećanje – prvo prema sebi, a onda prema drugima. Danas je sigurno osjećati, i u tome se krije tvoja obnova."
+},
+
+"2025-09-22": {
+  theme: "Komunikacija",
+  aries: "Tvoje riječi danas nose snagu vatre, ali njihova istinska moć dolazi tek kada ih uravnotežiš s tihim slušanjem. Govori hrabro i jasno, no daj prostor i drugima da se izraze. Kada u razgovoru pokažeš otvorenost i poštovanje, tvoje poruke postaju još dublje. Tvoja komunikacija danas ima moć inspirirati i pokrenuti promjenu. Iskoristi tu snagu mudro, jer tvoje riječi mogu zapaliti most ili ga izgraditi.",
+  taurus: "Za tebe je danas ključno govoriti jednostavno i iskreno. Kada jasno izneseš svoje misli, spriječit ćeš nesporazume koji bi mogli kasnije stvoriti udaljenost. Tvoja prirodna smirenost daje tvojoj komunikaciji težinu i pouzdanost. Ne skrivaj ono što osjećaš, jer otvorenost je tvoj put do stabilnih odnosa. Kada izraziš ono što ti je na srcu, ljudi te bolje razumiju i osjećaju sigurnost u tvojoj prisutnosti.",
+  gemini: "Tvoj glas danas nosi magnetsku privlačnost – ljudi žele čuti tvoje ideje i misli. Iskoristi ovu energiju da podijeliš ono što ti je na umu, jer tvoja komunikacija može potaknuti inspiraciju kod drugih. Tvoje riječi plešu i povezuju, stvarajući mostove među ljudima. Kada govoriš, donosiš radost i lakoću, ali i jasne poruke. Danas tvoje izražavanje nije samo razgovor, već kreativni čin koji stvara povezanost.",
+  cancer: "Za tebe je danas važno govoriti iz srca, jer u tvojoj ranjivosti leži prava snaga. Kada pokažeš emocije i izraziš što osjećaš, tvoje veze postaju dublje i autentičnije. Ne boj se biti otvoren, jer iskrenost donosi iscjeljenje. Ljudi koji te vole žele čuti tvoju istinu, baš onakvu kakva jest. Tvoje riječi danas mogu biti poput nježnog dodira koji smiruje i gradi povjerenje tamo gdje je potrebno.",
+  leo: "Tvoja prirodna karizma sjaji kroz način na koji govoriš, ali danas si pozvan koristiti tu moć da podižeš druge, a ne da dominiraš. Kada tvoje riječi budu obasjane toplinom i velikodušnošću, one nadahnjuju i osnažuju. Ljudi se uz tebe osjećaju viđeno i vrijedno. Tvoja komunikacija može biti kraljevski dar – kada dijeliš pozornost i inspiraciju, tvoje riječi postaju svjetlo koje gradi, a ne zasjenjuje.",
+  virgo: "Danas je tvoja preciznost u komunikaciji dar. Svaka riječ koju izgovoriš može ostaviti snažan dojam, zato ih biraj pažljivo. Tvoja sposobnost jasnoće pomaže drugima da bolje razumiju situacije i osjećaje. Ne moraš govoriti puno – dovoljno je da tvoje riječi budu točne i iskrene. Kada preneseš misli s jasnoćom i toplinom, tvoje poruke postaju putokaz koji drugi pamte i slijede s povjerenjem.",
+  libra: "Tvoja diplomacija danas je ključ za smirivanje napetosti i građenje mostova. Imaš dar izgovoriti stvari tako da se svi osjećaju poštovani i uvaženi. Iskoristi tu sposobnost kako bi ujedinjavao, a ne razdvajao. Kada tvoja riječ donosi sklad, ljudi te prepoznaju kao oslonac. Tvoja komunikacija može unijeti ljepotu i ravnotežu u razgovore, donoseći jasnoću i mir tamo gdje je možda bila napetost.",
+  scorpio: "U tvom srcu postoji istina koju si dugo zadržavao, a danas je vrijeme da je izgovoriš. Tišina može skrivati, ali rijetko iscjeljuje. Kada pokažeš hrabrost i progovoriš, tvoje riječi donose oslobođenje i tebi i drugima. Tvoja komunikacija nosi dubinu i snagu koja prodire ispod površine. Ne boj se dijeliti ono što je skriveno – jer upravo u istini leži iscjeljenje i transformacija odnosa.",
+  sagittarius: "Tvoja iskrenost je poput svježeg povjetarca – ona osvježava i razbistrava razgovore. No danas se sjeti da tvoje riječi, iako istinite, trebaju biti obavijene ljubaznošću. Kada govoriš s toplinom, tvoje poruke imaju još veći utjecaj. Ljudi cijene tvoju otvorenost i optimizam, a tvoja komunikacija može ih inspirirati i podići. Danas je tvoja riječ putokaz koji vodi druge prema novim perspektivama.",
+  capricorn: "Danas je važno da jasno izraziš svoje granice. Kada komuniciraš s poštovanjem, ali i odlučno, drugi razumiju tvoje potrebe i osjećaje. Tvoje riječi nose autoritet, ali i mir – i zato imaju snagu oblikovati odnose na zdrav način. Nemoj se bojati reći 'ne' kada je to potrebno. Iskrenost i jasnoća nisu tvrdoća, već čin ljubavi prema sebi. Danas tvoje granice postaju temelj za međusobno poštovanje.",
+  aquarius: "Tvoje ideje često ruše granice i izazivaju norme – a danas je dan da ih podijeliš. Ljudi žele čuti tvoje vizije, jer u tvojoj komunikaciji leži hrabrost i originalnost. Ne zadržavaj ono što te čini jedinstvenim. Kada govoriš s otvorenošću i znatiželjom, tvoje riječi mogu pokrenuti razmišljanja i promjene kod drugih. Tvoja komunikacija je iskra koja pali plamen novih mogućnosti i perspektiva.",
+  pisces: "Tvoj glas danas nosi poeziju i sanjivost. Tvoje riječi nisu samo komunikacija, već umjetnost koja dodiruje dušu. Izrazi se kroz metaforu, glazbu ili umjetnički oblik – jer tvoja poruka često najbolje živi u simbolima i slikama. Ljudi oko tebe osjećaju tvoju nježnost i dubinu kroz način na koji govoriš. Danas tvoja komunikacija može biti poput pjesme koja iscjeljuje, nadahnjuje i otvara srca."
+},
+
+ "2025-09-23": {
+  theme: "Donošenje odluka",
+  aries: "Danas si pozvan vjerovati svom unutarnjem osjećaju, jer tvoja intuicija zna put i onda kada logika koleba. Pravi izbor neće uvijek biti najlakši niti najbrži, ali će ti donijeti snagu i samopouzdanje da kreneš naprijed. Tvoja odluka može zahtijevati hrabrost i odricanje, no upravo kroz taj čin raste tvoja unutarnja moć. Ne boj se koraka u nepoznato – kada slušaš svoje srce, ono te vodi na mjesto gdje pripadaš.",
+  taurus: "Za tebe je donošenje odluka danas povezano s vremenom i strpljenjem. Kada dopustiš sebi da mirno razmotriš sve opcije, donosiš odluku koja je čvrsta i dugotrajna. Tvoja mudrost dolazi iz sposobnosti da promatraš širu sliku i ne dopuštaš naglosti da ti pomuti vid. Kada biraš smireno, donosiš sebi i drugima osjećaj sigurnosti. Danas tvoja odluka nije samo trenutni izbor, već ulaganje u dugoročni mir i stabilnost.",
+  gemini: "Tvoj um danas može letjeti na sve strane, nudeći ti previše mogućnosti. No istina je da nije uvijek potrebno previše razmišljati. Tvoj pravi izbor leži u onome što se osjeća usklađeno s tobom, a ne samo u onome što izgleda najpametnije na papiru. Kada pratiš ono što ti daje lakoću i sklad, tvoja odluka postaje prirodna. Vjeruj svojoj intuiciji i dopusti da ti pokaže jednostavan put – onaj koji je zaista tvoj.",
+  cancer: "Danas tvoje emocije imaju veliku ulogu u odlukama koje donosiš. One ti mogu pokazati što je istinski važno, ali pazi da ne zamagle tvoju prosudbu. Ključ je pronaći ravnotežu između srca i razuma. Kada uskladiš osjećaje sa zdravom dozom logike, tvoje odluke donose mir i snagu. Vjeruj svom srcu, ali ne zaboravi zastati i promotriti sve strane. Danas možeš odabrati put koji njeguje i tebe i tvoje odnose.",
+  leo: "Tvoje odluke danas traže hrabrost i jasnoću. Kada odabereš s otvorenim srcem i bez straha, tvoji postupci postaju inspiracija drugima. Ljudi oko tebe gledaju u tvoju snagu i hrabrost, a tvoje riječi i postupci im daju vjeru da i sami mogu riskirati. Put možda neće biti lak, ali tvoje srce zna što je ispravno. Danas tvoja odluka nije samo tvoj korak – ona može postati primjer koji svijetli i drugima na putu.",
+  virgo: "Za tebe je važno analizirati sve detalje i sagledati situaciju iz svih kutova, no današnji izazov je ne ostati zarobljen u analizi. Kada jednom stekneš jasnoću, vrijeme je da djeluješ. Tvoja sposobnost preciznog promišljanja vodi te prema mudrim i korisnim odlukama. Danas možeš spojiti svoju logiku i intuiciju kako bi donio izbor koji će biti i praktičan i zadovoljavajući. Tvoja jasnoća postaje tvoja najveća snaga.",
+  libra: "Tvoje srce i um danas žele izvagati sve opcije, i to je tvoj dar. Ali pazi da se ne izgubiš u beskonačnom odmjeravanju. Ponekad je dovoljan samo blagi poticaj naprijed da pokreneš energiju i pronađeš pravi smjer. Kada vjeruješ svojoj unutarnjoj ravnoteži, tvoje odluke postaju harmonične i pravedne. Danas nauči da nije nužno imati savršen izbor – dovoljno je učiniti korak u pravom trenutku i mir će slijediti.",
+  scorpio: "Za tebe odluka nikada nije površna – danas biraš put koji ti donosi duboku transformaciju. Ono što te možda plaši zapravo je ono što te oslobađa. Kada se odvažiš na izbor koji zahtijeva hrabrost i promjenu, pronalaziš svoju pravu snagu. Tvoja odluka danas može značiti kraj starog i početak novog života. Vjeruj da iza straha stoji sloboda, i odaberi ono što će ti omogućiti rast i unutarnju moć.",
+  sagittarius: "Danas je tvoja odluka povezana s rastom i širenjem horizonata. Kada kažeš 'da' novoj prilici, otvaraš vrata iskustvima koja te mogu obogatiti i proširiti tvoje vidike. Tvoja prirodna želja za istraživanjem i slobodom sada te vodi prema izboru koji ti donosi radost i uzbuđenje. Ne boj se riskirati, jer tvoje srce zna da svaki novi put nosi priliku za učenje i zabavu. Danas je pravo vrijeme za odluku koja oslobađa.",
+  capricorn: "Za tebe su odluke temelj tvoje reputacije i integriteta. Danas je ključno birati s jasnoćom i sviješću da svaki izbor oblikuje tvoju budućnost. Kada odlučiš u skladu s vlastitim vrijednostima, tvoje odluke postaju čvrste i poštovane. Ne dopusti da te pritisak ili vanjski utjecaji odvuku – tvoja snaga leži u tvom karakteru. Danas će tvoje odluke ostaviti trag, stoga biraj onako kako bi želio da te pamte.",
+  aquarius: "Tvoj um danas traži nekonvencionalne puteve i rješenja. Odluka koja se možda drugima čini neobičnom, za tebe može biti najautentičnija i najoslobodnija. Kada biraš izvan okvira, otvaraš vrata svom pravom ja i inspiriraš druge da misle drugačije. Nemoj se bojati slijediti svoj jedinstveni put – tvoje odluke imaju snagu promijeniti tvoju stvarnost i donijeti originalna rješenja. Danas hrabro izaberi ono što ti je istinski blisko.",
+  pisces: "Tvoja intuicija danas je tvoj najbolji vodič u donošenju odluka. Odgovor možda neće doći kroz analizu, već kroz tišinu, san ili trenutak unutarnjeg uvida. Kada vjeruješ toj suptilnoj poruci, tvoje odluke vode te u pravom smjeru. Tvoja osjetljivost i povezanost s unutarnjim svijetom pomažu ti da biraš ono što je u skladu s tvojom dušom. Danas dopusti intuiciji da ti pokaže put i otkrit ćeš da znaš više nego što misliš."
+}
 });
 
 
@@ -259,81 +264,85 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-  "2025-09-24": {
-    theme: "Samopouzdanje",
-    aries: "Dovoljan si, čak i bez priznanja. Danas stani ponosno u svoju istinu.",
-    taurus: "Tvoja vrijednost nije u onome što stvaraš—već u tome tko jesi. Odmori u tom saznanju.",
-    gemini: "Ne moraš se dokazivati. Tvoj glas vrijedi jer je tvoj.",
-    cancer: "Tvoja osjetljivost je snaga. Ne dopusti nikome da te uvjeri u suprotno.",
-    leo: "Prirodno blistaš—ne moraš tražiti potvrdu. Vlasništvo nad svojom svjetlošću danas je tiho.",
-    virgo: "Savršenstvo nije tvoja vrijednost. Vrijedan si čak i u svojim najneurednijim trenucima.",
-    libra: "Unosiš ljepotu u svijet samim svojim postojanjem. Neka to bude dovoljno danas.",
-    scorpio: "Tvoja dubina je rijetka. Ne smanjuj se da bi stao u plitke okvire.",
-    sagittarius: "Tvoja sloboda je sveta. Ne kompromitiraj je radi odobravanja.",
-    capricorn: "Više si od svojih postignuća. Tvoja vrijednost nije popis zadataka.",
-    aquarius: "Tvoja jedinstvenost je dar. Ne razvodnjavaj je da bi bio shvaćen.",
-    pisces: "Tvoji snovi su važni. Vrijedan si magije u koju vjeruješ."
-  },
-  "2025-09-25": {
-    theme: "Fokus",
-    aries: "Usmjeri svoju energiju na jedan cilj. Raspršeni napori ti danas neće pomoći.",
-    taurus: "Polako i sigurno pobjeđuje. Usredotoči se na zadatak koji donosi dugoročni mir.",
-    gemini: "Um ti je zauzet—odaberi jednu ideju i slijedi je do kraja.",
-    cancer: "Emocionalna jasnoća dolazi kada se fokusiraš na ono što je zaista važno.",
-    leo: "Tvoja strast treba smjer. Fokus pretvara vatru u gorivo.",
-    virgo: "Uspijevaš u preciznosti. Danas fokus izoštrava tvoje prirodne darove.",
-    libra: "Uravnoteži svoju pažnju. Ne zanemari ono što tiho traži brigu.",
-    scorpio: "Usredotoči se na transformaciju. Nešto staro mora otići da bi se stvorio prostor.",
-    sagittarius: "Avantura je primamljiva, ali fokus donosi dublje zadovoljstvo danas.",
-    capricorn: "Gradiš nešto trajno. Fokus je tvoj temelj.",
-    aquarius: "Tvoje ideje su briljantne—odaberi jednu i ostvari je.",
-    pisces: "Usmjeri svoju intuiciju. Jedan uvid može voditi cijeli dan."
-  },
-  "2025-09-26": {
-    theme: "Zahvalnost",
-    aries: "Zastani i cijeni koliko si daleko stigao. Zahvalnost pokreće tvoj sljedeći skok.",
-    taurus: "Pronađi radost u jednostavnim stvarima. Zahvalnost je tvoja sidrena snaga danas.",
-    gemini: "Zahvali onima koji su te slušali. Tvoje veze su tvoje najveće bogatstvo.",
-    cancer: "Zahvalnost omekšava tvoje srce. Neka te obaspe poput toplog vala.",
-    leo: "Proslavi svoje uspjehe, ali i one koji su ti pomogli da ih postigneš.",
-    virgo: "Zahvalnost za nesavršenost donosi mir. Pusti potrebu da sve popraviš.",
-    libra: "Zahvali ljepoti oko sebe. Zahvalnost je tvoje ogledalo danas.",
-    scorpio: "Zahvalnost za tvoju dubinu donosi iscjeljenje. Više si od svojih sjena.",
-    sagittarius: "Budi zahvalan na putovanju, ne samo na odredištu.",
-    capricorn: "Zahvalnost za trud je važna. Priznaj svoj vlastiti naporan rad.",
-    aquarius: "Zahvali nekonvencionalnim putevima—oni su oblikovali tvoju briljantnost.",
-    pisces: "Zahvalnost otvara tvoje srce. Neka slobodno teče i preobrazi tvoj dan."
-  },
-  "2025-09-27": {
-    theme: "Granice",
-    aries: "Reci 'ne' bez krivnje. Granice štite tvoju vatru od izgaranja.",
-    taurus: "Drži svoj stav. Granice su oblik samopoštovanja.",
-    gemini: "Jasno izgovori svoje granice. Zbunjenost nestaje kad si iskren.",
-    cancer: "Emocionalne granice su važne. Ne moraš nositi tuđu bol.",
-    leo: "Zaštiti svoju energiju. Ne zaslužuju svi tvoju pozornost.",
-    virgo: "Granice donose jasnoću. Odredi što je tvoje za popraviti—a što nije.",
-    libra: "Ravnoteža ne znači pretjerano davanje. Granice vraćaju harmoniju.",
-    scorpio: "Čuvaj svoju dubinu. Nisu svi spremni za tvoju istinu.",
-    sagittarius: "Sloboda treba granice također. Reci 'da' samo kad to zaista osjećaš.",
-    capricorn: "Granice grade snagu. Ne duguješ pristup svima.",
-    aquarius: "Tvoj prostor je svet. Zaštiti ga od ometanja i buke.",
-    pisces: "Suosjećanje treba granice. Možeš brinuti bez da izgubiš sebe."
-  },
-  "2025-09-28": {
-    theme: "Radost",
-    aries: "Neka radost bude glasna danas. Pleši, smij se i pusti duhu da se oslobodi.",
-    taurus: "Uživaj u nečemu ukusnom. Radost živi u osjetilima.",
-    gemini: "Podijeli šalu, priču, osmijeh. Radost se množi kad se izgovori.",
-    cancer: "Neka radost omekša tvoje srce. Zaslužuješ lakoću danas.",
-    leo: "Proslavi sebe. Radost je tvoje prirodno stanje—vrati se k njemu.",
-    virgo: "Pronađi radost u redu. Čist prostor ili dovršen zadatak donosi mir.",
-    libra: "Ljepota donosi radost. Okruži se onim što raduje tvoju dušu.",
-    scorpio: "Neka te radost iznenadi. Čak i u misteriji, smijeh može procvjetati.",
-    sagittarius: "Avantura je radost. Reci 'da' nečemu spontanom.",
-    capricorn: "Radost je također produktivna. Neka sreća pokrene tvoje ambicije.",
-    aquarius: "Radost je pobuna. Budi čudan, divlji i prekrasno svoj.",
-    pisces: "Plivaj u radosti. Glazba, umjetnost i snovi su tvoje igralište danas."
-  }
+"2025-09-24": {
+  theme: "Samopouzdanje",
+  aries: "Danas si pozvan stati ponosno u svoju istinu i znati da si dovoljan upravo takav kakav jesi. Ne treba ti priznanje izvana da bi znao svoju vrijednost. Kada stojiš uspravno i s vjerom u sebe, tvoja prisutnost postaje jasna i moćna. Ljudi osjećaju tvoju autentičnost, ali najvažnije je da je osjetiš ti sam. Tvoje samopouzdanje danas ne dolazi iz pobjeda, već iz unutarnjeg prihvaćanja i ljubavi prema sebi.",
+  taurus: "Tvoja vrijednost ne mjeri se onim što proizvedeš ili postigneš, već time što jesi u svojoj biti. Danas si pozvan odmoriti u tom spoznaju i prestati vezivati svoje samopouzdanje uz rezultate. Tvoje postojanje samo po sebi unosi mir i stabilnost drugima. Kada prestaneš tražiti potvrdu u vanjskim stvarima, otkrivaš da si već cjelovit i dovoljan. Tvoje srce zna da je vrijednost u autentičnosti, a ne u učinku.",
+  gemini: "Danas ti nije potrebno dokazivanje, jer tvoj glas ima vrijednost samim time što je tvoj. Kada govoriš iz srca i dijeliš svoje misli, tvoje riječi pronalaze one kojima su potrebne. Samopouzdanje ne dolazi iz toga da uvjeriš druge, već iz toga da vjeruješ sebi. Tvoja autentičnost i radoznalost su tvoje darove. Ne traži vanjske potvrde – kada stojiš iza svojih misli i osjećaja, tvoje riječi sjaje istinom.",
+  cancer: "Tvoja osjetljivost nije slabost, već tvoja istinska snaga. Danas budi ponosan na svoju sposobnost da osjetiš, suosjećaš i povezuješ se s drugima. Nemoj dopustiti nikome da te uvjeri u suprotno, jer tvoje emocije su dar koji liječi i tebe i druge. Samopouzdanje dolazi kada prigrliš svoj nježan, ali snažan duh. Danas znaj da u tvojoj ranjivosti leži hrabrost i da je tvoje srce ono što te čini posebnim.",
+  leo: "Ti prirodno blistaš, i danas je vrijeme da se prisjetiš da tvoja svjetlost ne treba potvrdu izvana. Kada prigrliš vlastitu unutarnju moć bez potrebe da je drugi odobravaju, tvoje samopouzdanje postaje tiho i postojano. Ne moraš dokazivati niti tražiti priznanja – dovoljan si ovakav kakav jesi. Tvoja prisutnost već govori sve. Danas tvoje samopouzdanje sjaji kroz tvoju prirodnu toplinu i autentičnost.",
+  virgo: "Tvoja vrijednost nikada nije bila vezana uz savršenstvo. Čak i u svojim najneurednijim i nesavršenim trenucima, ti si vrijedan i dovoljan. Danas je vrijeme da prigrliš svoju ljudskost i otpustiš očekivanja koja si sam sebi nametnuo. Kada vidiš ljepotu u vlastitim nesavršenostima, tvoje samopouzdanje cvjeta. Ti nisi zbirka zadataka i detalja – ti si cijela osoba koja zaslužuje ljubav upravo sada.",
+  libra: "Ti unosiš ljepotu u svijet jednostavno svojim postojanjem, bez potrebe da išta dokazuješ ili mijenjaš. Danas je vrijeme da prigrliš tu spoznaju i dopustiš da bude dovoljno to što jesi. Tvoje samopouzdanje raste kada shvatiš da tvoja prisutnost sama po sebi donosi sklad i inspiraciju drugima. Ne moraš stalno ugađati ili balansirati – tvoja istinska snaga leži u prihvaćanju vlastite vrijednosti.",
+  scorpio: "Tvoja dubina i intenzitet su rijetki darovi koji te čine posebnim. Danas je važno da ne umanjuješ sebe kako bi stao u plitke okvire koje drugi očekuju. Tvoje samopouzdanje leži u prihvaćanju svoje snage, strasti i osjećaja. Kada stojiš u vlastitoj istini, tvoje prisustvo postaje magnetsko i moćno. Ne kompromitiraj svoju suštinu – danas znaj da je tvoja autentičnost tvoj najveći izvor snage.",
+  sagittarius: "Tvoja sloboda je sveta i upravo ona hrani tvoje samopouzdanje. Danas je važno da ne kompromitiraš svoju prirodnu potrebu za širinom i rastom samo da bi dobio odobravanje drugih. Tvoja vrijednost nije u tome da se prilagodiš, već da ostaneš vjeran svom putu. Kada slijediš vlastitu istinu, tvoja energija nadahnjuje druge. Danas budi ponosan na svoju slobodu i ne boj se stajati iza nje.",
+  capricorn: "Ti si više od svojih postignuća i lista obaveza. Danas je trenutak da shvatiš da tvoju vrijednost ne čini ono što radiš, već ono što jesi. Samopouzdanje raste kada prestaneš vezivati svoje ja uz rezultate. Tvoja snaga leži u tvom karakteru i upornosti, ali i u tvojoj sposobnosti da budeš prisutan. Ti nisi samo svoje ambicije – ti si cijela osoba koja zaslužuje ljubav i poštovanje upravo sada.",
+  aquarius: "Tvoja jedinstvenost je tvoj najveći dar, i danas je važno da je ne razvodnjavaš samo kako bi bio shvaćen ili prihvaćen. Tvoje ideje i način postojanja donose svijetu nešto što nitko drugi ne može. Kada stojiš iza svoje originalnosti, tvoje samopouzdanje sjaji i inspirira druge. Nema potrebe da se uklapaš – tvoja vrijednost je upravo u tome što se razlikuješ. Danas prigrli svoju autentičnost u potpunosti.",
+  pisces: "Tvoji snovi i vizije nose u sebi posebnu vrijednost, jer otvaraju vrata magiji i ljepoti koju drugi možda ne vide. Danas je važno da vjeruješ u njih i u sebe. Tvoje samopouzdanje raste kada znaš da si vrijedan svojih ideala i mašte. Nemoj sumnjati u svoju unutarnju mudrost – tvoje snove je vrijedno slijediti. Danas prigrli svoju osjetljivost i intuiciju kao darove koji te čine posebnim i snažnim."
+},
+
+"2025-09-25": {
+  theme: "Fokus",
+  aries: "Tvoja energija je danas snažna, ali bez pravog smjera može se raspršiti i izgubiti snagu. Usmjeri je na jedan cilj koji ti je istinski važan i ne dopusti da te ometaju sporedne stvari. Kada odlučiš koračati jednom stazom, tvoje samopouzdanje i moć rastu. Nemoj se razbacivati – usredotočenost ti donosi pobjedu. Danas tvoje riječi i postupci postaju jači kada ih usmjeriš na ono što zaista želiš ostvariti.",
+  taurus: "Za tebe danas vrijedi pravilo – polako i sigurno pobjeđuje. Kada svoju pažnju posvetiš jednom zadatku i gradiš korak po korak, stvaraš nešto što traje. Tvoja stabilnost i strpljenje ti donose dugoročni mir i osjećaj sigurnosti. Nije važno koliko brzo ideš, već koliko su tvoji koraci čvrsti i promišljeni. Fokusiraj se na ono što te ispunjava i daje ti osjećaj svrhe. Danas tvoj mir dolazi kroz posvećenost i ustrajnost.",
+  gemini: "Tvoj um danas vrvi idejama i mogućnostima, ali ako pokušaš pratiti sve, izgubit ćeš jasnoću. Izaberi jednu ideju, onu koja ti najviše odzvanja, i prati je do kraja. Tvoje riječi, planovi i kreativnost imaju snagu kada se usmjere na konkretan cilj. Kada daješ pažnju samo jednoj stvari, ona cvjeta. Danas tvoj fokus pretvara tvoju prirodnu radoznalost u moćno oruđe koje donosi stvarne rezultate.",
+  cancer: "Za tebe danas emocionalna jasnoća dolazi kroz fokusiranje na ono što ti je istinski važno. Možda te preplavljuju osjećaji i brige, ali kada odlučiš posvetiti pažnju jednom području svog srca, sve postaje jednostavnije. Tvoje iscjeljenje i snaga rastu kada usmjeriš ljubav i brigu na ono što zaslužuje tvoju toplinu. Fokus te vodi u mir, jer ti pokazuje gdje leži tvoja prava potreba i unutarnja ravnoteža.",
+  leo: "Tvoja strast i energija danas trebaju smjer, jer tek kada se usmjere postaju gorivo koje pokreće velike stvari. Fokus je ono što tvoju vatru pretvara u snagu koja gradi, a ne samo u bljesak. Kada odlučiš posvetiti pažnju jednom cilju, tvoja karizma i moć sjaje još jače. Ne troši energiju na raspršene pokušaje – danas tvoje samopouzdanje dolazi iz odlučnosti i jasnoće u onome što radiš.",
+  virgo: "Tvoje prirodne vještine dolaze do izražaja kada si fokusiran na detalje i jasnoću. Danas tvoj fokus izoštrava tvoje talente i pretvara ih u konkretne rezultate. Kada posvetiš pažnju jednom zadatku, pokazuješ svoju sposobnost da od sitnog stvoriš nešto veliko i vrijedno. Ne dopusti da te ometaju nesavršenstva oko tebe – tvoja koncentracija je dar. Danas uspijevaš upravo kroz preciznost i jasnoću.",
+  libra: "Tvoj izazov danas je uravnotežiti pažnju između onoga što glasno traži tvoju energiju i onoga što tiho stoji po strani. Nemoj zanemariti male stvari – one često čine razliku. Kada usmjeriš pažnju na oba aspekta, stvaraš sklad i mir u svom životu. Fokus ti danas donosi harmoniju, jer ti pokazuje kako da njeguješ i ono što je veliko i ono što je nježno. Danas tvoje odluke trebaju pažljivo vaganje i ravnotežu.",
+  scorpio: "Za tebe današnji fokus znači usmjeriti se na transformaciju. Postoji nešto staro što treba otpustiti da bi se stvorio prostor za novo. Tvoja snaga je u tome da ideš duboko i suočavaš se s onim što drugi možda izbjegavaju. Kada posvetiš pažnju unutarnjoj promjeni, tvoja energija se oslobađa i daje ti novu moć. Fokus danas nije samo na ciljevima izvana, već i na preobražaju iznutra koji ti donosi slobodu.",
+  sagittarius: "Iako te avantura i istraživanje zovu, danas je vrijeme da usmjeriš pažnju na nešto što donosi dublje zadovoljstvo. Tvoja duša voli širinu, ali fokus ti sada može donijeti osjećaj ostvarenja. Kada svoju energiju usmjeriš na jedan cilj, otvaraš vrata uspjehu koji traje. Danas možeš pronaći radost u posvećenosti i otkriti da fokus ne ograničava tvoju slobodu, već je čini smislenijom i ispunjenijom.",
+  capricorn: "Za tebe današnji fokus znači graditi nešto što traje i ima smisao. Tvoja disciplina i predanost sada dolaze do izražaja. Kada usmjeriš pažnju na jedan cilj, tvoji napori postaju temelj za nešto trajno i vrijedno. Ne dopusti da te sitnice odvedu s puta – tvoja moć je u ustrajnosti i jasnoj viziji. Fokus ti daje snagu da postaviš čvrste temelje i kreneš naprijed prema ciljevima koji su ti istinski važni.",
+  aquarius: "Tvoje ideje su danas briljantne, ali ako pokušaš ostvariti sve odjednom, izgubit ćeš jasnoću. Odaberi jednu ideju i usmjeri svu svoju energiju na nju. Kada se fokusiraš, tvoje vizije imaju moć da postanu stvarnost. Tvoja originalnost je dar, ali sada je vrijeme da je oblikuješ u nešto opipljivo. Danas fokus ne znači ograničenje, već način da tvoje misli i snovi dobiju konkretan oblik i snagu.",
+  pisces: "Tvoja intuicija danas je snažan vodič, ali potrebna joj je jasnoća kroz fokus. Usmjeri se na jedan uvid ili osjećaj koji ti dolazi i dopusti mu da vodi cijeli tvoj dan. Kada se ne rasipaš na previše smjerova, tvoje unutarnje vodstvo postaje jasnije i moćnije. Tvoja snaga je u tome da slijediš intuiciju do kraja, a ne da sumnjaš u nju. Danas fokus čini tvoje snove i osjećaje praktičnim kompasom za tvoje odluke."
+},
+
+"2025-09-26": {
+  theme: "Zahvalnost",
+  aries: "Zastani na trenutak i pogledaj koliko si daleko stigao. Možda si često usmjeren prema onome što slijedi, ali danas se okreni i prepoznaj snagu, hrabrost i odlučnost koje su te dovele do ovdje. Zahvalnost ti otvara srce i daje ti gorivo za sljedeći korak. Kada priznaš vlastiti rast, oslobađaš prostor za još veće pobjede. Danas tvoja zahvalnost nije samo sjećanje na prošlost, već i ključ za buduću snagu.",
+  taurus: "Tvoja snaga danas leži u jednostavnosti – pronađi radost u malim stvarima, u miru trenutka, u prirodi koja te okružuje ili u poznatom osjećaju sigurnosti. Zahvalnost ti daje sidro u svijetu koji se stalno mijenja. Kada priznaš ljepotu u jednostavnom, tvoje srce se puni mirom i toplinom. Danas te zahvalnost vraća tvojoj prirodnoj stabilnosti i podsjeća da istinska vrijednost dolazi iz onoga što je tiho, a trajno.",
+  gemini: "Tvoja zahvalnost danas neka ide prema ljudima koji su ti dali vrijeme, pažnju i svoje uho kada si ih trebao. Tvoje veze su tvoje najveće bogatstvo, a iskrena riječ zahvalnosti može produbiti te odnose više nego što misliš. Kada priznaš važnost onih koji su te podržavali, stvaraš mostove povjerenja i ljubavi. Zahvalnost nije samo emocija, ona je čin povezivanja. Danas tvoje riječi mogu unijeti toplinu u srca drugih.",
+  cancer: "Za tebe je zahvalnost poput toplog vala koji omekšava srce i ispire stare brige. Kada dopustiš da ti zahvalnost ispuni dušu, osjećaš mir i sigurnost. Danas je važno da prepoznaš ljepotu i ljubav koje već postoje u tvom životu. Zahvalnost te podsjeća da nisi sam i da si voljen. Kada njeguješ ovaj osjećaj, tvoje veze postaju toplije, a tvoja unutarnja snaga jača. Danas te zahvalnost iscjeljuje iznutra.",
+  leo: "Danas je tvoje vrijeme da proslaviš svoje uspjehe, ali i da priznaš ljude koji su stajali uz tebe dok si ih ostvarivao. Tvoja svjetlost prirodno blista, no kada pokažeš zahvalnost, ona postaje još toplija i sjajnija. Tvoje srce raste kada dijeliš priznanje s onima koji su ti pomogli. Zahvalnost ti danas daje novu vrstu moći – moć povezanosti. Tvoja kraljevska priroda najviše sjaji kada slavi i druge zajedno sa sobom.",
+  virgo: "Za tebe zahvalnost danas znači prihvatiti nesavršenost – u sebi, u drugima i u svijetu oko tebe. Kada otpustiš potrebu da sve popraviš, pronalaziš unutarnji mir. Zahvalnost te uči da u nesavršenosti leži ljepota i da je dovoljno biti prisutan. Tvoje srce se širi kada prepoznaš vrijednost svakog trenutka, ma kakav on bio. Danas je zahvalnost tvoja lekcija i tvoja nagrada – vodi te prema jednostavnom miru.",
+  libra: "Tvoja priroda danas traži sklad kroz zahvalnost. Pogledaj oko sebe i pronađi ljepotu u malim detaljima – u osmijehu, u boji neba, u melodiji trenutka. Zahvalnost ti postaje ogledalo koje vraća mir i harmoniju. Kada se usmjeriš na ono lijepo, tvoja duša postaje lagana, a tvoje veze dublje. Zahvalnost ti pokazuje da si uvijek okružen ravnotežom, čak i kada misliš da si je izgubio. Danas ona postaje tvoja muzika.",
+  scorpio: "Tvoja dubina je dar, i danas je vrijeme da na njoj budeš zahvalan. Možda si često suočen sa sjenama i intenzivnim emocijama, ali upravo ta snaga čini tvoju dušu rijetkom i posebnom. Zahvalnost ti donosi iscjeljenje jer te podsjeća da si više od svojih rana i tajni. Kada priznaš vrijednost svog puta, tvoje srce se otvara prema svjetlu. Danas zahvalnost postaje tvoje oružje i tvoje iscjeljenje u isto vrijeme.",
+  sagittarius: "Za tebe današnja lekcija zahvalnosti nije samo u cilju, već u samom putovanju. Tvoj duh voli istraživati i tražiti novo, ali danas zastani i reci 'hvala' svakom iskustvu koje te oblikovalo. Svako putovanje, bilo lako ili teško, donijelo ti je mudrost i slobodu. Zahvalnost te podsjeća da smisao nije samo u odredištu, već u koracima koje si napravio. Danas ti zahvalnost daje novu perspektivu i širi tvoje srce.",
+  capricorn: "Tvoj trud i predanost često ostanu neprimijećeni, ali danas je vrijeme da se zahvališ samome sebi. Prepoznaj naporan rad, disciplinu i žrtve koje si učinio da bi stigao ovdje. Zahvalnost za vlastiti trud donosi ti unutarnji mir i ponos. Kada cijeniš sebe, tvoje postignuće dobiva još dublji smisao. Danas je zahvalnost tvoj način da priznaš vlastitu snagu i da se nagradiš za put kojim hrabro ideš.",
+  aquarius: "Tvoja originalnost i nekonvencionalni putevi oblikovali su tvoju briljantnost. Danas se zahvali upravo tim neobičnim izborima koji su te učinili jedinstvenim. Možda nisi uvijek išao lakšim putem, ali zahvalnost ti pokazuje da su tvoje razlike tvoja najveća snaga. Kada prigrliš ono što te čini posebnim, tvoje srce se otvara slobodi i radosti. Danas je zahvalnost tvoj podsjetnik da tvoji putevi imaju svrhu.",
+  pisces: "Tvoje srce danas otvara zahvalnost, a kada joj dopustiš da slobodno teče, ona preobražava cijeli tvoj dan. Zahvalnost te povezuje s tvojim snovima, s ljubavlju i s ljudima oko tebe. Kada kažeš 'hvala', osjećaš se lakše i bliže svojoj pravoj prirodi. Ona ti daje osjećaj mira i povezanosti s nevidljivim tokovima života. Danas je zahvalnost tvoj vodič i tvoj dar – ključ kojim otvaraš vrata srca."
+},
+
+"2025-09-27": {
+  theme: "Granice",
+  aries: "Danas nauči reći 'ne' bez osjećaja krivnje, jer granice nisu zidovi već štitovi tvoje unutarnje vatre. Tvoja energija je dragocjena i zaslužuje pažljivo usmjeravanje. Kada drugima jasno pokažeš gdje prestaje njihovo i počinje tvoje, jačaš vlastitu snagu i izbjegavaš izgaranje. Ne moraš opravdavati svoje odluke – tvoje 'ne' je dovoljno. Danas granice postaju tvoj saveznik i temelj tvoje istinske slobode.",
+  taurus: "Granice su za tebe danas oblik samopoštovanja i znak unutarnje snage. Kada držiš svoj stav i ostaneš vjeran sebi, šalješ poruku da znaš svoju vrijednost. Ljudi koji te poštuju ostat će uz tebe, a oni koji traže previše naučit će tvoje granice. Ne boj se čvrsto stajati – tvoja stabilnost je tvoja zaštita. Danas granice nisu tvrdoća, već nježnost prema sebi i način da njeguješ svoj mir i sigurnost.",
+  gemini: "Tvoja priroda je znatiželjna i komunikativna, ali danas je važno jasno izgovoriti svoje granice. Kada govoriš iskreno i bez okolišanja, nestaje zbunjenost koja često prati tvoje odnose. Granice ne zatvaraju vrata, već donose jasnoću i slobodu u komunikaciju. Ne moraš svima biti dostupan – tvoje vrijeme i energija su dragocjeni. Danas tvoje riječi postaju oružje zaštite i alat koji gradi zdrave odnose.",
+  cancer: "Tvoje srce je osjetljivo i brižno, ali upravo zato su ti emocionalne granice važne. Ne moraš nositi tuđu bol niti upijati osjećaje drugih. Kada naučiš razlikovati što je tvoje, a što nije, tvoje srce postaje lakše i mirnije. Granice ti omogućuju da budeš tu za druge bez da izgubiš sebe. Danas tvoje 'ne' postaje čin ljubavi, jer ti daje snagu da njeguješ svoje emocije dok pomažeš drugima iz zdrave distance.",
+  leo: "Tvoja energija prirodno privlači pažnju, no danas je ključno zaštititi svoju svjetlost. Ne zaslužuju svi tvoju pozornost i toplinu, jer kada previše daješ, tvoja snaga slabi. Granice ti pomažu da razlikuješ kome je tvoje vrijeme istinski namijenjeno. Kada odabereš dijeliti svoju energiju mudro, tvoje svjetlo sjaji još snažnije. Danas su granice tvoja kruna koja ti daje dostojanstvo i unutarnju snagu.",
+  virgo: "Tvoj instinkt je popravljati i pomagati, ali danas granice donose jasnoću – što je tvoje da popraviš, a što nije. Kada preuzmeš previše tuđih odgovornosti, gubiš mir i snagu. Nauči prepoznati granicu između služenja i samopožrtvovanja. Tvoja snaga leži u tome da znaš gdje stati. Danas granice nisu samo zaštita, već i smjernica koja ti pomaže da sačuvaš svoju energiju za ono što je doista tvoje.",
+  libra: "Tvoja želja za ravnotežom ponekad te vodi u pretjerano davanje, ali danas granice vraćaju sklad u tvoje odnose. Kada postaviš jasne granice, pokazuješ da i tvoje potrebe vrijede jednako kao i potrebe drugih. Harmonija nije moguća ako se ti izgubiš u procesu. Granice ti danas donose osjećaj mira i jednakosti. Nauči reći 'dosta' kada osjetiš da daješ previše – tvoje srce će ti biti zahvalno.",
+  scorpio: "Tvoja dubina i istina su dragocjeni darovi, ali nisu svi spremni nositi ih. Granice ti danas pomažu da zaštitiš svoju unutarnju snagu i podijeliš je samo s onima koji su to zaslužili. Ne moraš otvarati svoje srce svakome – tvoje povjerenje je sveto. Kada čuvaš svoju istinu, ona dobiva još veću vrijednost. Danas granice nisu tvrdoća, već mudrost – način da ostaneš vjeran sebi i svojoj unutarnjoj snazi.",
+  sagittarius: "Tvoja sloboda je tvoja svetinja, ali i sloboda treba granice. Danas nauči reći 'da' samo kada to zaista osjećaš, a ne iz navike ili želje da udovoljiš. Granice ti omogućuju da tvoje 'da' bude iskreno i moćno. Kada poštuješ vlastite potrebe, tvoje putovanje postaje dublje i smislenije. Danas granice nisu ograničenje, već alat koji ti daje još veću slobodu – slobodu da budeš istinski vjeran sebi.",
+  capricorn: "Tvoja disciplina i snaga danas se grade kroz granice. Ne duguješ svima pristup svom vremenu, energiji ili resursima. Kada odlučiš gdje povući crtu, jačaš svoju unutarnju moć i čuvaš ono što gradiš. Granice nisu zatvaranje, već način da zaštitiš ono što ti je najvažnije. Danas su one temelj tvog dostojanstva i profesionalne snage. Tvoje 'ne' postaje graditelj i čuvar tvojih najvećih ciljeva.",
+  aquarius: "Tvoja jedinstvenost i ideje trebaju prostor, a danas su granice tvoja zaštita od buke i ometanja. Kada čuvaš svoj sveti prostor, tvoje vizije mogu rasti slobodno i bez pritisaka izvana. Ne moraš svima biti dostupan – tvoje vrijeme za sebe jednako je vrijedno kao i tvoje vrijeme za druge. Granice ti danas omogućuju da ostaneš vjeran svojoj autentičnosti. One su štit tvoje slobode i tvoje genijalnosti.",
+  pisces: "Tvoje suosjećanje je veliko i duboko, ali bez granica možeš izgubiti sebe u tuđim emocijama. Danas nauči da možeš brinuti o drugima, a da pritom ne žrtvuješ vlastiti mir. Granice nisu prepreka tvojoj nježnosti, već način da je učiniš zdravom i održivom. Kada znaš gdje prestaješ ti, a počinje netko drugi, tvoje srce je slobodno i sigurno. Danas granice postaju tvoja zaštita i tvoj put do unutarnje ravnoteže."
+},
+
+"2025-09-28": {
+  theme: "Radost",
+  aries: "Danas dopusti da radost bude tvoja pjesma i tvoj pokret. Pleši, smij se, budi glasan u svojoj sreći i ne skrivaj je od svijeta. Kada se prepustiš spontanosti i jednostavnoj radosti života, tvoje srce postaje lagano, a tvoj duh slobodan. Radost nije nešto što moraš zaslužiti – ona je već u tebi, čeka da je oslobodiš. Danas neka tvoj smijeh odjekuje poput vatre koja grije sve oko tebe i širi iskru života.",
+  taurus: "Za tebe danas radost živi u jednostavnim i opipljivim stvarima – u mirisu svježe hrane, okusu omiljenog jela, toplini dodira ili ljepoti prirode. Kada uživaš svim svojim osjetilima, tvoja duša se smiruje i puni toplinom. Radost nije u velikim gestama, već u tihim trenucima koji hrane tvoje srce. Danas se počasti nečim što ti donosi užitak i dopusti si da u potpunosti uživaš u ljepoti sadašnjeg trenutka.",
+  gemini: "Tvoja radost se danas širi kroz riječi i povezanost. Podijeli šalu, priču ili osmijeh s nekim i gledaj kako se sreća množi. Tvoj dar je u tome da riječima prenosiš lakoću i veselje, a kada ih dijeliš, stvaraš mostove radosti s drugima. Danas ne čuvaj sreću za sebe – tvoja energija postaje zarazna kada se smiješ zajedno s drugima. Radost te danas vodi u razgovore puni smijeha i lagane, iskrene povezanosti.",
+  cancer: "Tvoje srce često nosi tuđe emocije, ali danas mu dopusti da se otvori lakoći i nježnosti radosti. Neka toplina smijeha i jednostavnih trenutaka omekša tvoj unutarnji svijet. Zaslužuješ da osjetiš lakoću, bez tereta i bez krivnje. Radost ti može donijeti mir i podsjetiti te da si voljen i siguran. Danas njeguj male trenutke koji ti donose osmijeh – oni su lijek za tvoje srce i svjetlo koje te grli iznutra.",
+  leo: "Za tebe radost nije luksuz, već tvoje prirodno stanje. Danas proslavi sebe, svoje talente, svoj put i svoje srce. Nema potrebe tražiti potvrdu izvana, jer radost izvire iz tvoje vlastite svjetlosti. Kada se povežeš s tim unutarnjim izvorom, tvoje srce blista i nadahnjuje druge. Danas se prisjeti da je radost tvoje rođeno pravo – ona te podsjeća da život nije samo borba, već i slavlje tvog postojanja.",
+  virgo: "Tvoja radost danas leži u jednostavnosti i redu. Kada organiziraš prostor, dovršiš zadatak ili dovedeš stvari u ravnotežu, osjećaš mir koji ti daje osjećaj postignuća. Tvoja sreća nije uvijek glasna – ponekad se skriva u tišini urednog stola ili u jasnom planu. Danas pronađi radost u tome da stvari sjednu na svoje mjesto. Kada tvoj svijet postane uredan, tvoje srce pronalazi laganu, čistu sreću.",
+  libra: "Za tebe ljepota i radost idu ruku pod ruku. Danas se okruži stvarima koje hrane tvoju dušu – bojama, mirisima, glazbom, umjetnošću ili ljudima koji ti donose osmijeh. Tvoja sreća raste kada njeguješ harmoniju i estetiku u svom životu. Radost te danas poziva da pronađeš ljepotu u svakom trenutku, čak i u malim detaljima. Ona je ogledalo koje vraća tvoju unutarnju ravnotežu i grli tvoje srce toplinom.",
+  scorpio: "Radost te danas može iznenaditi na neočekivan način. Iako često istražuješ dubine i misterije, sjeti se da i tamo može procvjetati smijeh. Tvoja intenzivna priroda nije suprotna radosti – ona je samo njena dublja verzija. Dopusti da te iznenadi trenutak lakoće, čak i usred ozbiljnosti. Danas se smijeh može pojaviti poput svjetla u tami, podsjećajući te da život nije samo težina, već i igra i radost.",
+  sagittarius: "Za tebe je radost uvijek povezana s istraživanjem i slobodom. Danas reci 'da' spontanosti i dopusti sebi avanturu, makar ona bila mala i svakodnevna. Tvoj duh voli otkrivati, a radost dolazi kada pratiš znatiželju i otvoreno srce. Ne moraš planirati – jednostavno kreni i uživaj u trenutku. Danas tvoja radost leži u slobodi da se prepustiš životu i otkriješ čaroliju izvan poznatih granica.",
+  capricorn: "Tvoja radost danas nije suprotna tvojoj ambiciji – ona je gorivo koje pokreće tvoje ciljeve. Kada pronađeš sreću u onome što radiš, tvoj trud postaje lakši, a tvoji koraci sigurniji. Radost nije gubitak vremena, već način da ojačaš svoju odlučnost i unutarnju snagu. Danas dopusti da te veselje vodi i u poslu i u odmoru. Tvoja radost može biti jednako produktivna kao i tvoja disciplina.",
+  aquarius: "Za tebe radost danas može biti oblik pobune – trenutak kada odlučiš biti divlji, čudan i potpuno svoj. Tvoja originalnost je izvor sreće, a kada je izraziš bez zadrške, širiš radost i drugima. Nema potrebe uklapati se – tvoje srce želi slobodu da se smije i pleše na svoj način. Danas je radost tvoja revolucija, čin autentičnosti koji prkosi svemu što pokušava ugušiti tvoju jedinstvenu svjetlost.",
+  pisces: "Tvoja radost danas teče poput rijeke snova i umjetnosti. Plivaj u svojim emocijama, u glazbi, u bojama i u nježnim trenucima mašte. Kada dopustiš sebi da osjetiš čaroliju, tvoja duša se vraća svojoj prirodnoj lakoći. Radost je tvoj bijeg, ali i tvoj povratak – prostor gdje tvoja intuicija i kreativnost plešu zajedno. Danas se prepusti toj igri i osjeti kako radost pretvara tvoj svijet u mjesto čuda."
+}
 });
 
 
@@ -343,96 +352,102 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-  "2025-09-29": {
-    theme: "Strpljenje",
-    aries: "Zadrži svoju vatru. Danas te poziva da pričekaš, čak i kad je akcija primamljiva.",
-    taurus: "Strpljenje je tvoja snaga. Vjeruj da će ono što si posijao procvjetati na vrijeme.",
-    gemini: "Uspori misli. Odgovori će doći kad prestaneš juriti za njima.",
-    cancer: "Emocionalna jasnoća zahtijeva vrijeme. Budi nježan prema sebi dok čekaš.",
-    leo: "Nije svaki trenutak pozornica. Dopusti drugima da zasjaju dok se ti puniš energijom.",
-    virgo: "Napredak se događa, čak i kad je nevidljiv. Strpljenje otkriva obrazac.",
-    libra: "Harmonija zahtijeva vrijeme. Ne požuruj proces—neka se prirodno razvije.",
-    scorpio: "Transformacija je spora magija. Vjeruj dubokom radu koji se odvija ispod površine.",
-    sagittarius: "Avantura će se vratiti. Danas je strpljenje tvoja putovnica.",
-    capricorn: "Tvoji ciljevi su dugoročni. Danas je tihi korak prema veličini.",
-    aquarius: "Idejama treba vrijeme da sazriju. Pusti ih da se krčkaju prije nego ih podijeliš.",
-    pisces: "Pusti da ti plima dođe. Strpljenje je tvoj ocean danas."
-  },
-  "2025-09-30": {
-    theme: "Hrabrost",
-    aries: "Tvoja hrabrost je neusporediva. Danas napravi skok koji si izbjegavao.",
-    taurus: "Hrabrost nije glasna—ona je postojana. Stani čvrsto u svojoj tihoj snazi.",
-    gemini: "Izgovori svoju istinu. Tvoj glas je tvoj mač i štit.",
-    cancer: "Osjeti strah i ipak kreni. Hrabrost živi u ranjivosti.",
-    leo: "Rođen si da vodiš. Zakorači naprijed, čak i ako put nije jasan.",
-    virgo: "Hrabrost je u detaljima. Suoči se s malim stvarima koje si izbjegavao.",
-    libra: "Odaberi hrabro. Čak je i neodlučnost odluka—donesi svoju srcem.",
-    scorpio: "Otkrij ono što si skrivao. Hrabrost je ključ transformacije.",
-    sagittarius: "Reci 'da' nepoznatom. Tvoj duh cvjeta u hrabrim počecima.",
-    capricorn: "Preuzmi rizik. Tvoj temelj je dovoljno snažan da podrži skok.",
-    aquarius: "Izazovi normu. Hrabrost je tvoja pobuna danas.",
-    pisces: "Sanjaj veliko—i djeluj. Tvoja hrabrost je tiha, ali snažna."
-  },
-  "2025-10-01": {
-    theme: "Oprost",
-    aries: "Otpusti zamjeru. Oprost oslobađa tvoju vatru da sjaji jače.",
-    taurus: "Oslobodi se tereta. Oprost je dar koji daješ sebi.",
-    gemini: "Izgovori ispriku ili je prihvati. Riječi mogu liječiti ako im to dopustiš.",
-    cancer: "Tvoje srce je nježno—ne dopusti da ga bol otvrdne. Oprosti nježno.",
-    leo: "Ponos se možda opire, ali ljubav traži milost. Oprosti dostojanstveno.",
-    virgo: "Savršenstvo nije potrebno. Oprost je neuredan i prekrasan.",
-    libra: "Uravnoteži vagu s suosjećanjem. Oprost vraća harmoniju.",
-    scorpio: "Otpusti ubod. Oprost ne briše—on transformira.",
-    sagittarius: "Kreni naprijed. Oprost je sloboda koju si tražio.",
-    capricorn: "Oprosti pogreške. Čak i jaki posrnu.",
-    aquarius: "Oprosti nesporazum. Povezanost vrijedi truda.",
-    pisces: "Tvoja duša zna oprostiti. Vjeruj njezinoj mudrosti danas."
-  },
-  "2025-10-02": {
-    theme: "Jasnoća",
-    aries: "Magla se razilazi. Odluka postaje očita—vjeruj onome što sada vidiš.",
-    taurus: "Jasnoća dolazi kroz tišinu. Zastani i pusti istinu da ispliva.",
-    gemini: "Tvoje misli se usklađuju. Danas govori precizno i s namjerom.",
-    cancer: "Emocionalna jasnoća dolazi. Napokon razumiješ što ti srce govori.",
-    leo: "Tvoja vizija se izoštrava. Vodi s povjerenjem u ono što sada znaš.",
-    virgo: "Detalji se slažu. Jasnoća je tvoja nagrada za strpljenje.",
-    libra: "Ravnoteža donosi uvid. Odnos ili odluka postaje jasnija.",
-    scorpio: "Istina izlazi iz dubine. Jasnoća te može iznenaditi—prihvati je.",
-    sagittarius: "Tvoj put je vidljiv. Napravi sljedeći korak s uvjerenjem.",
-    capricorn: "Jasnoća otkriva tvoje prioritete. Usredotoči se na ono što je zaista važno.",
-    aquarius: "Mentalni proboj dolazi. Podijeli svoj uvid—vrijedan je.",
-    pisces: "Intuicija postaje jasna. Ono što je bilo nejasno sada djeluje istinito."
-  },
-  "2025-10-03": {
-    theme: "Ravnoteža",
-    aries: "Pronađi sredinu. Danas nije vrijeme za krajnosti—već za sklad.",
-    taurus: "Uravnoteži rad i odmor. Tvoje tijelo će ti biti zahvalno.",
-    gemini: "Uravnoteži misli. Ne dopusti da jedna ideja zasjeni ostale.",
-    cancer: "Uravnoteži emocije s logikom. Obje imaju mudrost za ponuditi.",
-    leo: "Uravnoteži svoju pozornost s podrškom. Dopusti drugima da zasjaju uz tebe.",
-    virgo: "Uravnoteži savršenstvo s napretkom. Dovršeno je bolje nego besprijekorno.",
-    libra: "Ti si utjelovljenje ravnoteže. Danas živi svoju istinu.",
-    scorpio: "Uravnoteži intenzitet s nježnošću. Ne moraš biti samo vatra.",
-    sagittarius: "Uravnoteži slobodu s odgovornošću. Obje mogu postojati zajedno.",
-    capricorn: "Uravnoteži ambiciju s radošću. Uspjeh je slađi kad se dijeli.",
-    aquarius: "Uravnoteži inovaciju s povezanošću. Ne zaboravi ljudsku stranu.",
-    pisces: "Uravnoteži snove s djelovanjem. Tvoja vizija zaslužuje pokret."
-  },
-  "2025-10-04": {
-    theme: "Obnova",
-    aries: "Započni iznova. Danas je gumb za resetiranje—iskoristi ga hrabro.",
-    taurus: "Otpusti ono što je ustajalo. Obnova počinje otpuštanjem.",
-    gemini: "Nove ideje cvjetaju. Pusti da te znatiželja vodi.",
-    cancer: "Emocionalna obnova je tu. Dopusti si da se ponovno osjećaš lagano.",
-    leo: "Zakorači u svoje novo poglavlje. Obnova je tvoj današnji urlik.",
-    virgo: "Očisti ploču. Novi početak donosi jasnoću i mir.",
-    libra: "Obnovi svoje odnose. Mali gest može oživjeti povezanost.",
-    scorpio: "Transformacija je tvoja priroda. Danas se uzdigni iz pepela.",
-    sagittarius: "Avantura obnavlja tvoj duh. Reci 'da' nečemu novom.",
-    capricorn: "Obnovi svoje ciljeve. Ono što je nekad bilo važno možda treba reviziju.",
-    aquarius: "Ponovno se izmisli. Danas podržava hrabre promjene.",
-    pisces: "Obnovi svoje snove. Pusti mašti da ponovno slobodno teče."
-  }
+"2025-09-29": {
+  theme: "Strpljenje",
+  aries: "Tvoja prirodna vatra te često tjera na brzu akciju, ali danas te energija poziva da zastaneš i udahneš. Strpljenje ne znači slabost, već mudrost – to je trenutak u kojem dopuštaš životu da se sam posloži. Iako ti djelovanje izgleda privlačno, sada je snaga u čekanju. Promatraj, slušaj i vjeruj da će pravi trenutak doći. Kada naučiš obuzdati svoju žurbu, tvoje odluke postaju jače, a rezultati trajniji.",
+  taurus: "Za tebe je strpljenje prirodna snaga, ali danas se podsjeti da ono što si zasijao raste svojim tempom. Ne možeš ubrzati cvijet da procvjeta prije vremena, niti plod da sazri prije svoje sezone. Tvoj miran i ustrajan duh zna da život nagrađuje one koji vjeruju procesu. Danas njeguj ono što si već stvorio i vjeruj da će tvoj trud uroditi plodovima. Tvoje strpljenje je korijen tvoje sigurnosti i tvoje snage.",
+  gemini: "Tvoj um je poput oluje ideja, ali danas ti je potrebno usporiti i dopustiti mislima da se same slože. Strpljenje znači otpustiti potrebu da stalno trčiš za odgovorima i umjesto toga vjerovati da će se pojaviti u tišini. Kada usporiš, otvaraš prostor za jasnoću i nove uvide. Danas vježbaj mirnoću – nemoj sve rješavati odmah. Ponekad najveća otkrića dolaze kada prestaneš juriti za njima.",
+  cancer: "Tvoje srce često traži sigurnost i jasnoću, ali emocionalno razumijevanje zahtijeva vrijeme. Danas dopusti sebi da budeš nježan dok čekaš, jer nije svaka rana spremna da odmah zacijeli niti je svaka emocija spremna da bude razjašnjena. Strpljenje ti omogućava da poštuješ svoj unutarnji ritam i da dozvoliš osjećajima da se prirodno razviju. Tvoj mir raste kada prihvatiš da proces iscjeljenja ne možeš požuriti.",
+  leo: "Naviknut si da budeš u središtu pozornosti i da svijet vidi tvoju svjetlost, ali danas je trenutak da zakoračiš u tišinu i prepustiš drugima prostor da zasjaje. Strpljenje te uči da čak i kraljevi trebaju vrijeme da obnove svoju snagu. Tvoja vatra neće izblijedjeti ako nakratko miruješ – naprotiv, ona će postati snažnija. Danas odmori, povuci se i znaj da tvoje vrijeme uvijek dolazi kada si spreman.",
+  virgo: "Tvoj analitičan um voli vidjeti rezultate, ali danas se podsjeti da se napredak događa i onda kada nije odmah vidljiv. Strpljenje ti otkriva obrazac koji se tek polako slaže, kao slagalica kojoj još nedostaju dijelovi. Vjeruj da se tvoj trud nakuplja i da se stvari oblikuju iznutra prije nego što postanu jasne izvana. Danas prakticiraj vjeru u proces i znaj da tvoja posvećenost gradi stabilnu budućnost.",
+  libra: "Za tebe je sklad najvažniji, ali prava harmonija se ne stvara preko noći. Danas te strpljenje uči da ne moraš požurivati odnose, odluke ili ravnotežu. Kada dopustiš stvarima da se prirodno razviju, sve dolazi u svoj ritam. Tvoje srce zna kada je pravi trenutak za akciju i kada za mir. Danas se osloni na svoj unutarnji osjećaj mjere i pusti da se energija oko tebe polako usklađuje sama od sebe.",
+  scorpio: "Tvoja duša zna da prava transformacija ne dolazi naglo, već polako, kao tajna alkemija koja djeluje ispod površine. Danas te strpljenje uči da vjeruješ tom tihom procesu. Čak i kad ne vidiš promjene, one se događaju u dubinama. Poput feniksa, obnova traži svoje vrijeme. Danas njeguj povjerenje da se tvoj unutarnji rast odvija savršeno, čak i kad ga ne možeš objasniti ili u potpunosti razumjeti.",
+  sagittarius: "Tvoj duh uvijek teži novim iskustvima i avanturama, ali danas je tvoje putovanje učenje strpljenja. Nema potrebe da stalno tražiš novi horizont – ono što tražiš može doći samo ako dopustiš da te pronađe. Tvoja putovnica danas je mir i povjerenje da će nova iskustva doći u svoje vrijeme. Avantura nikada ne nestaje – samo te čeka da je spremno dočekaš, s otvorenim srcem i mirnom snagom.",
+  capricorn: "Tvoji ciljevi su uvijek veliki i dugoročni, ali danas se podsjeti da se veličina gradi tiho, korak po korak. Strpljenje je tvoja disciplina – svaki tihi napor, svaki mali pomak vodi prema tvom uspjehu. Nema potrebe požurivati kada znaš da vrijeme radi za tebe. Danas njeguj povjerenje u proces i znaj da su tvoji temelji snažni. Strpljenje ti daje moć da gradiš nešto što će trajati cijeli život.",
+  aquarius: "Tvoj um uvijek bruji novim idejama i vizijama, ali danas te strpljenje uči da svaka ideja treba vrijeme da sazrije. Nije sve što ti dođe odmah spremno za dijeljenje – ponekad joj je potrebna tišina da se oblikuje u nešto snažno i originalno. Danas dopusti da tvoje misli odleže i sazru prije nego ih podijeliš. Tvoja vizija je vrijedna čekanja, jer upravo strpljenje joj daje dubinu i trajnu snagu.",
+  pisces: "Za tebe je strpljenje poput oceana – duboko, beskrajno i puno mudrosti. Danas te uči da ne moraš gurati tok života, već dopustiti da ti plima sama dođe. Kada se predaš ritmu valova, otkrivaš da sve dolazi u svoje savršeno vrijeme. Tvoja osjetljivost je dar koji ti pokazuje kad je pravi trenutak, a kad treba čekati. Danas neka tvoje strpljenje bude poput mora – tiho, beskonačno i snažno u svojoj mirnoći."
+},
+
+"2025-09-30": {
+  theme: "Hrabrost",
+  aries: "Tvoja hrabrost je neusporediva i danas te poziva da napraviš skok koji si dugo odgađao. Strah može šaptati, ali tvoja unutarnja vatra gori jače. Hrabrost nije odsustvo straha, već odluka da ideš dalje unatoč njemu. Danas je trenutak da prestaneš čekati savršene uvjete i zakoračiš na put koji ti srce već dugo pokazuje. Tvoj korak može promijeniti sve, jer jednom kada se pokreneš, život će ti otvoriti nova vrata.",
+  taurus: "Za tebe hrabrost nije glasna niti dramatična, ona je tiha, postojana i duboko ukorijenjena. Danas stani čvrsto u svojoj snazi i podsjeti se da stabilnost koju nosiš u sebi može izdržati svaku oluju. Hrabrost je ostati vjeran sebi kada drugi sumnjaju, i ne odustati od onoga što znaš da vrijedi. Tvoje srce danas uči da hrabrost nije brz korak, već ustrajan hod prema snu koji ti znači sve.",
+  gemini: "Za tebe hrabrost danas znači izgovoriti svoju istinu jasno i bez zadrške. Tvoje riječi su tvoj mač i tvoj štit, a tvoj glas ima moć da probudi promjenu. Možda ćeš osjetiti sumnju ili strah, ali znaj da se prava snaga rađa kada govoriš ono što osjećaš, čak i ako nije popularno ili lako. Tvoja autentičnost je hrabrost, a danas je vrijeme da je pokažeš i podijeliš sa svijetom. Tvoj glas je tvoja moć.",
+  cancer: "Hrabrost za tebe danas živi u ranjivosti. Iako tvoja priroda često traži sigurnost i zaštitu, upravo otvoreno srce je tvoj najveći čin hrabrosti. Osjetiti strah i svejedno krenuti naprijed znači priznati da je tvoja snaga u osjetljivosti. Danas dopusti sebi da podijeliš svoje emocije i pokažeš tko si u potpunosti. To nije slabost, već hrabrost koja nadahnjuje i tebe i one oko tebe da vjeruju u snagu ljubavi.",
+  leo: "Rođen si da vodiš, a danas je tvoj poziv da zakoračiš naprijed čak i kada put nije jasan. Hrabrost za tebe nije samo pokazivanje snage, već i preuzimanje odgovornosti za svjetlost koju nosiš. Tvoj primjer nadahnjuje druge, a tvoja odlučnost gradi mostove. Danas dopusti da tvoja prirodna karizma zasja kroz djela, ne samo riječi. Tvoja hrabrost nije u tome da znaš sve odgovore, već da si spreman stati prvi.",
+  virgo: "Za tebe hrabrost danas nije u velikim gestama, već u malim koracima koje si možda dugo izbjegavao. Suoči se s detaljima, s onim sitnim stvarima koje ti stvaraju nelagodu, jer upravo u njima leži tvoja prilika za rast. Tvoja preciznost i analitičnost postaju oružje kada se koristiš njima da premostiš prepreke. Hrabrost nije daleka ideja, već odluka da danas riješiš ono što si jučer odgađao.",
+  libra: "Za tebe hrabrost znači donošenje odluke srcem, čak i kada vaga tvog uma još koleba. Neodlučnost je također odluka, ali danas ti je ponuđena prilika da odabereš s jasnoćom i vjerom. Hrabrost nije uvijek u savršenom izboru, već u tome da si dovoljno odvažan stati iza njega. Tvoje srce zna što je pravo za tebe – dopusti mu da vodi. Danas će tvoja hrabrost donijeti mir i ravnotežu koju tražiš.",
+  scorpio: "Tvoja hrabrost danas leži u tome da otkriješ ono što si skrivao, bilo od sebe ili od drugih. Transformacija se događa tek kada dopustiš da istina izađe na svjetlo. Znam da tvoje dubine nisu uvijek lako dijeliti, ali upravo u toj iskrenosti leži tvoja najveća snaga. Hrabrost je pogledati svoje sjene i pretvoriti ih u darove. Danas tvoja odvažnost može otvoriti vrata unutarnjoj slobodi i obnovi.",
+  sagittarius: "Tvoj duh cvjeta kada zakoračiš u nepoznato, a danas te hrabrost poziva da kažeš 'da' nečemu novom. Avantura nije samo putovanje dalekim krajolicima, već i hrabrost da istražiš nove prilike, ideje ili odnose. Tvoje srce voli širinu, a hrabrost ti daje krila da se otisneš dalje nego što si mislio da možeš. Danas otvori vrata nepoznatom – upravo tamo te čeka rast i prava radost tvog duha.",
+  capricorn: "Za tebe hrabrost danas znači preuzeti rizik, iako znaš da si naviknut graditi sigurno i stabilno. Tvoj temelj je dovoljno snažan da podrži skok, a tvoja disciplina daje ti sigurnost da se možeš osloniti na sebe. Hrabrost nije napuštanje odgovornosti, već prepoznavanje trenutka kada je vrijeme da izađeš iz zone komfora. Danas vjeruj svojoj snazi i napravi korak prema onome što istinski želiš.",
+  aquarius: "Tvoja hrabrost danas leži u tome da izazoveš normu i prkosiš onome što svi smatraju uobičajenim. Tvoj um vidi budućnost, a tvoje srce zna da promjene zahtijevaju odvažnost. Hrabrost za tebe nije samo čin, već i stav – spremnost da stojiš iza svojih uvjerenja čak i kada stojiš sam. Danas dopusti svojoj originalnosti da bude tvoj štit i tvoj mač. Tvoja hrabrost je tvoja pobuna i tvoj dar svijetu.",
+  pisces: "Za tebe hrabrost danas nije bučna niti dramatična – ona je tiha, ali nevjerojatno snažna. Sanjati veliko i onda djelovati prema tim snovima zahtijeva više hrabrosti nego što se čini. Tvoja osjetljivost nije slabost, već gorivo tvoje odvažnosti. Danas dopusti svojim snovima da postanu stvarnost kroz mali, ali odlučan korak. Tvoja tiha hrabrost ima moć pokrenuti valove promjene, prvo u tebi, a zatim i oko tebe."
+},
+
+"2025-10-01": {
+  theme: "Oprost",
+  aries: "Tvoja vatra lako plane, ali isto tako može sagorjeti i ono što voliš ako nosiš zamjeru. Danas te oprost poziva da otpustiš ono što ti više ne služi, jer zamjeranje samo krade tvoju snagu. Oprosti ne znači zaboraviti, već osloboditi prostor da tvoja iskra zasja jače. Kada otpustiš teret, tvoje srce ponovno pronalazi slobodu, a tvoja odvažnost postaje čista i svjetlija. Tvoj plamen je stvoren za stvaranje, ne za gorčinu.",
+  taurus: "Ponekad se čvrsto držiš boli jer ti daje osjećaj sigurnosti, ali danas shvati da je oprost dar koji prije svega daješ sebi. Teret zamjeranja pritiska tvoje srce i otežava tvoje korake. Kada otpustiš, vraćaš sebi mir i otvaraš prostor za radost. Oproštaj ne znači odobravanje, već oslobađanje. Tvoja snaga leži u mirnom prihvaćanju, a tvoj duh se obnavlja kad odlučiš živjeti bez nepotrebnog tereta.",
+  gemini: "Tvoje riječi imaju moć stvarati mostove ili zidove, a danas te oprost poziva da ih upotrijebiš kao lijek. Bilo da trebaš izgovoriti ispriku ili prihvatiti tuđu, znaj da riječi mogu izliječiti i najdublje rane ako ih prati iskrenost. Oproštaj nije slabost, već čin hrabrosti i otvorenosti. Danas dopusti svom glasu da bude alat pomirenja. Kada govoriš iz srca, tvoje riječi postaju snaga koja donosi slobodu.",
+  cancer: "Tvoje srce je mekano i osjetljivo, ali bol ga ponekad može učiniti tvrđim nego što želiš. Danas te oprost podsjeća da tvoja nježnost nije slabost, već snaga koja iscjeljuje. Kada oprostiš, vraćaš svom srcu lakoću i toplinu. Oproštaj ne znači da zaboravljaš, već da se oslobađaš tereta koji ti ne pripada. Tvoja snaga leži u sposobnosti da voliš unatoč boli. Danas oprosti nježno – i sebi i drugima.",
+  leo: "Tvoj ponos često stoji kao štit, ali ljubav traži milost. Oprost danas nije znak slabosti, već tvoja kraljevska veličina. Kada otpustiš povredu, pokazuješ da tvoja snaga dolazi iz dostojanstva, a ne iz tvrdoglavosti. Oprost ne poništava tvoje iskustvo, već ti daje priliku da zasjaš još jače. Danas pokaži da tvoja prava moć leži u srcu koje zna biti veliko, plemenito i spremno pustiti ono što boli.",
+  virgo: "Tvoja težnja za savršenstvom može ti otežati put do oprosta, jer želiš da sve bude jasno i pravedno. Ali oprost je neuredan i ljudski, a u toj nesavršenosti leži njegova ljepota. Danas te oprost poziva da otpustiš potrebu za objašnjenjem i prihvatiš nesavršenost procesa. Oprost je dar koji vraća sklad tvom unutarnjem svijetu. Tvoja snaga raste kada naučiš živjeti s nesavršenim, a svejedno voliš.",
+  libra: "Tvoja prirodna želja za harmonijom danas te vodi do oprosta. Ravnoteža nije moguća ako vaga tvog srca nosi previše zamjeranja. Oprost ne briše bol, ali donosi suosjećanje koje vraća sklad. Kada oprostiš, ti ne gubiš, već dobivaš – mir, povezanost i unutarnju jasnoću. Danas neka tvoj čin milosti obnovi ravnotežu u tvom životu. Oprost je ključ koji otvara vrata harmoniji koju tražiš.",
+  scorpio: "Tvoja priroda pamti duboko, a povrede često osjećaj poput uboda. Ali danas te oprost poziva da otpustiš otrov koji te drži vezanim za prošlost. Oprost ne briše ono što se dogodilo, već transformira tvoje iskustvo u snagu. Tvoja moć leži u sposobnosti da pretvoriš bol u mudrost. Kada oprostiš, oslobađaš energiju koja te može podići i obnoviti. Danas neka tvoj oprost bude čin unutarnje alkemije.",
+  sagittarius: "Tvoj duh teži slobodi, ali zamjeranja te mogu zadržati vezanim za prošlost. Danas te oprost poziva da pustiš i kreneš naprijed. Oprost nije za onoga kome ga daješ, već za tvoju vlastitu dušu koja žudi za otvorenim horizontima. Kada oprostiš, oslobađaš prostor za nove prilike i nove radosti. Tvoja prirodna vedrina vraća se kada prestaneš nositi ono što ti više ne pripada. Danas oprosti i kreni slobodno dalje.",
+  capricorn: "Naviknut si na snagu i disciplinu, ali čak i najjači posrnu. Danas se podsjeti da su pogreške ljudske i da oprost donosi obnovu. Oprostiti drugima, ali i sebi, ne znači biti slab, već dovoljno snažan da priznaš da svi učimo. Tvoj unutarnji temelj postaje stabilniji kada otpustiš ono što te pritišće. Danas oprosti i dopusti da tvoje srce pronađe mir. Tvoja snaga raste kada prihvatiš ljudskost u sebi i drugima.",
+  aquarius: "Tvoja vizija svijeta često ide dalje od pojedinačnih sukoba, ali i ti znaš koliko nesporazumi mogu boljeti. Danas te oprost podsjeća da je povezanost vrijedna truda. Oprost nije samo povratak mira, već i čin otvorenosti prema različitostima i ljudskoj nesavršenosti. Kada oprostiš, pokazuješ da tvoje srce može držati prostor i za razlike i za zajedništvo. Danas oprost donosi tvojoj duši osjećaj slobode.",
+  pisces: "Tvoja duša prirodno zna kako oprostiti, jer suosjećanje je utkano u tvoju bit. Danas vjeruj toj unutarnjoj mudrosti i dopusti da oprost poteče kroz tvoje srce poput rijeke. Oprost nije samo čin prema drugima, već i dar koji daješ sebi – oslobađanje od bola i povratak lakoći. Kada oprostiš, otvaraš prostor za iscjeljenje i nove snove. Danas neka tvoja osjetljivost vodi tvoje srce prema milosti i miru."
+},
+
+"2025-10-02": {
+  theme: "Jasnoća",
+  aries: "Tvoja prirodna impulzivnost često te vodi naprijed, ali danas se magla povlači i otkriva put koji si tražio. Odluka koja ti je dugo bila skrivena sada postaje očita. Vjeruj svojoj percepciji, jer ono što vidiš sada nije iluzija već istina. Kad prihvatiš jasnoću, osjećaš kako ti snaga raste i smjer postaje jednostavan. Danas prestaješ sumnjati i počinješ djelovati s povjerenjem, vođen svjetlom koje ti pokazuje pravi korak.",
+  taurus: "Jasnoća ti ne dolazi kroz užurbanost, već kroz tišinu i mir koji toliko cijeniš. Kada zastaneš i dopustiš sebi trenutak disanja, istina počinje isplivavati bez napora. Danas otkrivaš da jasnoća nije rezultat forsiranja, već dopuštanja. Tvoja unutarnja mudrost vodi te prema stabilnim odlukama, a kada se osloniš na tišinu, vidiš ono što je uvijek bilo tu. Jasnoća ti donosi sigurnost i mir u srcu.",
+  gemini: "Tvoj um često pleše između stotinu misli, ali danas se osjećaji i ideje počinju slagati u skladnu cjelinu. Ono što je bilo raspršeno sada postaje precizno i jasno. Danas govoriš s namjerom, a tvoje riječi imaju snagu da oblikuju stvarnost oko tebe. Jasnoća ti donosi moć da izraziš ono što drugi ne mogu pronaći riječi za. Tvoja komunikacija blista jer proizlazi iz unutarnjeg sklada i istine.",
+  cancer: "Osjećaji su ti duboki i ponekad zbunjujući, ali danas srce postaje glasnije i jasnije od bilo kakve buke. Emocionalna jasnoća dolazi poput vala smirenja, i napokon razumiješ što ti tvoje unutarnje ja govori. Ova jasnoća ti donosi osjećaj oslobođenja, jer više ne moraš nagađati ili se boriti s unutarnjim kontradikcijama. Kada znaš što tvoje srce želi, tvoj put postaje lagan i prirodan. Danas vjeruj tom tihom glasu.",
+  leo: "Tvoja prirodna vizija i snaga danas dobivaju dodatnu oštrinu. Kao da netko skida veo i pokazuje ti istinu koju si oduvijek slutio. Tvoja jasna vizija postaje svjetionik ne samo za tebe, već i za one koji te prate. Vodi s povjerenjem u ono što sada znaš i pokaži drugima kako jasnoća donosi hrabrost i smjer. Danas je tvoj zadatak da blistaš bez sumnje, usmjeren svjetlom istine koje vodi tvoje korake.",
+  virgo: "Tvoj analitički duh često traži detalje, a danas se oni napokon slažu u koherentnu cjelinu. Ono što si pažljivo slagao sada ti pokazuje širu sliku. Jasnoća je nagrada za tvoju strpljivost i marljivost. Sve što je izgledalo kaotično sada dobiva smisao. Danas se tvoja pažnja na sitnice isplati jer vodi do uvida koji ti donosi mir i smjer. Tvoja jasnoća je most između reda i mudrosti.",
+  libra: "Kao znak ravnoteže, jasnoća ti dolazi kroz sklad i unutarnji mir. Kada uspiješ uskladiti svoje misli i osjećaje, otkrivaš istinu koja ti je potrebna. Danas odnosi ili odluka koja ti je bila nejasna postaje jasnija. Ravnoteža ti donosi uvide koji te oslobađaju sumnje. Oprosti si zbog nesigurnosti i vjeruj svojoj sposobnosti da vidiš stvari objektivno. Jasnoća danas vraća harmoniju u tvoj svijet.",
+  scorpio: "Tvoja priroda voli istraživati dubine, a danas se upravo iz tih dubina rađa jasna istina. Možda te iznenadi ono što otkriješ, ali jasnoća je dar, čak i kada je izazovna. Ono što je skriveno sada izlazi na površinu i pokazuje ti put prema transformaciji. Prihvati ovaj uvid jer donosi moć i oslobođenje. Tvoja sposobnost da vidiš ispod površine sada postaje tvoj ključ za jasnoću i istinu.",
+  sagittarius: "Tvoja potraga za istinom i slobodom danas ti donosi trenutak jasne vizije. Put koji si tražio sada je vidljiv i poziva te da napraviš hrabar korak naprijed. Jasnoća ti daje uvjerenje da se krećeš u pravom smjeru. Tvoj optimizam i širina pogleda sada se spajaju u fokus koji vodi do rasta. Danas prestaješ sumnjati i počinješ djelovati s punom vjerom u ono što vidiš pred sobom. Tvoj korak je sada siguran.",
+  capricorn: "Tvoja prirodna težnja prema ciljevima danas dobiva jasnoću koja ti pokazuje prave prioritete. Sve što ti je odvlačilo pažnju sada se povlači, otkrivajući ono što je zaista važno. Jasnoća ti omogućuje da usmjeriš energiju tamo gdje će dati najviše ploda. Tvoj put postaje jednostavniji jer znaš što vrijedi, a što može otpasti. Danas usredotoči svoju snagu i disciplinu na ono što tvoje srce prepoznaje kao bitno.",
+  aquarius: "Tvoj um voli inovacije i neobične ideje, a danas doživljavaš mentalni proboj koji ti donosi jasnoću. Uvid koji stiže nije samo osoban, već vrijedan i za druge. Tvoje riječi i misli sada nose težinu i mogu inspirirati one oko tebe. Jasnoća ti daje hrabrost da podijeliš ono što znaš, jer tvoje viđenje stvari ima moć promijeniti. Danas tvoji uvidi donose svježinu i oslobođenje svima kojima ih povjeriš.",
+  pisces: "Tvoja intuicija često vodi tvoje odluke, i iako ti ponekad izgleda nejasno, danas ona postaje kristalno jasna. Ono što je prije bilo maglovito sada djeluje istinito i jednostavno. Jasnoća kroz intuiciju ti pokazuje kako vjerovati svom unutarnjem glasu bez sumnje. Kada slušaš taj tihi šapat, otkrivaš smjer koji je u skladu s tvojom dušom. Danas je tvoj dar da vidiš jasno kroz osjećaje i snove."
+},
+
+"2025-10-03": {
+  theme: "Ravnoteža",
+  aries: "Tvoja priroda voli krajnosti i nagle poteze, ali danas ti život šapuće da je snaga u sredini. Umjesto da goriš prebrzo ili stojiš potpuno mirno, pronađi ritam koji ti daje i energiju i mir. Ravnoteža znači da možeš djelovati hrabro, ali i slušati tišinu kada je potrebna. Kada prestaneš juriti između krajnosti, otkrivaš sklad u kojem tvoja vatra ne sagorijeva, već osvjetljava put. Danas pronađi sredinu koja ti daje dugotrajan sjaj.",
+  taurus: "Tvoje tijelo i duh traže sklad između rada i odmora. Često se previše posvetiš jednom, pa zaboraviš drugo. Danas je pravi trenutak da zastaneš i zapitaš se: gdje mogu pronaći mir, a gdje trebam uložiti trud? Ravnoteža nije luksuz, već potreba koja ti omogućava da budeš stabilan i snažan. Kada pružiš tijelu i odmora i aktivnosti, zahvalit će ti osjećajem lakoće i sigurnosti. Danas njeguj svoj ritam kroz uravnoteženost.",
+  gemini: "Tvoj um je kaleidoskop ideja, ali često dopustiš da jedna misao zasjeni sve ostale. Danas pronađi ravnotežu tako što ćeš dati prostor svim glasovima unutar sebe. Ne moraš birati odmah, već promatraj kako se svaka ideja razvija. Ravnoteža znači da dopuštaš raznolikosti da postoji bez haosa. Kada usmjeriš pažnju na sklad, tvoje misli postaju simfonija umjesto buke. Danas njeguj unutarnji dijalog s jednakim poštovanjem.",
+  cancer: "Tvoje srce i tvoja intuicija su ti vodiči, ali danas je važno pronaći ravnotežu i s glasom logike. Emocije nose toplinu, dok logika donosi jasnoću, i obje mudrosti su ti potrebne. Kada spojiš osjećaj i razum, tvoje odluke postaju snažne i pune smisla. Ravnoteža znači da ne moraš birati između ranjivosti i razuma, već da ih uskladiš. Danas je dan kada tvoje srce i um mogu plesati zajedno u harmoniji.",
+  leo: "Tvoja prirodna svjetlost i karizma često osvjetljavaju prostor, ali danas je poziv da pronađeš ravnotežu između svoje moći i davanja prostora drugima. Kada dijeliš pozornost i dopuštaš drugima da zablistaju, tvoja toplina raste umjesto da se smanjuje. Ravnoteža znači voditi i pratiti, inspirirati i podržati. Danas otkrij koliko je moćno kada svjetlost ne dolazi samo od tebe, već i od onih koji stoje uz tebe.",
+  virgo: "Tvoja težnja ka savršenstvu često te tjera da neprekidno dotjeruješ detalje, ali danas se sjeti da je napredak jednako vrijedan kao i preciznost. Ravnoteža znači znati kada stati i pustiti nešto da bude dovršeno, iako nije besprijekorno. Kada prihvatiš nesavršenost, oslobađaš se pritiska i otvaraš prostor za rast. Danas se sjeti: dovršeno je bolje od savršenog, jer ravnoteža donosi i mir i produktivnost.",
+  libra: "Kao znak vage, ti si utjelovljenje ravnoteže, ali danas si pozvan da svoju prirodnu mudrost živiš punim srcem. Ravnoteža nije samo ideja za tebe, već način postojanja koji donosi ljepotu svemu što dotakneš. Kada pronađeš sklad u sebi, on se prelijeva na tvoje odnose i odluke. Danas je prilika da pokažeš svijetu kako harmonija izgleda u praksi. Tvoja prisutnost postaje most između suprotnosti i izvor mira.",
+  scorpio: "Tvoja intenzivna priroda često te vodi u krajnosti, ali danas je poziv da pronađeš ravnotežu između vatre i nježnosti. Ne moraš uvijek biti snažan ratnik; ponekad je ranjivost jednako moćna. Ravnoteža znači znati kada se prepustiti i kada stati čvrsto. Kada pomiriš svoj intenzitet s blagosti, tvoja snaga postaje još dublja i mudrija. Danas pronađi sklad između žara svoje duše i nježnosti svoga srca.",
+  sagittarius: "Tvoja ljubav prema slobodi ponekad te odvodi predaleko, ali danas je dan da pronađeš ravnotežu između svojih avantura i svojih odgovornosti. Sloboda nije manja kada je u skladu s dužnošću; zapravo, ona postaje stabilnija. Ravnoteža znači da možeš putovati i rasti, a da ne izgubiš tlo pod nogama. Kada spojiš svoje strasti s obvezama, život ti donosi i radost i sigurnost. Danas pronađi taj dragocjeni sklad.",
+  capricorn: "Tvoja ambicija te gura naprijed, ali danas si pozvan da pronađeš ravnotežu između postignuća i radosti. Uspjeh je vrijedan, ali je slađi kada se dijeli i kada ne zaboraviš uživati u trenucima mira. Ravnoteža znači da tvoji ciljevi i tvoje zadovoljstvo mogu koegzistirati. Kada prigrliš radost jednako kao i rad, tvoja snaga postaje cjelovita. Danas njeguj taj sklad između discipline i sreće.",
+  aquarius: "Tvoja originalnost i želja za inovacijama često te vode izvan poznatog, ali danas pronađi ravnotežu između ideja i povezanosti s drugima. Tvoje vizije su snažne, no još su moćnije kada se dijele i kada se grade na ljudskom kontaktu. Ravnoteža znači da inovacija ne isključuje zajedništvo. Kada spojiš svoj genij s toplinom povezanosti, stvaraš čuda. Danas pronađi sklad između stvaranja i srca.",
+  pisces: "Tvoji snovi i intuicija vode te daleko, ali danas si pozvan da pronađeš ravnotežu između vizije i djelovanja. Mašta ti daje smjer, ali bez koraka ona ostaje samo san. Ravnoteža znači da tvoji snovi zaslužuju život u stvarnosti. Kada spojiš svoju osjetljivost s hrabrošću da djeluješ, tvoja vizija postaje opipljiva. Danas je dan kada tvoji snovi mogu zakoračiti u svijet stvarnosti kroz sklad između misli i čina."
+},
+
+"2025-10-04": {
+  theme: "Obnova",
+  aries: "Tvoja vatrena priroda uvijek traži pokret, a danas ti je darovan gumb za resetiranje. Sve što ti više ne služi možeš ostaviti iza sebe bez grižnje savjesti. Obnova ne znači slabost, već hrabrost da počneš iznova, bez obzira na prošle pogreške. Dopusti sebi da osjetiš uzbuđenje novog početka, kao da prvi put kročiš na svježi teren. Danas je tvoj trenutak da hrabro pritisneš 'reset' i povedeš sebe prema novom poglavlju.",
+  taurus: "Tvoja sklonost stabilnosti ponekad te zadrži u starom, ali danas te život poziva da otpustiš ono što je postalo ustajalo i teško. Obnova počinje u trenutku kada pustiš teret i stvoriš prostor za novo. Kada se oslobodiš vezanosti, osjećaš kako tvoje tijelo i duša dišu lakše. Danas ne moraš sve promijeniti odjednom; dovoljan je mali čin otpuštanja koji vraća svježinu. Obnova dolazi kroz jednostavnost i oslobođenje.",
+  gemini: "Tvoj um voli kretanje i ideje, a danas ti jasnoća donosi priliku za cvjetanje novih misli. Znatiželja ti je najbolji vodič i otvara vrata koja nisi ni znao da postoje. Obnova za tebe znači dopustiti da nove ideje zamijene stare obrasce. Kada slijediš svoj prirodni tok istraživanja, osjećaš kako se tvoj duh ponovno puni. Danas tvoje riječi, igre i razgovori mogu postati sjeme svježih početaka i inspiracije.",
+  cancer: "Tvoja duša duboko osjeća sve što te okružuje, a često nosiš više nego što bi trebao. Danas je trenutak emocionalne obnove. Dopusti sebi da spustiš taj teret i ponovno osjetiš lakoću. Obnova znači da tvoje srce dobiva priliku za novi dah, nježan i osvježavajući. Kada njeguješ svoje unutarnje dijete i pružiš mu mir, tvoje emocije se vraćaju u sklad. Danas si pozvan da obnoviš svoje unutarnje more tišinom i brigom za sebe.",
+  leo: "Tvoja prirodna snaga i svjetlost danas traže novo poglavlje. Obnova je tvoj urlik, tvoj hrabri korak u budućnost koja blista. Ne boj se ostaviti staro iza sebe, jer ono što dolazi još više odgovara tvojoj veličini. Kada se usudiš stati na novu pozornicu, tvoja energija obasjava sve oko tebe. Danas je tvoj trenutak da zakoračiš s ponosom i otvoriš vrata svom sjajnijem, obnovljenom ja.",
+  virgo: "Tvoj analitički duh voli red, a danas je obnova poput čišćenja ploče. Kada otpustiš nered, otvara se prostor za jasnoću i unutarnji mir. Novi početak ne mora biti savršen—dovoljan je osjećaj da si oslobodio prostor za svježinu. Obnova znači priliku da tvoji planovi budu jednostavniji i učinkovitiji. Danas se usmjeri na ono što je stvarno bitno i dopusti sebi osjećaj olakšanja koji donosi novi početak.",
+  libra: "Tvoja duša teži skladnim odnosima, a danas ti je darovana prilika za obnovu tih povezanosti. Možda je dovoljan mali gest, osmijeh ili riječ koja vraća toplinu u vezu. Obnova odnosa ne znači da moraš zaboraviti prošlost, već da stvaraš novu ravnotežu u sadašnjosti. Kada njeguješ harmoniju, osjećaš kako se ljubav i mir ponovno vraćaju u tvoj svijet. Danas tvoje srce ima moć donijeti svježinu u odnose.",
+  scorpio: "Tvoja priroda je uvijek usmjerena prema transformaciji, a danas ti život daje priliku da se uzdigneš iz pepela prošlosti. Obnova nije samo promjena, ona je tvoj način postojanja. Kada odbaciš ono što ti više ne služi, otvaraš vrata moći koja te vodi naprijed. Danas je tvoj trenutak da pokažeš svoju snagu kroz novi početak, da preobraziš bol u mudrost i slabost u snagu. Obnova ti donosi potpuno novo rođenje.",
+  sagittarius: "Tvoj duh je uvijek u potrazi za iskustvima, a danas obnova dolazi kroz avanturu. Kada se otvoriš novim horizontima, osjećaš kako tvoja energija ponovno oživljava. Reci 'da' nečemu što još nisi probao, jer upravo kroz nepoznato nalaziš svježinu. Obnova tvog duha dolazi kada putuješ, učiš i otvaraš se slobodi. Danas te poziva da pronađeš radost u nečemu novom i da obnoviš svoju vatru kroz istraživanje.",
+  capricorn: "Tvoja ambicija često te usmjerava prema ciljevima, ali danas je prilika da obnoviš svoje prioritete. Možda ono što je nekada bilo važno sada više nema istu snagu. Obnova znači sagledati svoje ciljeve novim očima i uskladiti ih s onim što te sada zaista pokreće. Kada si iskren prema sebi, otkrivaš da snaga ne dolazi samo iz postignuća, već i iz prilagodljivosti. Danas revidiraj svoje putovanje i obnovi ga svježim namjerama.",
+  aquarius: "Tvoja jedinstvena priroda voli izmišljati nove načine postojanja, a danas ti je darovana prilika da se ponovno izmisliš. Obnova za tebe nije samo promjena, ona je oblik oslobađanja i stvaranja. Kada hrabro kreneš u smjeru novih ideja i identiteta, osjećaš kako se tvoje srce puni slobodom. Danas je dan za hrabre odluke koje odražavaju tvoju originalnost. Obnova ti donosi osjećaj da si uistinu svoj.",
+  pisces: "Tvoji snovi i vizije često te nose daleko, a danas ti obnova donosi priliku da tim snovima udahneš novi život. Pusti da mašta ponovno slobodno teče, bez ograničenja i strahova. Obnova znači da tvoje unutarnje more ponovno postaje izvor inspiracije. Kada se povežeš sa svojom kreativnošću, osjećaš lakoću i smisao. Danas tvoji snovi nisu samo bijeg, već vrata prema obnovljenoj nadi i radosti."
+}
+
 });
 
 
@@ -441,81 +456,85 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-  "2025-10-05": {
-    theme: "Perspektiva",
-    aries: "Odstupi i sagledaj širu sliku. Ono što djeluje hitno možda nije važno.",
-    taurus: "Promijeni kut gledanja. Mala promjena otkriva dublju istinu.",
-    gemini: "Tvoj um je okretan—iskoristi ga da vidiš obje strane prije nego odabereš jednu.",
-    cancer: "Emocije zamagljuju pogled. Udahni, pa ponovno pogledaj s jasnoćom.",
-    leo: "Tvoj ponos može zamutiti perspektivu. Poniznost izoštrava uvid.",
-    virgo: "Detalji su važni, ali ne zaboravi šumu zbog stabala.",
-    libra: "Uravnoteži svoj pogled. Vidi ljepotu i u svjetlu i u sjeni.",
-    scorpio: "Pogledaj ispod površine. Perspektiva je slojevita—kopaj dublje.",
-    sagittarius: "Šira slika donosi mir. Ne zaglavi u trenutku.",
-    capricorn: "Perspektiva otkriva prioritete. Usredotoči se na ono što je zaista važno.",
-    aquarius: "Izazovi svoje pretpostavke. Novi kut gledanja te može iznenaditi.",
-    pisces: "Uđi u tuđe cipele. Empatija proširuje tvoju viziju."
-  },
-  "2025-10-06": {
-    theme: "Povjerenje",
-    aries: "Vjeruj svojim instinktima. Češće su bili točni nego što priznaješ.",
-    taurus: "Vjeruj procesu. Rast se događa, čak i ako ga ne vidiš.",
-    gemini: "Vjeruj svom glasu. Ono što danas kažeš nosi snagu i istinu.",
-    cancer: "Vjeruj svom srcu. Ono zna ono što logika ne može objasniti.",
-    leo: "Vjeruj drugima. Ranjivost gradi jače veze nego kontrola.",
-    virgo: "Vjeruj svojoj pripremi. Spremniji si nego što misliš.",
-    libra: "Vjeruj ravnoteži koju si stvorio. Ona će te držati stabilnim.",
-    scorpio: "Vjeruj transformaciji. Evoluiraš u nešto moćno.",
-    sagittarius: "Vjeruj putovanju. Čak i zaobilasci imaju smisao.",
-    capricorn: "Vjeruj svom temelju. Izgradio si ga s pažnjom i mudrošću.",
-    aquarius: "Vjeruj svojoj jedinstvenosti. Svijet treba tvoju perspektivu.",
-    pisces: "Vjeruj snu. Vodi te prema nečemu stvarnom."
-  },
-  "2025-10-07": {
-    theme: "Otpuštanje",
-    aries: "Otpusti potrebu za kontrolom. Sloboda dolazi nakon predaje.",
-    taurus: "Otpusti ono što više ne pruža utjehu. Rast počinje u nelagodi.",
-    gemini: "Otpusti buku. Tišina će otkriti što je važno.",
-    cancer: "Otpusti stare rane. Iscjeljenje počinje otpuštanjem.",
-    leo: "Otpusti reflektore. Danas se odmori u svojoj tihoj snazi.",
-    virgo: "Otpusti savršenstvo. Tvoja ljudskost je tvoja ljepota.",
-    libra: "Otpusti potrebu da svima udovoljiš. Tvoja istina zaslužuje prostor.",
-    scorpio: "Otpusti prošlost. Vrijeme je da se uzdigneš iz pepela.",
-    sagittarius: "Otpusti kartu. Putovanje će te voditi.",
-    capricorn: "Otpusti pritisak. Dozvoljeno ti je disati.",
-    aquarius: "Otpusti plan. Inovacija cvjeta u kaosu.",
-    pisces: "Otpusti iluziju. Stvarnost ima svoju magiju."
-  },
-  "2025-10-08": {
-    theme: "Povezanost",
-    aries: "Javi se. Jednostavna poruka može ponovno zapaliti nešto značajno.",
-    taurus: "Povezanost se gradi polako. Budi prisutan, ne savršen.",
-    gemini: "Razgovaraj s nekim novim. Znatiželja stvara mostove.",
-    cancer: "Otvori srce. Povezanost počinje ranjivošću.",
-    leo: "Podijeli svoju radost. Ljudi su privučeni tvojom svjetlošću.",
-    virgo: "Povezanost cvjeta u iskrenosti. Danas reci ono što misliš.",
-    libra: "Ti si ljepilo u svom krugu. Ojačaj veze s gracioznošću.",
-    scorpio: "Pusti nekoga unutra. Povezanost te ne slabi—ona te produbljuje.",
-    sagittarius: "Istraži novu vezu. Povezanost je vlastita avantura.",
-    capricorn: "Budi pouzdan. Povezanost raste kroz dosljednost.",
-    aquarius: "Proslavi svoj plemenski krug. Povezanost ne znači konformizam.",
-    pisces: "Osjeti energiju oko sebe. Povezanost je danas duhovna."
-  },
-  "2025-10-09": {
-    theme: "Transformacija",
-    aries: "Promjena je tvoje gorivo. Spali staro i uzdigni se novo.",
-    taurus: "Transformacija zahtijeva vrijeme. Vjeruj sporom razvoju.",
-    gemini: "Tvoje ideje evoluiraju. Otpusti zastarjele uvjerenja.",
-    cancer: "Emocionalne promjene donose obnovu. Dopusti si da osjećaš i tečeš.",
-    leo: "Odbacuješ stari identitet. Zakorači u svoje novo poglavlje.",
-    virgo: "Transformiraj svoje rutine. Male promjene vode do velikih rezultata.",
-    libra: "Transformacija počinje izborom. Napravi onaj koji te plaši.",
-    scorpio: "Ti si feniks. Danas se uzdigni iz vlastitog pepela.",
-    sagittarius: "Transformacija je pokret. Pusti da tvoj duh slobodno luta.",
-    capricorn: "Promijeni strategiju. Transformacija je alat, ne prijetnja.",
-    aquarius: "Ponovno se izmisli. Nisi stvoren da ostaneš isti.",
-    pisces: "Transformacija je duhovna. Neka tvoja duša vodi put."
-  }
+"2025-10-05": {
+  theme: "Perspektiva",
+  aries: "Tvoj vatreni duh često želi djelovati odmah, no danas si pozvan da zastaneš i sagledaš širu sliku. Ono što ti djeluje hitno možda uopće nije ključno za tvoju budućnost. Kada se odmakneš korak unatrag, vidiš kako se komadići života uklapaju u skladnu cjelinu. Perspektiva ti donosi mudrost da razlikuješ bitno od prolaznog i snagu da usmjeriš svoju energiju tamo gdje zaista vrijedi.",
+  taurus: "Tvoja stabilna priroda voli čvrste temelje, no danas te život poziva da promijeniš kut gledanja. Možda mala promjena u načinu na koji gledaš na situaciju otkriva novu istinu koja ti je promicala. Perspektiva ne znači gubitak sigurnosti, već dobivanje novih slojeva mudrosti. Kada dopustiš sebi da vidiš stvari iz drugačijeg ugla, otvaraš prostor za rast i dublje razumijevanje.",
+  gemini: "Tvoj brzi um prirodno vidi obje strane, a danas je to tvoj najveći dar. Prije nego što izabereš jednu, zastani i istraži sve mogućnosti koje ti se nude. Perspektiva znači da ne moraš odabrati odmah, već da koristiš svoju sposobnost da istražiš nijanse. Kada se osloniš na tu unutarnju fleksibilnost, otvaraš put odlukama koje nisu samo pametne, već i usklađene sa srcem.",
+  cancer: "Tvoje srce često vodi tvoj pogled, no emocije mogu zamagliti istinu. Danas udahni duboko i pruži si trenutak tišine prije nego što doneseš zaključak. Perspektiva se rađa u balansu osjećaja i jasnoće. Kada oslobodiš pogled od magle tuge ili straha, otkrivaš da tvoja intuicija zna put. Danas vidiš dalje nego što misliš, ako si dovoljno nježan da usporiš i pogledaš iznutra.",
+  leo: "Tvoj ponos i svjetlost ponekad ti mogu zamutiti pogled, jer gledaš kroz prizmu ega. Danas te perspektiva poziva na poniznost. Kada dopustiš da srce vodi, a ne samo želja za sjajem, tvoj uvid postaje oštriji. Poniznost ne umanjuje tvoju snagu, već je produbljuje. Danas učiš da tvoja najveća moć nije u tome da dominiraš, već u tome da vidiš istinu jasnim očima i otvorenim srcem.",
+  virgo: "Tvoj um voli detalje i analizu, ali danas ti perspektiva donosi poruku da ne zaboraviš šumu zbog stabala. Kada se previše izgubiš u sitnicama, šira slika ti izmiče. Obnova pogleda dolazi kad se odmakneš i vidiš kako se sve uklapa u skladnu cjelinu. Danas tvoj dar za preciznost dobiva novu snagu ako ga spojiš s uvidom u širu viziju koja daje smisao svakom detalju.",
+  libra: "Tvoja priroda teži ravnoteži, a danas ti perspektiva pomaže da je pronađeš. Vidi ljepotu i u svjetlu i u sjeni, jer obje strane zajedno stvaraju skladnu cjelinu. Kada sagledaš stvari iz više kutova, otkrivaš da ništa nije potpuno crno ni bijelo. Tvoja sposobnost da uvažavaš kontraste postaje tvoj dar svijetu. Danas tvoja vizija postaje most između suprotnosti.",
+  scorpio: "Tvoja prirodna dubina te uvijek tjera da ideš ispod površine, a danas ti perspektiva otkriva slojevitost istine. Ono što se vidi na prvi pogled često skriva bogatstvo iza kulisa. Kada se usudiš kopati dublje, otkrivaš mudrost koja transformira i tebe i druge. Danas tvoj uvid nadilazi površne pojave i postaje ključ za pravo razumijevanje onoga što se događa.",
+  sagittarius: "Tvoj duh voli slobodu i putovanja, a danas ti perspektiva daje širu sliku koja donosi mir. Nema potrebe da se zaglaviš u trenutnim problemima, jer kada pogledaš iz daljine, vidiš da su mali u usporedbi s cijelim putovanjem. Perspektiva ti vraća lakoću i podsjeća te da svaki korak ima smisao. Danas tvoj pogled prema horizontu donosi jasnoću i smirenost.",
+  capricorn: "Tvoja usmjerenost na ciljeve često te vodi kroz uske staze ambicije, no danas perspektiva otkriva što je doista važno. Kada se odmakneš od popisa zadataka i pogledaš širu sliku, vidiš svoje prioritete jasnije. Perspektiva ti pomaže da ne trošiš energiju na ono što je prolazno, već da usmjeriš snagu na temelje koji ostaju. Danas tvoja mudrost raste iz sposobnosti da razlikuješ bitno od sporednog.",
+  aquarius: "Tvoja originalna priroda voli izazivati norme, a danas ti perspektiva donosi priliku da iznenadiš i sebe. Kada osporiš vlastite pretpostavke i gledaš na situaciju iz potpuno novog kuta, otvaraš vrata uvidima koji mijenjaju sve. Perspektiva je tvoj alat za slobodu i autentičnost. Danas otkrij kako neočekivani pogled može postati most prema tvojoj najvećoj istini.",
+  pisces: "Tvoja osjetljivost ti često daje duboku intuiciju, a danas ti perspektiva poručuje da je proširiš kroz empatiju. Uđi u tuđe cipele, osjeti njihov put i pogledaj svijet očima drugih. Kada sagledaš situaciju kroz tuđe iskustvo, tvoja vizija postaje šira i mekša. Perspektiva ti ne oduzima snove, već im dodaje ljudsku toplinu. Danas tvoja empatija otvara vrata dubljoj istini."
+},
+
+"2025-10-06": {
+  theme: "Povjerenje",
+  aries: "Tvoj vatreni duh često srlja naprijed bez oklijevanja, ali danas se pozivaš na dublju snagu: povjerenje u vlastite instinkte. Oni su ti već nebrojeno puta pokazali put, čak i kad si sumnjao u njih. Povjerenje ne znači slijepo kretanje, već prepoznavanje unutarnjeg kompasa koji je utemeljen na iskustvu i intuiciji. Danas se osloni na osjećaj u trbuhu—on zna istinu prije uma.",
+  taurus: "Tvoja priroda voli sigurnost i opipljive rezultate, no rast često dolazi ispod površine, nevidljiv očima. Danas je tvoj zadatak vjerovati procesu, čak i ako nemaš dokaze na dohvat ruke. Sjeme koje si posijao klija u tišini, i povjerenje je tvoja voda koja ga njeguje. Kada otpustiš potrebu da odmah vidiš rezultate, otkrivaš mir u saznanju da život radi za tebe.",
+  gemini: "Tvoje riječi su lagane poput zraka, ali danas nose posebnu snagu i istinu. Vjeruj svom glasu, jer ono što izgovaraš može donijeti jasnoću i drugima i tebi. Povjerenje u vlastitu sposobnost izražavanja znači da ne moraš sumnjati u vrijednost svojih ideja. Kada se usudiš govoriti iz srca, otkrivaš da tvoj glas nije samo odjek, već iskra koja pali povezanost i inspiraciju.",
+  cancer: "Tvoje srce je osjetljivo, ali upravo ta nježnost je tvoja najveća snaga. Danas ti povjerenje znači da slušaš ono što ti unutarnji osjećaj šapće, čak i kad logika ne pronalazi objašnjenje. Srce zna istine koje um često ne može pojmiti. Kada mu vjeruješ, otvaraš vrata intuiciji koja vodi prema sigurnosti i ljubavi. Danas ti tvoje srce pokazuje put nježnim, ali snažnim glasom.",
+  leo: "Tvoja želja za kontrolom i sjajem može ti nekad otežati da se osloniš na druge. No danas je povjerenje u ljude oko tebe ključ tvoje snage. Kada dopustiš sebi ranjivost i otvoriš srce, otkrivaš da prava moć dolazi iz povezanosti, a ne iz dominacije. Povjerenje gradi mostove koji su snažniji od zidova. Danas tvoje povjerenje drugima donosi toplinu i novu vrstu bliskosti.",
+  virgo: "Tvoja marljivost i pažnja prema detaljima učinili su te spremnijim nego što misliš. Danas je tvoj izazov vjerovati svojoj pripremi i priznati koliko si uložio u svoje znanje i vještine. Povjerenje znači da ne moraš sve iznova provjeravati—već dopustiti da tvoj trud sada pokaže rezultate. Kada vjeruješ sebi, otkrivaš da si već izgradio stabilne temelje za uspjeh.",
+  libra: "Tvoj život često traži balans između suprotnosti, i danas je povjerenje u tu ravnotežu tvoj oslonac. Sve što si radio kako bi uspostavio sklad sada te podržava, i nema potrebe za sumnjom. Povjerenje znači da možeš mirno stajati u centru svojih odluka i odnosa. Danas ti jasnoća dolazi iz uvjerenja da ravnoteža koju si stvorio ima snagu održati te i u izazovima.",
+  scorpio: "Tvoja priroda te uči da ništa nije trajno i da svaka kriza nosi sjeme preobrazbe. Danas je povjerenje u transformaciju tvoj vodič. Možda nešto staro odumire, ali to nije kraj—već početak moćnije verzije tebe. Povjerenje znači predati se procesu promjene, čak i kada se čini zastrašujućim. Tvoja snaga leži u tome da znaš kako iz pepela uvijek izranjaš obnovljen i snažniji.",
+  sagittarius: "Tvoj duh uvijek gleda prema horizontu, a danas je povjerenje u samo putovanje tvoje sidro. Čak i zaobilaznice, prepreke ili zastoji imaju svrhu i smisao. Povjerenje znači da ne moraš sve razumjeti odmah—jer svaka etapa tvog puta uči te nečemu važnom. Danas otkrivaš slobodu u saznanju da si točno tamo gdje trebaš biti, i da ti put donosi više nego samo cilj.",
+  capricorn: "Tvoja predanost i rad izgradili su čvrste temelje, i danas te povjerenje podsjeća da staneš na njih s ponosom. Možda sumnjaš u sebe ili u budućnost, ali sve što si radio godinama pokazuje da imaš snagu i stabilnost za sljedeći korak. Povjerenje znači osloniti se na ono što si već stvorio. Danas otkrivaš sigurnost u vlastitim rukama i mir u spoznaji da tvoja kuća stoji čvrsto.",
+  aquarius: "Tvoja jedinstvenost je dar koji svijet treba, iako ti ponekad može djelovati kao teret. Danas ti povjerenje znači prigrliti svoju posebnost bez razvodnjavanja ili skrivanja. Ono što ti vidiš drukčije upravo je ono što može donijeti promjenu i inspiraciju drugima. Povjerenje u vlastitu perspektivu otvara vrata tvojoj autentičnoj snazi. Danas tvoje ideje mogu postati svjetionik.",
+  pisces: "Tvoja duša često plovi između snova i stvarnosti, a danas ti povjerenje šapće da san nije bijeg, već putokaz. Tvoje vizije i intuicija vode te prema nečemu stvarnom, iako se možda još ne vidi jasno. Povjerenje znači dopustiti snovima da budu temelj tvoje stvarnosti, a ne samo iluzija. Danas shvaćaš da ono što zamišljaš može biti most prema ostvarenju koje tek dolazi."
+},
+
+"2025-10-07": {
+  theme: "Otpuštanje",
+  aries: "Tvoj plamteći duh često želi kontrolirati sve oko sebe, ali današnji dan te poziva da otpustiš tu potrebu. Sloboda i snaga dolaze ne iz stiskanja, već iz predaje. Kada dopustiš životu da te vodi bez borbe, otvaraš prostor za nepredviđene darove. Otpuštanje nije gubitak, već čin povjerenja—i u sebe i u tok koji te nosi. Danas otkrivaš kako istinska snaga dolazi iz opuštanja.",
+  taurus: "Tvoja priroda traži sigurnost i udobnost, no postoje stvari koje su izgubile svoju toplinu i više te ne hrane. Danas je vrijeme da otpustiš ono što ti više ne pruža mir, čak i ako je nelagodno učiniti taj korak. Rast ne dolazi iz stagnacije, već iz hrabrosti da izađeš iz zone poznatog. Otpuštanjem starog stvaraš prostor za novu stabilnost, zdraviju i snažniju nego prije.",
+  gemini: "Tvoj um je često prepun riječi, ideja i razgovora, ali danas te poziv prati: otpusti buku. Kad se utiša vanjski svijet, otkrivaš jasnoću koja se krije u tišini. Otpuštanje nepotrebnih glasova i raspršenih misli omogućava ti da prepoznaš što je zaista važno. Tišina nije praznina—ona je prostor u kojem tvoje najdublje ideje mogu zasjati i pronaći svoj pravi oblik i smjer.",
+  cancer: "Tvoje srce čuva mnogo uspomena i rana, ali danas te poziv traži da otpustiš teret prošlosti. Stare boli ne moraju oblikovati tvoju sadašnjost. Kada otpustiš ono što je bilo, otvaraš prostor da ljubav i iscjeljenje ponovno uđu. Otpuštanje ne znači zaboraviti, već prestati nositi težinu koja sputava tvoj rast. Danas tvoje srce može pronaći nježnost i mir u slobodi oprosta.",
+  leo: "Tvoj sjaj često traži svjetla reflektora, no danas je trenutak da otpustiš potrebu da stalno budeš viđen i priznat. Tvoja snaga ne dolazi iz publike, već iz tvoje unutarnje vatre. Odmor od pozornice donosi ti tišinu i regeneraciju. Kada otpustiš pritisak da blistaš, otkrivaš dubinu svoje mirne snage. Danas tvoj najveći sjaj leži u tome da budeš u miru sa sobom, bez publike.",
+  virgo: "Tvoja težnja savršenstvu može te često iscrpljivati, jer život nije stvoren da bude bezgrešan. Danas te poziv traži da otpustiš tu potrebu i prihvatiš svoju ljudskost kao najveću ljepotu. Male nesavršenosti su ono što te čini stvarnim i dragocjenim. Otpuštanjem kontrole nad svakim detaljem otkrivaš slobodu i mir. Danas učiš da ne mora sve biti savršeno da bi bilo vrijedno.",
+  libra: "Tvoj dar za ravnotežu često te tjera da svima udovoljavaš, ali danas otpuštanje znači prepoznati da tvoja istina zaslužuje prostor, čak i ako naruši prividni sklad. Kada se odrekneš potrebe da stalno ugađaš drugima, otkrivaš unutarnji mir i autentičnost. Tvoje srce traži da mu dopustiš glas bez kompromisa. Otpuštanjem iluzije savršene harmonije stvaraš prostor za iskrenost.",
+  scorpio: "Tvoja snaga leži u transformaciji, ali kako bi se ponovno uzdigao, moraš otpustiti prošlost koja te drži vezanog. Danas je trenutak da spališ ono što više ne služi i dozvoliš da pepeo postane temelj tvog ponovnog rađanja. Otpuštanje ne znači slabost, već oslobođenje. Svaka sjena koju pustiš oslobađa tvoju moć i strast. Danas tvoja duša pronalazi slobodu u preobražaju.",
+  sagittarius: "Tvoja potreba za planovima i kartama ponekad sputava tvoju istinsku avanturističku prirodu. Danas te poziva otpuštanje kontrole nad smjerom. Kada pustiš kartu, otkrivaš ljepotu putovanja koje te vodi samo od sebe. Otpuštanjem plana dopuštaš životu da te iznenadi i proširi tvoje horizonte. Danas avantura počinje ne tamo gdje si zamislio, već tamo gdje te vodi vjetar.",
+  capricorn: "Tvoja predanost ciljevima često ti stvara osjećaj pritiska i odgovornosti. Danas je trenutak da otpustiš taj teret i dopustiš sebi dah olakšanja. Snaga se ne mjeri samo u postignućima, već i u sposobnosti da zastaneš i odmoriš. Otpuštanje pritiska ne znači gubitak ambicije, već stvaranje prostora za zdraviji napredak. Danas tvoje tijelo i duh traže da udahneš slobodnije.",
+  aquarius: "Tvoja genijalna priroda voli planirati i izmišljati unaprijed, ali danas otpuštanje znači pustiti planove i dopustiti kaosu da donese inspiraciju. Inovacija se rađa u trenucima nepredvidljivosti, kad stvari ne idu prema rasporedu. Otpuštanjem kontrole nad ishodom otvaraš vrata originalnosti. Danas tvoja najbolja ideja može doći iz neočekivanog nereda, baš ondje gdje nisi tražio.",
+  pisces: "Tvoja osjetljiva duša često se skriva u iluzijama jer stvarnost može djelovati preteško. Danas je poziv da otpustiš te veo i vidiš svijet onakav kakav jest. U toj jednostavnoj stvarnosti krije se magija dublja od bilo kojeg sna. Otpuštanjem iluzije ne gubiš nadu—već otkrivaš čaroliju koja postoji u običnom, stvarnom životu. Danas tvoje oči mogu otkriti ljepotu u istini."
+},
+
+"2025-10-08": {
+  theme: "Povezanost",
+  aries: "Tvoja strast često te vodi prema novim izazovima, ali danas je poziv jednostavan—javi se nekome. Jedna poruka, poziv ili riječ može ponovno zapaliti iskru odnosa koji ti znači više nego što priznaješ. Povezanost ne zahtijeva grandiozne geste, već iskrenu prisutnost. Kada se povežeš iz srca, otkrivaš da čak i mali čin pažnje može stvoriti most ljubavi i povjerenja koji traje.",
+  taurus: "Tvoja priroda voli sigurnost i stabilnost, a upravo takvi temelji grade istinsku povezanost. Danas te poziv traži da budeš prisutan, bez potrebe da budeš savršen. Ljudi oko tebe žele tvoju toplinu i dosljednost više od idealiziranih riječi. Povezanost raste polako, poput korijena drveta—duboko, tiho i snažno. Danas njeguj vezu kroz jednostavne, ali iskrene geste pažnje.",
+  gemini: "Tvoj um i jezik puni su živosti, a povezanost danas dolazi kroz razgovor. Dopusti znatiželji da te vodi do novih ljudi ili do dubljih razgovora s onima koje već znaš. Riječi su tvoja valuta mostova—svaka razmjena misli otvara vrata razumijevanju. Danas je pravi trenutak da iskoristiš svoju darovitost za komunikaciju i stvoriš mrežu odnosa koja ti hrani duh i srce.",
+  cancer: "Tvoje srce često krije duboke osjećaje iza zaštitnog oklopa, ali danas povezanost zahtijeva ranjivost. Kada se otvoriš i podijeliš ono što osjećaš, otkrivaš koliko ljubavi i podrške stoji spremno da te primi. Povezanost ne traži savršenstvo, već iskrenost. Danas dopusti sebi da pokažeš svoje pravo lice, jer upravo u toj nježnosti rađa se najdublja i najiskrenija bliskost.",
+  leo: "Tvoja svjetlost prirodno privlači ljude, ali povezanost cvjeta tek kada tu radost podijeliš. Danas je trenutak da svoju toplinu usmjeriš prema onima oko sebe. Budi sunce koje grije, a ne samo zvijezda koja blista sama. Kada svoju radost podijeliš, stvaraš prostor gdje se i drugi osjećaju slobodno sijati. Povezanost ti donosi ne samo divljenje, već i ljubav koja se vraća višestruko.",
+  virgo: "Tvoja težnja savršenstvu često te zadržava od iskrene povezanosti, jer strahuješ da nisi dovoljno. Danas te poziv traži da budeš iskren, čak i ako riječi nisu savršene. Ljudi žele tvoju autentičnost više nego tvoju preciznost. Povezanost raste kada se usudiš pokazati svoje misli onakvima kakve jesu. Danas reci ono što misliš i otkrit ćeš da istina stvara najčvršće veze.",
+  libra: "Tvoja prirodna gracioznost čini te ljepilom u svakom krugu odnosa. Danas je dan da iskoristiš tu sposobnost kako bi ojačao veze koje su ti važne. Povezanost ne znači žrtvovati sebe, već unositi ravnotežu i sklad. Tvoj dar je u tome da vidiš ljepotu i povežeš ljude kroz nju. Danas tvoje geste mogu stvoriti mostove mira i harmonije, dajući tvom krugu osjećaj topline i zajedništva.",
+  scorpio: "Tvoja dubina često te navodi da čuvaš svoj unutarnji svijet samo za sebe, ali danas povezanost znači pustiti nekoga bliže. Otvaranje ne znači slabost—ono je snaga koja te čini još slojevitijim i bogatijim. Kada podijeliš svoje istine, otkrivaš da drugi mogu nositi tvoju ranjivost s poštovanjem. Danas dopusti vezi da produbi tvoju moć, umjesto da je smanji.",
+  sagittarius: "Tvoja duša uvijek traži avanturu, a danas je povezanost upravo ta nova ekspedicija. Istraži novu vezu, razgovor ili priliku za susret s osobom izvan tvoje uobičajene orbite. Povezanost je svojevrsno putovanje—otvara horizonte i mijenja tvoj pogled na svijet. Danas možeš otkriti da istinska avantura ne leži samo u udaljenim mjestima, već i u srcima koja odlučiš upoznati.",
+  capricorn: "Tvoja snaga je u dosljednosti i pouzdanosti, a upravo to gradi istinsku povezanost. Ljudi se osjećaju sigurno uz nekoga tko je postojan, a danas je tvoja prilika da pokažeš tu snagu. Povezanost ne nastaje iz velikih gesta, već iz svakodnevnog povjerenja. Kada se pojaviš i budeš prisutan, izgrađuješ mostove koji traju. Danas tvoja pouzdanost postaje temelj ljubavi i zajedništva.",
+  aquarius: "Tvoja priroda voli slobodu i individualnost, ali povezanost ne znači gubitak tvoje jedinstvenosti. Danas proslavi svoj krug ljudi, svoje pleme, jer upravo oni čine tvoje ideje snažnijima. Povezanost nije konformizam, već mreža podrške koja poštuje tvoju autentičnost. Kada se okružiš onima koji te razumiju, tvoja vizija raste. Danas tvoje zajedništvo postaje izvor snage.",
+  pisces: "Tvoja osjetljiva duša osjeća energije dublje od riječi, a danas povezanost dolazi na duhovnoj razini. Osjeti puls oko sebe, ne samo kroz razgovor, već kroz tišinu, pogled ili nježan dodir. Povezanost je više od interakcije—ona je dijeljenje duše. Danas otkrivaš da si povezan s drugima i kroz nevidljive niti suosjećanja. U toj tihoj magiji pronalaziš mir i ljubav."
+},
+"2025-10-09": {
+  theme: "Transformacija",
+  aries: "Promjena je tvoj prirodni element—ona hrani tvoju vatru i pokreće tvoj korak. Danas si pozvan da spališ ono što više ne služi, čak i ako ti je bilo poznato i udobno. Transformacija nije gubitak, već oslobođenje prostora za novo. Kao iskra koja pokreće plamen, tvoja hrabrost donosi život svemu što odlučiš započeti iznova. Dopusti sebi da budeš simbol početka i snage.",
+  taurus: "Za tebe, transformacija nikada nije nagla—ona je poput polaganog rasta biljke koja se budi u proljeće. Danas vjeruj procesu koji možda ne vidiš, ali se odvija duboko ispod površine. Nije potrebno ubrzavati promjenu; tvoje strpljenje je tvoja snaga. Transformacija se događa kroz male, ali dosljedne pomake, i vodi te u mirniji i stabilniji oblik života u kojem se osjećaš sigurno.",
+  gemini: "Tvoj um stalno istražuje, a danas si pozvan da transformiraš svoja uvjerenja. Neke ideje koje su ti nekoć služile sada su poput praznih školjki—vrijeme je da ih ostaviš za sobom. Dopusti da tvoja misao evoluira, da se tvoje riječi prilagode onome tko postaješ. Kada otpustiš staro, otvaraš prostor za uvide koji će ti donijeti slobodu i jasnoću. Promjena uma donosi promjenu života.",
+  cancer: "Tvoja osjetljivost danas doživljava preobrazbu. Emocionalne promjene koje prolaziš možda djeluju intenzivno, ali nose u sebi obećanje obnove. Kada dopustiš sebi da osjetiš i ne zadržiš bol, pretvaraš se u rijeku koja teče slobodno. Tvoja transformacija je nježna, ali moćna—ona briše teret prošlosti i priprema tvoje srce za nove oblike ljubavi, nježnosti i povezanosti.",
+  leo: "Ti si zvijezda, ali čak i najsjajnije zvijezde prolaze kroz cikluse transformacije. Danas je vrijeme da odbaciš stari identitet, onaj koji je možda bio oblikovan očekivanjima drugih. Tvoja prava snaga leži u hrabrosti da zakoračiš u novo poglavlje. Kada se usudiš pustiti staro, tvoje svjetlo postaje još čistije i autentičnije. Transformacija ti otvara vrata veličanstvenijem obliku sebe.",
+  virgo: "Za tebe, transformacija nije nagla drama, već pažljiva prilagodba. Danas si pozvan da promijeniš svoje rutine, da uvedeš male pomake koji će dugoročno donijeti velike rezultate. Tvoja snaga leži u detaljima, a svaki sitni korak je dio većeg procesa evolucije. Kada transformiraš način na koji se krećeš kroz svakodnevicu, mijenjaš temelje svog života i stvaraš prostor za mir i jasnoću.",
+  libra: "Tvoj život često stoji na raskrižjima, a danas transformacija počinje upravo izborom. Možda te privlači onaj koji ti ulijeva strah, jer upravo iza njega leži rast. Kada biraš, oblikuješ sebe, a tvoje odluke su sjeme budućnosti. Transformacija nije pasivna—ona traži da djeluješ, da se usudiš. Danas napravi korak prema promjeni i otkrit ćeš da te ravnoteža čeka na drugoj strani.",
+  scorpio: "Nitko ne razumije transformaciju bolje od tebe. Ti si feniks, onaj koji se uvijek ponovno uzdiže iz pepela, snažniji nego prije. Danas je tvoj trenutak da napustiš sjene koje su ti bile dom i da se uspraviš u svojoj novoj snazi. Tvoja dubina ti daje dar da se mijenjaš u potpunosti, a ne samo površno. Dopusti da staro umre kako bi tvoje novo ja moglo živjeti punom snagom.",
+  sagittarius: "Za tebe, transformacija je uvijek pokret—ona se događa kada putuješ, istražuješ i širiš svoje horizonte. Danas si pozvan da pustiš duh da slobodno luta, jer upravo tamo gdje izađeš iz poznatog leži tvoja preobrazba. Kada prihvatiš putovanje, i ono unutarnje i ono vanjsko, otvaraš prostor za nova iskustva koja mijenjaju tvoju bit. Tvoja transformacija je sloboda u akciji.",
+  capricorn: "Tvoj svijet često se temelji na strategiji i planiranju, ali danas transformacija dolazi kroz promjenu taktike. Nije slabost prilagoditi se—naprotiv, to je najveća snaga. Kada mijenjaš svoj pristup, otvaraš vrata novim mogućnostima i rastu. Tvoja transformacija je alat, a ne prijetnja. Danas prepoznaj da fleksibilnost može ojačati tvoje temelje i osigurati trajni uspjeh.",
+  aquarius: "Tvoja priroda je vizionarska, a transformacija za tebe znači ponovno izmišljanje. Danas si pozvan da izađeš iz starih okvira i dopustiš sebi da postaneš netko nov. Nisi stvoren da ostaneš isti, jer tvoje srce uvijek traži inovaciju. Kada se usudiš odvojiti od prošlih definicija sebe, otkrivaš slobodu i snagu autentičnosti. Tvoja transformacija je dar i svijetu i tebi samome.",
+  pisces: "Za tebe, transformacija nikada nije samo vanjska—ona je uvijek duhovna. Danas si pozvan da se prepustiš svojoj unutarnjoj mudrosti, svojoj duši koja zna put i kada ga tvoj um ne vidi. Kada se otvoriš promjeni, postaješ poput vode koja teče i oblikuje svoj put s lakoćom. Tvoja transformacija je iscjeljujuća, jer ne mijenja samo tebe, već i one koji dodirnu tvoju nježnost i san."
+}
+
 });
 
 
@@ -524,66 +543,69 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-  "2025-10-10": {
-    theme: "Otpornost",
-    aries: "Preživio si oluje—danas stani ponosno u svojoj snazi.",
-    taurus: "Tvoji korijeni su duboki. Otpornost je tvoja tiha supermoć.",
-    gemini: "Vrati se sjajnije nego prije. Tvoja prilagodljivost je tvoj oklop.",
-    cancer: "Emocionalna otpornost je tvoj dar. Osjećaj duboko, uzdigni se nježno.",
-    leo: "Bio si testiran—sada sjajiš jače nego ikad.",
-    virgo: "Otpornost živi u tvojim rutinama. Nastavi se pojavljivati, čak i kad je teško.",
-    libra: "Ravnoteža se vraća nakon kaosa. Tvoja gracioznost je tvoj oporavak.",
-    scorpio: "Uzdigneš se iz pepela. Danas je tvoja snaga neosporna.",
-    sagittarius: "Tvoj duh je neslomljiv. Neka optimizam vodi tvoj povratak.",
-    capricorn: "Otpornost se gradi s vremenom. Jači si nego što misliš.",
-    aquarius: "Tvoje ideje opstaju. Čak i kad su izazvane, držiš svoj stav.",
-    pisces: "Tvoja nježnost je snaga. Obiđi prepreke i nastavi dalje."
-  },
-  "2025-10-11": {
-    theme: "Mudrost",
-    aries: "Mudrost nije brzina—već znanje kada treba stati. Danas razmisli prije nego djeluješ.",
-    taurus: "Tvoje iskustvo je vrijedno. Podijeli svoj uvid s nekim kome je potreban.",
-    gemini: "Mudrost dolazi iz slušanja. Neka tišina nauči nešto novo.",
-    cancer: "Tvoja emocionalna dubina nosi drevnu mudrost. Vjeruj onome što osjećaš.",
-    leo: "Mudrost je znati kada voditi, a kada slijediti. Danas biraj mudro.",
-    virgo: "Tvoja pažnja prema detaljima otkriva skrivene istine. Mudrost živi u promatranju.",
-    libra: "Mudrost je ravnoteža. Odvaži svoje izbore srcem i razumom.",
-    scorpio: "Tvoja intuicija je mudra. Ne sumnjaj u ono što već znaš.",
-    sagittarius: "Mudrost je putovanje, ne odredište. Razmisli o onome što si naučio.",
-    capricorn: "Tvoja disciplina je mudra. Danas se tvoja strpljivost isplati.",
-    aquarius: "Mudrost je nekonvencionalna. Vjeruj svojoj jedinstvenoj perspektivi.",
-    pisces: "Tvoji snovi nose mudrost. Slušaj što ti duša šapuće."
-  },
-  "2025-10-12": {
-    theme: "Nada",
-    aries: "Nada je tvoje gorivo. Neka zapali tvoj sljedeći korak.",
-    taurus: "Nada raste polako. Njeguj je kao vrt.",
-    gemini: "Izgovori nadu u svijet. Tvoje riječi mogu podići druge.",
-    cancer: "Nada iscjeljuje. Neka ti danas omekša srce.",
-    leo: "Nada sjaji kroz tebe. Budi svjetlo koje nekome treba.",
-    virgo: "Nada živi u napretku. Proslavi male pobjede.",
-    libra: "Nada je harmonija. Neka ti obnovi unutarnji mir.",
-    scorpio: "Nada transformira bol. Neka te vodi prema ponovnom rođenju.",
-    sagittarius: "Nada je avantura. Sanjaj o onome što dolazi i vjeruj da je moguće.",
-    capricorn: "Nada se zaslužuje—ali danas si dopusti vjerovati bez dokaza.",
-    aquarius: "Nada je inovacija. Zamislite bolju budućnost i počni je graditi.",
-    pisces: "Nada je duhovna. Neka teče kroz tvoju umjetnost, srce i dušu."
-  },
-  "2025-10-13": {
-    theme: "Integracija",
-    aries: "Spoji sve zajedno. Tvoja prošlost, sadašnjost i budućnost spremne su za usklađivanje.",
-    taurus: "Integriraj svoje vrijednosti u svoje postupke. Danas živi svoju istinu.",
-    gemini: "Tvoje ideje su spremne za spajanje. Neka tvoja dualnost postane jedinstvo.",
-    cancer: "Prigrli sve strane sebe. Integracija donosi emocionalni mir.",
-    leo: "Tvoja snaga je cjelovita. Danas vodi srcem i razumom.",
-    virgo: "Neka logika i intuicija rade zajedno. Integracija je tvoja jasnoća.",
-    libra: "Ravnoteža nije razdvajanje—već integracija. Neka suprotnosti koegzistiraju.",
-    scorpio: "Tvoja sjena i svjetlost su svete. Danas poštuj cijeli spektar.",
-    sagittarius: "Integriraj svoje lekcije. Mudrost sada postaje djelovanje.",
-    capricorn: "Tvoja ambicija i suosjećanje mogu koegzistirati. Neka te zajedno vode.",
-    aquarius: "Spoji svoju viziju s stvarnošću. Integracija je ono što je čini opipljivom.",
-    pisces: "Tvoji snovi i odluke spremni su se susresti. Danas djeluj iz svoje duše."
-  }
+"2025-10-10": {
+  theme: "Otpornost",
+  aries: "Prošao si kroz oluje, nosio terete koje drugi nisu vidjeli, i svaki put pronašao način da ustaneš jači. Danas stani ponosno u svojoj snazi, jer otpornost nije samo preživljavanje, već i sposobnost da ponovno zasjaš nakon tame. Tvoje srce je tvoj štit, a tvoje iskustvo tvoj mač. Ne boj se pokazati svijetlu stranu svoje borbe, jer ona je dokaz tvoje neuništive vatre.",
+  taurus: "Tvoji korijeni su duboki i hrane tvoju otpornost, čak i kada vjetrovi pokušaju poljuljati tvoju stabilnost. Tvoja snaga nije glasna, već tiha i postojana, poput zemlje koja drži sve na svom mjestu. Danas se sjeti da tvoja sigurnost dolazi iznutra, iz tvoje postojanosti i vjere u vlastitu vrijednost. Nema oluje koja može iščupati ono što raste iz tvoje unutarnje tišine.",
+  gemini: "Tvoja prilagodljivost je tvoja najveća moć. Bez obzira koliko puta te život srušio, ti se uvijek vraćaš svježiji, kreativniji i spremniji nego prije. Otpornost ti omogućava da se preoblikuješ, da pronađeš nove riječi, nove puteve i nove odgovore kada stari prestanu djelovati. Danas dopusti sebi da zasjaš kao dokaz da fleksibilnost nije slabost, već tvoj najjači oklop.",
+  cancer: "Tvoja emocionalna otpornost je tvoj dar svijetu. Osjećaš duboko, proživljavaš intenzivno, ali uvijek pronalaziš snagu da se ponovno uzdigneš s nježnošću u srcu. Tvoja osjetljivost nije slabost, već most ka iscjeljenju i snazi. Danas se sjeti da ranjivost i otpornost mogu postojati zajedno, i da tvoje suze hrane tvoju unutarnju mudrost. U njima se skriva tvoja prava hrabrost.",
+  leo: "Svijet te testirao, suočio s izazovima koji su mogli ugasiti tvoje svjetlo—ali ono sada sjaji još jače. Tvoja otpornost dolazi iz tvoje sposobnosti da nikada ne zaboraviš tko si, čak i u najmračnijim trenucima. Danas stani uspravno, dopusti sebi da blistaš, jer tvoje svjetlo je lekcija svima oko tebe: da istinska snaga nije u pobjedi bez borbe, već u hrabrosti da nastaviš dalje.",
+  virgo: "Otpornost se u tvom životu gradi kroz svakodnevne rutine, kroz male i dosljedne korake koji čuvaju tvoju stabilnost. Čak i kada je teško, ti se pojavljuješ, obavljaš zadatke i održavaš red koji ti daje snagu. Danas znaj da upravo u tim sitnim navikama leži tvoja moć da se ponovno izgradiš iznutra. Tvoj oporavak nije spektakl, već tiha, ali nepokolebljiva posvećenost sebi.",
+  libra: "Za tebe, otpornost znači povratak ravnoteže nakon što kaos preuzme tvoje misli i srce. Tvoja gracioznost nije izbjegavanje boli, već tvoj način da se vratiš u sklad i pronađeš ljepotu i u nesavršenstvu. Danas znaj da tvoja sposobnost da ponovno uspostaviš mir nije slabost, već najveća snaga. U tvom povratku harmoniji leži inspiracija svima oko tebe da pronađu vlastitu ravnotežu.",
+  scorpio: "Tvoja otpornost je neosporna, jer ti znaš kako se uzdići iz pepela i pretvoriti bol u moć. Nijedna sjena ne može zauvijek obuzdati tvoju snagu, jer ti u svakoj transformaciji pronalaziš novu verziju sebe. Danas se sjeti da tvoja dubina i tvoja tama nisu teret, već gorivo za tvoje ponovno rođenje. Kao feniks, ti uvijek iznova pronalaziš snagu da se uzdigneš još veličanstvenije.",
+  sagittarius: "Tvoj duh je neslomljiv jer ga hrani optimizam i potraga za širinom. Čak i kada padneš, vraćaš se s vjerom da te čeka nešto bolje. Otpornost za tebe znači ne prestati sanjati i ne prestati istraživati. Danas dopusti da te tvoja radost vodi natrag, jer smijeh i nada su tvoje najjače oružje. Tvoj povratak nakon izazova uvijek donosi nove avanture i nova otkrića.",
+  capricorn: "Tvoja otpornost nije izgrađena preko noći, već polako, kao planina koja nastaje tisućama godina. Svaki izazov koji si savladao učinio te jačim, čak i ako toga nisi uvijek bio svjestan. Danas znaj da u tebi živi tiha, strpljiva snaga koja te drži čvrsto i kada sve drugo posrne. Otpornost ti daje moć da ideš dalje, jer si već dokazao sebi da možeš izdržati više nego što misliš.",
+  aquarius: "Tvoje ideje su tvoji temelji, a otpornost se pokazuje u tvojoj sposobnosti da ih držiš čvrsto čak i kada ih drugi osporavaju. Tvoja snaga leži u tvojoj originalnosti i tvojoj hrabrosti da se ne uklopiš. Danas se sjeti da otpornost ne znači biti tvrdoglav, već vjerovati u vlastitu viziju dok se ona ne pokaže vrijednom. Tvoja istina je tvoj štit, a tvoja jedinstvenost tvoja pobjeda.",
+  pisces: "Tvoja nježnost je tvoja otpornost, jer znaš kako obići prepreke poput vode koja uvijek nađe svoj put. Nisi stvoren da se slomiš pod pritiskom—umjesto toga, pronalaziš tihe načine da nastaviš dalje. Danas znaj da tvoja sposobnost da ostaneš mekan u tvrdom svijetu nije slabost, već tvoja najveća snaga. U tvojoj suosjećajnosti živi hrabrost, a u tvojoj mašti lijek za sve rane."
+},
+
+"2025-10-11": {
+  theme: "Mudrost",
+  aries: "Mudrost nije u brzini, već u sposobnosti da znaš kada je vrijeme stati i promisliti. Tvoja prirodna energija tjera te prema akciji, ali danas ti život šapuće da zastaneš, udahneš i poslušaš unutarnji glas. Snaga je u strpljenju i promišljenosti, jer svaka odluka donesena iz smirenosti vodi prema većoj jasnoći. Nauči danas da ponekad najhrabriji čin nije skok, već čekanje pravog trenutka.",
+  taurus: "Tvoje iskustvo je dragocjen dar, jer si prošao kroz lekcije koje su oblikovale tvoju unutarnju mudrost. Danas tvoje riječi ili tvoja prisutnost mogu biti svjetionik za nekoga tko traži smjer. Podijeli svoj uvid s onima kojima je potreban, jer tvoje znanje nije samo tvoje. Tvoja postojanost i stabilnost daju snagu drugima, a mudrost ti pokazuje da dijeljenje jača i tvoju vlastitu sigurnost.",
+  gemini: "Tvoja priroda voli riječi i razgovor, ali mudrost te danas uči tišini. U prostoru između rečenica kriju se najveće lekcije, a slušanje ti može otkriti istine koje ti je promaklo dok si govorio. Budi otvoren prema drugima i dopusti da njihove priče postanu tvoji učitelji. Nauči danas da mudrost nije u brbljanju, već u pažljivom slušanju i u spremnosti da primiš ono što je skriveno.",
+  cancer: "Tvoja emocionalna dubina nosi mudrost staru poput mora. Osjećaš ono što drugi ne mogu izgovoriti, a tvoja intuicija ti daje uvide koji nadilaze logiku. Danas vjeruj osjećajima, jer oni te vode prema istini koju razum ne može dokučiti. Tvoja brižnost i suosjećanje su tvoji najveći učitelji—mudrost ti govori da njeguješ i sebe, jer samo tako možeš podijeliti svjetlost sa svima oko sebe.",
+  leo: "Mudrost nije uvijek u vođenju, već i u znanju kada prepustiti pozornicu drugima. Tvoja prirodna snaga privlači pažnju, ali danas život traži od tebe poniznost i sposobnost da budeš i učenik, a ne samo vođa. Kada biraš mudro, tvoja svjetlost ne zasjenjuje druge, već ih potiče da zasjaju zajedno s tobom. Nauči danas da istinski kralj zna kada povesti, a kada slušati srce svoga naroda.",
+  virgo: "Tvoja pažnja prema detaljima otkriva istine koje drugima promiču. U promatranju i analizi skriva se tvoja mudrost, jer upravo u sitnicama pronalaziš skrivene poruke života. Danas obrati pozornost na ono što se čini nevažno, jer ti detalji nose lekcije koje mogu promijeniti tvoj pogled. Tvoja sposobnost da povezuješ sitne niti u jasnu sliku dokaz je tvoje tihe, ali moćne mudrosti.",
+  libra: "Mudrost za tebe leži u ravnoteži između srca i razuma. Danas si pozvan odvagnuti svoje izbore pažljivo, ali i s dozom suosjećanja. Kada odluke donosiš u harmoniji, one postaju dugoročno ispravne. Tvoja unutarnja vaga nije teret, već dar koji ti omogućava da vidiš obje strane i pronađeš sredinu koja hrani sve uključene. Mudrost ti šapće da sklad nije bijeg, već najdublja snaga.",
+  scorpio: "Tvoja intuicija je duboka i protkana mudrošću koja često dolazi iz vlastitih transformacija. Nosio si svoje sjene i u njima pronašao dragocjene lekcije. Danas ne sumnjaj u ono što osjećaš, jer tvoje unutarnje znanje vodi te ispravno. Mudrost ti govori da se istina ne mora uvijek dokazivati—ona jednostavno jest. Tvoje srce zna put i dovoljno je da mu dopustiš da bude tvoj vodič.",
+  sagittarius: "Mudrost za tebe nije kraj, već putovanje. Svaka avantura, svaka pogreška i svaka radost bili su tvoji učitelji. Danas zastani i promisli o onome što si naučio do sada, jer tvoja snaga leži u iskustvu koje nosiš. Mudrost nije u brzom trčanju prema sljedećem horizontu, već u prepoznavanju ljepote trenutka u kojem jesi. Znanje raste kad dopustiš sebi da učiš cijelim putem.",
+  capricorn: "Tvoja disciplina i strpljivost su oblik mudrosti koji se rijetko viđa. Znaš da velike stvari zahtijevaju vrijeme i trud, i da brzina često vodi ka propustu. Danas će se tvoja dosljednost isplatiti, a tvoje odluke pokazati svoju pravu vrijednost. Mudrost ti govori da se pouzdaješ u procese koje si započeo, jer oni polako grade temelj tvoje budućnosti. Tvoja snaga je u ustrajnosti.",
+  aquarius: "Tvoja mudrost nije tradicionalna, već nekonvencionalna, obojena vizijama koje drugi možda ne razumiju. Danas vjeruj svojoj jedinstvenoj perspektivi, jer upravo ona donosi rješenja koja nadilaze uobičajeno. Tvoja sposobnost da vidiš svijet iz drugačijeg kuta dar je koji oblikuje budućnost. Mudrost ti govori da ne moraš biti shvaćen odmah—vrijeme će potvrditi tvoju originalnost.",
+  pisces: "Tvoji snovi i intuicija nose drevnu mudrost koju riječi ne mogu u potpunosti opisati. Danas poslušaj što ti duša šapuće u tišini, jer odgovori dolaze kroz osjećaje, slike i simbole. Tvoja povezanost s nevidljivim svjetovima vodi te prema spoznaji koja nadilazi logiku. Mudrost ti govori da vjeruješ u nježnost svojih vizija, jer u njima se skriva istina koja hrani i tvoju i tuđu dušu."
+},
+
+"2025-10-12": {
+  theme: "Nada",
+  aries: "Nada je tvoje gorivo i vatra koja nikada ne gasne, čak i kada sumnja prijeti da je ugasi. Danas dopusti toj iskri da zapali tvoj sljedeći korak, jer svaki početak, ma koliko mali, nosi obećanje budućnosti. Tvoja hrabrost raste kada vjeruješ da je moguće ono što još ne vidiš. Drži oči otvorene i srce spremno—nada ti pokazuje put koji vodi prema svjetlu.",
+  taurus: "Nada raste polako, poput stabla koje se širi u nebo, a korijene spušta dublje u zemlju. Danas je njeguj strpljenjem i ljubavlju, kao što njeguješ vrt koji zahtijeva pažnju i vrijeme. Iako ne vidiš odmah plodove, znaj da će tvoj trud procvjetati u trenutku kada bude najpotrebnije. Nada je tvoja tiha snaga, zakopana u tlu tvoje postojanosti.",
+  gemini: "Tvoje riječi nose moć, a danas im je dar da izgovore nadu u svijet. Kada govoriš s vjerom i optimizmom, tvoji glasovi postaju mostovi koji podižu i povezuju druge. Nada se množi kad se dijeli, a ti je širiš lako, gotovo nesvjesno. Danas dopusti da tvoji razgovori budu poput svjetla—riječi koje inspirišu, ohrabruju i bude povjerenje u ono što dolazi.",
+  cancer: "Nada iscjeljuje baš kao i ljubav. Tvoje srce, osjetljivo i nježno, danas neka pronađe utjehu u vjerovanju da bol nije kraj, već prijelaz. Nada je poput mekog vala koji obavija tvoje emocije i daje ti snagu da nastaviš dalje. Ona te poziva da otpustiš tugu i prigrliš novi početak. Tvoja snaga leži u tome što se usuđuješ vjerovati čak i kad boli.",
+  leo: "Nada sjaji kroz tebe poput sunca koje probija oblake nakon oluje. Tvoja prisutnost je inspiracija, jer ljudi osjete tvoju vjeru i toplinu čak i kad ne izgovoriš nijednu riječ. Danas budi svjetlo koje nekome treba—osmijeh, ruka podrške ili hrabra riječ mogu zapaliti iskru u tuđem srcu. Tvoja snaga je u tome što prirodno širiš optimizam i vjeru u život.",
+  virgo: "Nada za tebe živi u napretku, u malim koracima koji potvrđuju da se stvari kreću naprijed, čak i kad to izgleda sporo. Danas proslavi male pobjede, jer one su dokaz da tvoj trud ima smisla. Nada ne traži savršenstvo, već prisutnost i vjeru u proces. Kada si nježan prema sebi i priznaš koliko si već postigao, u tvom srcu rađa se prostor za još više povjerenja u budućnost.",
+  libra: "Nada je harmonija koja vraća mir tvojoj unutarnjoj vagi. Kada svijet oko tebe djeluje nesigurno, danas pronađi ravnotežu u vjerovanju da će se stvari posložiti na najbolji način. Tvoja duša se obnavlja kada dopustiš da nada teče kroz tebe poput melodije koja vraća sklad. Ona ti donosi snagu da pronađeš ljepotu čak i u nesavršenosti trenutka.",
+  scorpio: "Tvoja snaga je u transformaciji, a nada je ključ koji otvara vrata toj promjeni. Danas dopusti da nada pretvori bol u lekciju, a sjećanja u gorivo za novi početak. Kada vjeruješ u ponovno rođenje, svaka rana postaje izvor snage. Nada je poput feniksa u tebi—podsjeća te da ništa izgubljeno nije kraj, već početak novog poglavlja tvoje moći i istine.",
+  sagittarius: "Tvoj duh žudi za horizontima, a nada je tvoja avantura danas. Sanjaj o onome što dolazi i vjeruj da je moguće, čak i ako se još ne vidi put. Tvoja snaga je u vjeri da budućnost uvijek nosi nova vrata koja čekaju da budu otvorena. Nada je tvoj kompas—pokazuje ti da sloboda i radost nisu negdje daleko, već u svakom koraku kojim se usudiš krenuti.",
+  capricorn: "Naviknut si vjerovati samo u ono što se može izgraditi i dokazati, ali danas nada dolazi kao dar bez uvjeta. Dopusti sebi da vjeruješ čak i bez rezultata ili garancija. Tvoj temelj je jak, ali sada se traži da mu dodaš i zrno povjerenja u ono što tek dolazi. Nada ti daje odmor od težine odgovornosti i uči te da snovi također imaju vrijednost, čak i prije nego se ostvare.",
+  aquarius: "Tvoja priroda gleda unaprijed, a nada je danas tvoja najdraža inovacija. Zamislite svijet kakav može biti—bolji, pravedniji i slobodniji—i počni ga graditi kroz svoje ideje i postupke. Tvoja vizija inspirira druge, a nada je most između onoga što sanjaš i onoga što može postati stvarnost. Danas pusti da tvoja kreativnost bude oblik nade za sve oko tebe.",
+  pisces: "Nada je za tebe duhovna i bezvremenska. Ona teče kroz tvoju umjetnost, tvoje srce i tvoje snove poput melodije koja nadilazi granice stvarnog. Danas dopusti da te nada vodi, bilo kroz stvaranje, molitvu ili tiho razmišljanje. Tvoja snaga leži u tome što vidiš svjetlost čak i u tami, a tvoja nježnost je podsjetnik drugima da nikada nije kasno vjerovati u čuda."
+},
+
+"2025-10-13": {
+  theme: "Integracija",
+  aries: "Danas ti se nudi prilika da spojiš sve niti svoga putovanja u jedno snažno tkanje. Prošlost više nije teret, već učenje; sadašnjost je tvoja pozornica; budućnost je spremna primiti tvoju hrabrost. Integracija je trenutak kada tvoje iskustvo postaje jasno gorivo za ono što dolazi. Ne razdvajaj—poveži. Snaga je u tome da sve što jesi stane rame uz rame i radi zajedno u tvoju korist.",
+  taurus: "Vrijeme je da tvoje vrijednosti i tvoji postupci progovore istim jezikom. Integracija za tebe znači živjeti svoju istinu, ne samo u mislima, već i u svakom djelu i odluci. Kada tvoja unutarnja uvjerenja pronađu mjesto u vanjskom svijetu, osjećaš mir koji ne možeš kupiti niti posuditi. Danas dopusti da tvoje riječi, djela i tišina odražavaju ono što je zaista važno u tvom srcu.",
+  gemini: "Tvoje ideje su poput zvijezda—svaka svijetli zasebno, ali danas je dan da ih povežeš u jednu konstelaciju. Integracija je tvoje majstorstvo: tvoje dualnosti, proturječnosti i igre misli sada se mogu sjediniti u jasnoću. Neka tvoji razgovori i vizije pronađu središte koje ih drži. Kada tvoje razdvojene strane surađuju, rađa se cjelovitost koja te vodi dalje s lakoćom i elegancijom.",
+  cancer: "Danas si pozvan da prigrliš sve strane sebe—nježnu, ranjivu, hrabru i zaštitničku. Integracija donosi emocionalni mir, jer ti dopušta da ne biraš samo jedan dio već prihvatiš cijeli spektar svog unutarnjeg mora. Tvoje srce raste kad prestaneš skrivati ono što osjećaš i dopustiš svemu da koegzistira. To nije slabost—to je tvoja najveća snaga i put ka unutarnjoj slobodi.",
+  leo: "Tvoja snaga je potpuna tek kada vodiš i srcem i razumom. Danas integracija znači pustiti ponos da se uskladi s empatijom, i hrabrost da ide ruku pod ruku s nježnošću. Kada sve tvoje strane sjaje zajedno, tvoja prisutnost postaje magnetična i iscjeljujuća. Ne moraš birati između moći i ljubavi—u cjelovitosti, oboje žive zajedno i čine tvoje vodstvo uzvišenim.",
+  virgo: "Za tebe integracija znači prestati birati između logike i intuicije. Danas dopusti da rade zajedno, jer kada se razum i srce udruže, dobivaš jasnoću koja je i precizna i duboka. Ne moraš se više boriti da dokažeš koji je glas jači. Spoji ih, i pronaći ćeš unutarnju sigurnost koja ti otvara vrata rješenjima na koja nisi ni pomišljao. Tvoja cjelovitost je tvoja mudrost.",
+  libra: "Ravnoteža nije razdvajanje, već integracija. Danas pronađi način da suprotnosti postoje zajedno, bez sukoba. Ljepota tvog puta je u sposobnosti da vidiš i svjetlo i sjenu, i da im daš prostor. Kada spojiš ono što se čini proturječnim, otkrivaš harmoniju koja ne traži savršenstvo već prisutnost. Danas pleši između različitih tonova i pronađi melodiju života.",
+  scorpio: "Tvoja sjena i tvoje svjetlo nisu neprijatelji, već sveti saveznici. Integracija znači priznati oba pola i dati im pravo da budu dio tebe. Tvoja dubina nije slabost, kao ni tvoje svjetlo površnost. Kada ih spojiš, tvoje biće postaje potpuno i neuništivo. Danas pogledaj u ogledalo i poštuj cijeli spektar svoje prirode. Tek u toj potpunosti osjećaš svoju pravu snagu.",
+  sagittarius: "Svaka avantura te naučila lekciju, a danas je vrijeme da ih integriraš. Tvoje iskustvo nije razbacano niti izgubljeno—ono se spaja u mudrost koja sada može postati djelovanje. Integracija znači živjeti naučeno, a ne samo sanjati o tome. Tvoj put je pun slobode, ali sada sloboda dolazi s dubljim značenjem: da znaš tko si, kamo ideš i zašto ideš tim putem.",
+  capricorn: "Tvoja ambicija i tvoje suosjećanje mogu postojati zajedno. Integracija danas znači da ne moraš birati između uspjeha i ljudskosti. Kada tvoje težnje postanu usklađene s tvojim srcem, gradiš nešto što je ne samo snažno već i sveto. Tvoja cjelovitost nije u odricanju jednog za drugo, već u dopuštanju da se oboje ujedine i vode te prema istinskom uspjehu.",
+  aquarius: "Tvoje vizije često lete visoko, ali danas integracija znači spustiti ih na zemlju i spojiti s realnošću. Tvoj dar nije samo u zamišljanju boljeg svijeta, već u tome da ga učiniš opipljivim. Integracija te podsjeća da mašta i akcija nisu suprotstavljene, već partneri. Kada spojiš svoje snove s konkretnim koracima, tvoja jedinstvenost dobiva snagu da mijenja svijet.",
+  pisces: "Tvoji snovi i tvoje odluke danas su spremni susresti se. Integracija znači djelovati iz svoje duše, ne bježati u iluziju niti odgađati. Kada tvoja intuicija pronađe most prema tvojoj stvarnosti, svaki korak postaje čin čarolije. Danas si pozvan spojiti svoju maštu s hrabrošću djelovanja. Tvoje biće je najpotpunije kad prestaneš birati između snova i stvarnosti—jer oni su jedno."
+}
 });
 
 
