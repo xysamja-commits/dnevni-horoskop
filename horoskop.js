@@ -175,7 +175,7 @@ pisces:
 
 
 Object.assign(horoscopes, {
-"2025-09-19": {
+"2025-09-15": {
   theme: "Odnosi",
   aries: "Povezanost raste kad zaustaviš vlastiti plamen i naučiš slušati tišinu drugoga. Tvoja prirodna snaga je akcija, ali danas je dar u prisutnosti. Budi rame, budi uho, budi dah koji smiruje nemir. Kada drugome pokloniš prostor da progovori, pokazuješ ljubav snažniju od riječi. Ponekad najveća hrabrost nije govoriti, već šutjeti i osjećati. Danas tvoje srce ne osvaja svijet, već gradi most povjerenja s onim tko ti je najbliži.",
   taurus: "Tvoje srce zna graditi temelje, a tvoje ruke znaju pružiti mir. U odnosima tvoja snaga je poput stijene – čvrsta, tiha i nepokolebljiva. Danas ponudi nekome sigurnost, i gledaj kako povjerenje cvjeta poput ruže na proljetnom suncu. Ljubav se ne rađa u velikim riječima, već u malim, stalnim gestama. Kada pokažeš da si tu, bez obzira na oluje, drugi u tebi pronalaze utočište. Tvoja ljubav je dom u kojem se srce osjeća sigurno.",
