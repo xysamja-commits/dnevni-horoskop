@@ -1,5 +1,5 @@
 const horoscopes = {
-"2025-09-14": {
+"2025-10-14": {
   theme: "Refleksija",
   aries: "Danas osjećaš nalet ambicije, ali prije nego zakoračiš naprijed, zastani i pitaj se što te zaista pokreće. Tvoja hrabrost je tvoj kompas, no smjer kojim ideš treba biti usklađen s tvojom unutarnjom istinom, a ne samo s vanjskim priznanjem. Refleksija ti danas donosi jasnoću: što je gorivo tvoje vatre—želja za dokazivanjem ili stvarna strast? Kada odgovoriš iskreno, svaki korak postaje jači i sigurniji.",
   taurus: "Usporavanje ti danas donosi mir, a iz tog mira rađa se jasnoća. Refleksija ti pomaže da sagledaš odluku koju već dugo odgađaš. Umjesto da se povučeš u rutinu, priušti sebi trenutak tišine i pogledaj unutra. Što ti donosi osjećaj sigurnosti, a što te zadržava u zastoju? Tvoja snaga leži u sposobnosti da pronađeš stabilnost u jednostavnosti, a današnja introspekcija otkriva put prema trajnom miru.",
@@ -15,7 +15,7 @@ const horoscopes = {
   pisces: "Tvoje snove danas obavija posebna jasnoća—oni nisu samo slike, već poruke tvoje podsvijesti. Refleksija ti daje priliku da zastaneš i oslušneš što ti ti simboli žele reći. Tvoja duhovna priroda zna čitati između redaka stvarnosti, a danas je dan kada ti snovi mogu pokazati istinu koju si tražio. Zapiši ih, razmisli o njima—oni su vodiči ka tvojoj unutarnjoj mudrosti i miru."
 }
 ,
-  "2025-09-15": {
+  "2025-10-15": {
     theme: "Ljubav",
     aries:
 "Ljubav traži ranjivost, Ovne. Tvoja prirodna snaga i hrabrost često te vode kroz život, ali u ljubavi je snaga u otvaranju srca. Spuštanje garda danas ti može donijeti neočekivanu bliskost i duboku povezanost. Razmisli o tome što te sprječava da pokažeš svoje istinske osjećaje i dopusti partneru da vidi tko si stvarno. Danas je savršen trenutak da iskreno izraziš ljubav kroz riječi, geste ili sitne pažnje koje dolaze iz srca. Kada dopuštaš ranjivost, stvaraš prostor za uzajamno povjerenje. Budi iskren prema svojim emocijama, čak i ako se čine rizičnima. Mali trenuci pažnje, poput zajedničke šetnje, iskrenog razgovora ili nežnog dodira, mogu produbiti intimnost više nego veliki gestovi. Otvorenost u ljubavi ne znači slabost; ona stvara dublje veze i istinsku harmoniju u odnosu. Reflektiraj na svoj odnos i prepoznaj trenutke kada si već bio otvoren—ti trenuci pokazuju koliko tvoja iskrenost može transformirati vezu. Danas hrabro pokaži srce i dopusti ljubavi da te vodi. Otvorenost vodi do emocionalnog rasta, jačanja povjerenja i produbljivanja intimnosti u vezi.",
@@ -53,7 +53,7 @@ aquarius:
 pisces:
 "Romantika teče kroz tvoju dušu, Ribo. Tvoji osjećaji i intuicija danas su posebno snažni, a snovi i maštanja mogu ti otkriti što tvoje srce stvarno želi. Neka tvoji unutarnji osjećaji budu vodič u izražavanju ljubavi. Razmisli kako svoje emocije možeš prenijeti voljenoj osobi kroz riječi, geste ili pažnju. Tvoje srce stvara duboku povezanost i emocionalnu intimnost. Nemoj se bojati izraziti svoje želje i snove, jer kroz iskrenu otvorenost razvijaš najdublje odnose. Snovi ti također mogu pružiti uvid u partnerove potrebe. Dopusti mašti da te vodi i istražuj ljubav kroz kreativne i nježne načine. Otvorenost, intuicija i iskreni osjećaji stvaraju trajnu, duboku i bogatu emocionalnu vezu. Danas ljubav nije samo čin, već iskustvo koje prolazi kroz tvoju dušu i otvara prostor za dublje razumijevanje i povezanost."
   },
-  "2025-09-16": {
+  "2025-10-16": {
     theme: "Karijera",
     aries:
 "Preuzmi inicijativu, Ovne. Tvoje vodstvo danas blista i hrabar potez može otvoriti vrata novih prilika. Razmisli o projektima ili idejama koje si dugo odgađao—danas je trenutak da pokažeš svoju odlučnost i sposobnost donošenja odluka. Tvoja energija i samopouzdanje mogu inspirirati druge i otvoriti vrata uspjehu. Reflektiraj na svoja profesionalna postignuća i razmisli gdje želiš biti sljedeće. Mali, ali odlučni koraci danas mogu donijeti velike promjene. Vodstvo nije samo preuzimanje kontrole; radi se o motiviranju i podržavanju tima. Slušaj intuiciju i koristi je za strateške odluke. Fokusiraj se na ono što želiš postići, ali ostani otvoren za nove ideje i prilike koje dolaze iz neočekivanih izvora. Danas je savršen dan da preuzmeš inicijativu, pokažeš hrabrost i stvoriš momentum koji može oblikovati tvoju karijeru na duže staze. Tvoj liderstvo i odlučnost danas mogu biti ključni u postizanju profesionalnog uspjeha i stvaranju trajnog dojma.",
@@ -91,7 +91,7 @@ aquarius:
 pisces:
 "Kreativnost pokreće tvoju karijeru, Ribo. Ne boj se predložiti nešto sanjarsko. Danas reflektiraj na načine kako kreativni pristup može poboljšati projekte ili otvoriti nove prilike. Tvoja intuicija i maštovitost mogu te voditi ka rješenjima koja drugi ne vide. Razmišljaj o projektima gdje tvoja originalnost može imati najveći utjecaj i pokaži svoju sposobnost inovativnog razmišljanja. Reflektiraj na dosadašnje uspjehe i kako kreativne ideje mogu oblikovati tvoju profesionalnu budućnost. Danas je savršen trenutak da predstaviš svoju viziju, izradi kreativni plan i podijeli ideje s kolegama ili mentorima. Tvoja mašta i intuicija danas mogu otvoriti vrata neočekivanim prilikama i osigurati napredak u karijeri. Ne boj se misliti veliko i izražavati kreativnost na autentičan način—to vodi do profesionalnog rasta i dugoročnog uspjeha."
   },
-  "2025-09-17": {
+  "2025-10-17": {
     theme: "Intuicija",
    aries:
 "Zastani prije nego djeluješ, Ovne. Tvoj osjećaj zna više od logike danas i može te voditi kroz situacije koje zahtijevaju promišljene odluke. Reflektiraj na trenutke kada si slijedio intuiciju i kako su rezultati bili pozitivni. Danas je idealno vrijeme da se osvrneš na svoje unutarnje osjećaje prije nego što poduzmeš akciju. Tvoja intuicija može otkriti prilike ili upozoriti na moguće izazove koje logika možda ne vidi. Obrati pažnju na sitne znakove, unutarnje poruke i osjećaje u tijelu—oni su često pokazatelji ispravnog smjera. Razmišljaj polako, osluškuj unutarnji glas i vjeruj svojim instinktima. Danas je dan kada je mudrost u strpljenju i pažljivom slušanju. Otvorenost prema vlastitim osjećajima i sposobnost prepoznavanja intuitivnih signala vodi do bolje prosudbe i učinkovitijeg donošenja odluka. Tvoja sposobnost da kombiniraš intuiciju i logiku može stvoriti jasniji put i pomoći ti da izbjegneš nepotrebne prepreke.",
@@ -128,7 +128,7 @@ aquarius:"Ideje ti bjeskaju Vodenjače, ali intuicija je uzemljenje koje ti treb
 pisces:
 "Tvoji snovi su poruke, Ribo. Ne odbacuj ih—oni nose stvarne uvide. Danas reflektiraj na simbole, snove i intuiciju koja ti pokazuje smjer. Obrati pažnju na unutarnje osjećaje i signale jer oni često otkrivaju prave prilike ili upozoravaju na moguće izazove. Slušanje svojih unutarnjih vizija može ti pomoći da doneseš mudre odluke u životu i karijeri. Reflektiraj kako snovi i intuicija nadopunjuju tvoje svakodnevno razmišljanje i kako ih možeš koristiti za rast i uspjeh. Danas je idealno vrijeme da prepoznaš i slijediš unutarnje poruke, jer one vode prema jasnoći, sigurnosti i postizanju dugoročnih ciljeva. Tvoja sposobnost da povežeš intuiciju i snove otvara put ka mudrim i ispunjenim odlukama."
   },
-  "2025-09-18": {
+  "2025-10-18": {
     theme: "Avantura",
    aries:
 "Reci 'da' nečemu novom, Ovne. Tvoj duh danas žudi za kretanjem i izazovom, a svaki novi korak otvara vrata uzbudljivim iskustvima. Reflektiraj na situacije u kojima si bio hrabar i kako su te dovele do rasta. Danas je savršen trenutak da prihvatiš prilike koje zahtijevaju inicijativu i akciju. Avantura ne znači samo fizičko kretanje—može biti i mentalno, kreativno ili emocionalno istraživanje. Slušaj svoj unutarnji kompas i budi otvoren za nepoznato. Isprobavanje novih iskustava može donijeti nove uvide, prijateljstva i prilike za učenje. Reflektiraj kako hrabrost oblikuje tvoju osobnost i vodi te ka većoj samosvijesti. Danas, svaki korak u nepoznato može obogatiti tvoje iskustvo i donijeti osjećaj živosti i slobode. Tvoj entuzijazam i energija danas su ključni za otkrivanje novih horizonata, bilo u životu, ljubavi ili karijeri. Otvorenost prema novim iskustvima donosi radost, inspiraciju i osobni rast.",
@@ -176,7 +176,7 @@ pisces:
 
 
 Object.assign(horoscopes, {
-"2025-09-19": {
+"2025-10-19": {
   theme: "Iscjeljenje",
   aries: "Iscjeljenje nije znak slabosti, već dokaz tvoje unutarnje snage i hrabrosti da se suočiš sa sobom. Tvoje tijelo i duša danas traže predah, prostor da se opuste i obnove. U odmoru nema krivnje – on je most prema tvojoj budućoj snazi. Kada dopustiš sebi da staneš i udahneš, iscjeljenje se počinje odvijati prirodno, bez napora. Budi nježan prema sebi, jer tvoje srce zaslužuje mir jednako kao i pobjede. Danas tvoje iscjeljenje nije pasivnost, već čin ljubavi prema sebi i izvor tvoje prave moći.",
   taurus: "Za tebe iscjeljenje dolazi kroz udobnost, stabilnost i dodir života koji smiruje. Danas se prepusti stvarima koje hrane tvoja osjetila: topla šalica čaja, šetnja u prirodi, mirisi doma ili glazba koja umiruje tvoje srce. Kada tvoje tijelo osjeti sigurnost, unutarnja napetost se topi, a iscjeljenje počinje iznutra. Ne trebaš se gurati naprijed, već nježno njegovati sebe kao vrt u kojem mir polako niče. Tvoja sposobnost da pronađeš mir u jednostavnim stvarima otvara vrata tvojoj unutarnjoj ravnoteži i obnovi.",
@@ -194,7 +194,7 @@ Object.assign(horoscopes, {
 
 
 
-"2025-09-20": {
+"2025-10-20": {
   theme: "Kreativnost",
   aries: "Danas tvoje ideje sjaje poput bezbrojnih iskrica koje samo čekaju da se rasplamsaju u vatru stvaranja. Ne traži dopuštenje niti potvrdu od drugih – tvoja prava snaga leži u tome da slijediš unutarnji plamen i vjeruješ svom instinktu. Kada dopustiš sebi da stvaraš slobodno, oslobađaš hrabrost koja nadahnjuje i tebe i sve oko tebe. Svaka tvoja misao ili pokret danas može postati djelo, jer mašta ti je oružje, a strast gorivo. Ne boj se eksperimentirati – čak i ako rezultat nije savršen, on nosi tvoju jedinstvenu iskru. Danas stvori bez straha i promatraj kako tvoja unutarnja vatra pretvara snove u svjetlost koja grije i pokreće druge.",
   taurus: "Ljepota je tvoje vječno nadahnuće, a osjetila su ti vrata prema beskonačnoj kreativnosti. Danas se okruži umjetnošću, prirodom, glazbom, okusima i mirisima – svime što hrani tvoju dušu i usporava svijet oko tebe. Kada uroniš u ljepotu, tvoje stvaranje dobiva snagu, dubinu i mirnu jasnoću. U tebi živi umjetnik koji oblikuje kroz dodir i osjećaj, a svaki čin može postati umjetnost – od uređenja doma do kuhanja, crtanja ili pisanja. Stani, udahni i osjeti trenutak; već tada iz tebe niče sjeme stvaranja. Danas otkrivaš da tvoja kreativnost ne mora biti grandiozna – dovoljno je da bude iskrena i prožeta tvojim osjetilima.",
@@ -214,7 +214,7 @@ Object.assign(horoscopes, {
 
 
 
-"2025-09-21": {
+"2025-10-21": {
   theme: "Odnosi",
   aries: "Povezanost raste kada svoj plamen nakratko zaustaviš i dopustiš tišini drugoga da progovori. Tvoja prirodna snaga uvijek je u akciji i brzom kretanju, ali danas najveći dar leži u tvojoj sposobnosti da budeš prisutan. Budi rame, uho, dah koji smiruje nemir. Ljudi te cijene kada pokažeš hrabrost u djelovanju, no još snažnije kada pokažeš hrabrost u šutnji. Kad pokloniš drugome prostor da se otvori, pokazuješ ljubav koja ne treba riječi. Danas tvoje srce ne osvaja svijet žestinom, već gradi most povjerenja s onim tko ti je najbliži, pretvarajući tišinu u sveti prostor bliskosti.",
   taurus: "Tvoje srce zna graditi temelje, a tvoje ruke znaju pružiti mir. U odnosima tvoja prisutnost je poput stijene – čvrsta, tiha i nepokolebljiva. Danas pokaži nekome svoju snagu kroz jednostavnu, ali postojanu gestu. Možda to znači podršku u tišini, možda osmijeh koji ulijeva sigurnost, možda samo prisutnost koja govori više od riječi. Ljubav se ne rađa u velikim obećanjima, već u malim i stalnim djelima koja potvrđuju tvoju odanost. Kada netko osjeti da si tu bez obzira na oluje, u tebi pronalazi utočište. Danas tvoja ljubav postaje dom, mjesto u kojem srce osjeća sigurnost i mir.",
@@ -234,7 +234,7 @@ Object.assign(horoscopes, {
 
 
 
-"2025-09-22": {
+"2025-10-22": {
   theme: "Komunikacija",
   aries: "Tvoje riječi danas nose snagu vatre, ali njihova prava moć dolazi tek kada ih uravnotežiš s tihim slušanjem. Naviknut si djelovati brzo i govoriti snažno, ali istinska komunikacija je dvosmjerna. Govori hrabro i jasno, no daj prostor i drugima da izraze ono što nose u sebi. Kada pokažeš otvorenost i poštovanje u razgovoru, tvoje poruke postaju dublje i nadahnutije. Tvoja komunikacija danas ima moć potaknuti promjenu i probuditi motivaciju u drugima. Koristi tu snagu mudro, jer tvoje riječi mogu zapaliti most ili ga izgraditi. Danas biraj da tvoje rečenice postanu iskra koja gradi povjerenje i širi razumijevanje.",
   taurus: "Za tebe je danas ključno govoriti jednostavno, jasno i iskreno. Kada mirno i otvoreno izneseš svoje misli, spriječit ćeš nesporazume koji kasnije mogu stvoriti udaljenost. Tvoja prirodna smirenost daje tvojoj komunikaciji težinu i sigurnost – ljudi vjeruju riječima koje dolaze iz tvog mirnog središta. Ne skrivaj ono što osjećaš, jer upravo iskrenost otvara vrata povjerenja. Danas se od tebe traži da budeš izravan, ali i topao, jer kada izraziš ono što ti je na srcu, drugi te bolje razumiju. Tvoja riječ postaje temelj stabilnih odnosa, a tvoja prisutnost ostavlja osjećaj sigurnosti i blizine u ljudima oko tebe.",
@@ -251,7 +251,7 @@ Object.assign(horoscopes, {
 },
 
 
- "2025-09-23": {
+ "2025-10-23": {
   theme: "Donošenje odluka",
   aries: "Danas si pozvan vjerovati svom unutarnjem osjećaju, jer tvoja intuicija zna put i onda kada logika koleba. Pravi izbor neće uvijek biti najlakši niti najbrži, ali će ti donijeti snagu i samopouzdanje da kreneš naprijed. Tvoja odluka može zahtijevati hrabrost i odricanje, no upravo kroz taj čin raste tvoja unutarnja moć. Ne boj se koraka u nepoznato – kada slušaš svoje srce, ono te vodi na mjesto gdje pripadaš.",
   taurus: "Za tebe je donošenje odluka danas povezano s vremenom i strpljenjem. Kada dopustiš sebi da mirno razmotriš sve opcije, donosiš odluku koja je čvrsta i dugotrajna. Tvoja mudrost dolazi iz sposobnosti da promatraš širu sliku i ne dopuštaš naglosti da ti pomuti vid. Kada biraš smireno, donosiš sebi i drugima osjećaj sigurnosti. Danas tvoja odluka nije samo trenutni izbor, već ulaganje u dugoročni mir i stabilnost.",
@@ -275,7 +275,7 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-"2025-09-24": {
+"2025-10-24": {
   theme: "Samopouzdanje",
   aries: "Danas si pozvan stati ponosno u svoju istinu i znati da si dovoljan upravo takav kakav jesi. Ne treba ti priznanje izvana da bi znao svoju vrijednost. Kada stojiš uspravno i s vjerom u sebe, tvoja prisutnost postaje jasna i moćna. Ljudi osjećaju tvoju autentičnost, ali najvažnije je da je osjetiš ti sam. Tvoje samopouzdanje danas ne dolazi iz pobjeda, već iz unutarnjeg prihvaćanja i ljubavi prema sebi.",
   taurus: "Tvoja vrijednost ne mjeri se onim što proizvedeš ili postigneš, već time što jesi u svojoj biti. Danas si pozvan odmoriti u tom spoznaju i prestati vezivati svoje samopouzdanje uz rezultate. Tvoje postojanje samo po sebi unosi mir i stabilnost drugima. Kada prestaneš tražiti potvrdu u vanjskim stvarima, otkrivaš da si već cjelovit i dovoljan. Tvoje srce zna da je vrijednost u autentičnosti, a ne u učinku.",
@@ -291,7 +291,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoji snovi i vizije nose u sebi posebnu vrijednost, jer otvaraju vrata magiji i ljepoti koju drugi možda ne vide. Danas je važno da vjeruješ u njih i u sebe. Tvoje samopouzdanje raste kada znaš da si vrijedan svojih ideala i mašte. Nemoj sumnjati u svoju unutarnju mudrost – tvoje snove je vrijedno slijediti. Danas prigrli svoju osjetljivost i intuiciju kao darove koji te čine posebnim i snažnim."
 },
 
-"2025-09-25": {
+"2025-10-25": {
   theme: "Fokus",
   aries: "Tvoja energija je danas snažna, ali bez pravog smjera može se raspršiti i izgubiti snagu. Usmjeri je na jedan cilj koji ti je istinski važan i ne dopusti da te ometaju sporedne stvari. Kada odlučiš koračati jednom stazom, tvoje samopouzdanje i moć rastu. Nemoj se razbacivati – usredotočenost ti donosi pobjedu. Danas tvoje riječi i postupci postaju jači kada ih usmjeriš na ono što zaista želiš ostvariti.",
   taurus: "Za tebe danas vrijedi pravilo – polako i sigurno pobjeđuje. Kada svoju pažnju posvetiš jednom zadatku i gradiš korak po korak, stvaraš nešto što traje. Tvoja stabilnost i strpljenje ti donose dugoročni mir i osjećaj sigurnosti. Nije važno koliko brzo ideš, već koliko su tvoji koraci čvrsti i promišljeni. Fokusiraj se na ono što te ispunjava i daje ti osjećaj svrhe. Danas tvoj mir dolazi kroz posvećenost i ustrajnost.",
@@ -307,7 +307,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoja intuicija danas je snažan vodič, ali potrebna joj je jasnoća kroz fokus. Usmjeri se na jedan uvid ili osjećaj koji ti dolazi i dopusti mu da vodi cijeli tvoj dan. Kada se ne rasipaš na previše smjerova, tvoje unutarnje vodstvo postaje jasnije i moćnije. Tvoja snaga je u tome da slijediš intuiciju do kraja, a ne da sumnjaš u nju. Danas fokus čini tvoje snove i osjećaje praktičnim kompasom za tvoje odluke."
 },
 
-"2025-09-26": {
+"2025-10-26": {
   theme: "Zahvalnost",
   aries: "Zastani na trenutak i pogledaj koliko si daleko stigao. Možda si često usmjeren prema onome što slijedi, ali danas se okreni i prepoznaj snagu, hrabrost i odlučnost koje su te dovele do ovdje. Zahvalnost ti otvara srce i daje ti gorivo za sljedeći korak. Kada priznaš vlastiti rast, oslobađaš prostor za još veće pobjede. Danas tvoja zahvalnost nije samo sjećanje na prošlost, već i ključ za buduću snagu.",
   taurus: "Tvoja snaga danas leži u jednostavnosti – pronađi radost u malim stvarima, u miru trenutka, u prirodi koja te okružuje ili u poznatom osjećaju sigurnosti. Zahvalnost ti daje sidro u svijetu koji se stalno mijenja. Kada priznaš ljepotu u jednostavnom, tvoje srce se puni mirom i toplinom. Danas te zahvalnost vraća tvojoj prirodnoj stabilnosti i podsjeća da istinska vrijednost dolazi iz onoga što je tiho, a trajno.",
@@ -323,7 +323,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoje srce danas otvara zahvalnost, a kada joj dopustiš da slobodno teče, ona preobražava cijeli tvoj dan. Zahvalnost te povezuje s tvojim snovima, s ljubavlju i s ljudima oko tebe. Kada kažeš 'hvala', osjećaš se lakše i bliže svojoj pravoj prirodi. Ona ti daje osjećaj mira i povezanosti s nevidljivim tokovima života. Danas je zahvalnost tvoj vodič i tvoj dar – ključ kojim otvaraš vrata srca."
 },
 
-"2025-09-27": {
+"2025-10-27": {
   theme: "Granice",
   aries: "Danas nauči reći 'ne' bez osjećaja krivnje, jer granice nisu zidovi već štitovi tvoje unutarnje vatre. Tvoja energija je dragocjena i zaslužuje pažljivo usmjeravanje. Kada drugima jasno pokažeš gdje prestaje njihovo i počinje tvoje, jačaš vlastitu snagu i izbjegavaš izgaranje. Ne moraš opravdavati svoje odluke – tvoje 'ne' je dovoljno. Danas granice postaju tvoj saveznik i temelj tvoje istinske slobode.",
   taurus: "Granice su za tebe danas oblik samopoštovanja i znak unutarnje snage. Kada držiš svoj stav i ostaneš vjeran sebi, šalješ poruku da znaš svoju vrijednost. Ljudi koji te poštuju ostat će uz tebe, a oni koji traže previše naučit će tvoje granice. Ne boj se čvrsto stajati – tvoja stabilnost je tvoja zaštita. Danas granice nisu tvrdoća, već nježnost prema sebi i način da njeguješ svoj mir i sigurnost.",
@@ -339,7 +339,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoje suosjećanje je veliko i duboko, ali bez granica možeš izgubiti sebe u tuđim emocijama. Danas nauči da možeš brinuti o drugima, a da pritom ne žrtvuješ vlastiti mir. Granice nisu prepreka tvojoj nježnosti, već način da je učiniš zdravom i održivom. Kada znaš gdje prestaješ ti, a počinje netko drugi, tvoje srce je slobodno i sigurno. Danas granice postaju tvoja zaštita i tvoj put do unutarnje ravnoteže."
 },
 
-"2025-09-28": {
+"2025-10-28": {
   theme: "Radost",
   aries: "Danas dopusti da radost bude tvoja pjesma i tvoj pokret. Pleši, smij se, budi glasan u svojoj sreći i ne skrivaj je od svijeta. Kada se prepustiš spontanosti i jednostavnoj radosti života, tvoje srce postaje lagano, a tvoj duh slobodan. Radost nije nešto što moraš zaslužiti – ona je već u tebi, čeka da je oslobodiš. Danas neka tvoj smijeh odjekuje poput vatre koja grije sve oko tebe i širi iskru života.",
   taurus: "Za tebe danas radost živi u jednostavnim i opipljivim stvarima – u mirisu svježe hrane, okusu omiljenog jela, toplini dodira ili ljepoti prirode. Kada uživaš svim svojim osjetilima, tvoja duša se smiruje i puni toplinom. Radost nije u velikim gestama, već u tihim trenucima koji hrane tvoje srce. Danas se počasti nečim što ti donosi užitak i dopusti si da u potpunosti uživaš u ljepoti sadašnjeg trenutka.",
@@ -363,7 +363,7 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-"2025-09-29": {
+"2025-10-29": {
   theme: "Strpljenje",
   aries: "Tvoja prirodna vatra te često tjera na brzu akciju, ali danas te energija poziva da zastaneš i udahneš. Strpljenje ne znači slabost, već mudrost – to je trenutak u kojem dopuštaš životu da se sam posloži. Iako ti djelovanje izgleda privlačno, sada je snaga u čekanju. Promatraj, slušaj i vjeruj da će pravi trenutak doći. Kada naučiš obuzdati svoju žurbu, tvoje odluke postaju jače, a rezultati trajniji.",
   taurus: "Za tebe je strpljenje prirodna snaga, ali danas se podsjeti da ono što si zasijao raste svojim tempom. Ne možeš ubrzati cvijet da procvjeta prije vremena, niti plod da sazri prije svoje sezone. Tvoj miran i ustrajan duh zna da život nagrađuje one koji vjeruju procesu. Danas njeguj ono što si već stvorio i vjeruj da će tvoj trud uroditi plodovima. Tvoje strpljenje je korijen tvoje sigurnosti i tvoje snage.",
@@ -379,7 +379,7 @@ Object.assign(horoscopes, {
   pisces: "Za tebe je strpljenje poput oceana – duboko, beskrajno i puno mudrosti. Danas te uči da ne moraš gurati tok života, već dopustiti da ti plima sama dođe. Kada se predaš ritmu valova, otkrivaš da sve dolazi u svoje savršeno vrijeme. Tvoja osjetljivost je dar koji ti pokazuje kad je pravi trenutak, a kad treba čekati. Danas neka tvoje strpljenje bude poput mora – tiho, beskonačno i snažno u svojoj mirnoći."
 },
 
-"2025-09-30": {
+"2025-10-30": {
   theme: "Hrabrost",
   aries: "Tvoja hrabrost je neusporediva i danas te poziva da napraviš skok koji si dugo odgađao. Strah može šaptati, ali tvoja unutarnja vatra gori jače. Hrabrost nije odsustvo straha, već odluka da ideš dalje unatoč njemu. Danas je trenutak da prestaneš čekati savršene uvjete i zakoračiš na put koji ti srce već dugo pokazuje. Tvoj korak može promijeniti sve, jer jednom kada se pokreneš, život će ti otvoriti nova vrata.",
   taurus: "Za tebe hrabrost nije glasna niti dramatična, ona je tiha, postojana i duboko ukorijenjena. Danas stani čvrsto u svojoj snazi i podsjeti se da stabilnost koju nosiš u sebi može izdržati svaku oluju. Hrabrost je ostati vjeran sebi kada drugi sumnjaju, i ne odustati od onoga što znaš da vrijedi. Tvoje srce danas uči da hrabrost nije brz korak, već ustrajan hod prema snu koji ti znači sve.",
@@ -395,7 +395,7 @@ Object.assign(horoscopes, {
   pisces: "Za tebe hrabrost danas nije bučna niti dramatična – ona je tiha, ali nevjerojatno snažna. Sanjati veliko i onda djelovati prema tim snovima zahtijeva više hrabrosti nego što se čini. Tvoja osjetljivost nije slabost, već gorivo tvoje odvažnosti. Danas dopusti svojim snovima da postanu stvarnost kroz mali, ali odlučan korak. Tvoja tiha hrabrost ima moć pokrenuti valove promjene, prvo u tebi, a zatim i oko tebe."
 },
 
-"2025-10-01": {
+"2025-10-31": {
   theme: "Oprost",
   aries: "Tvoja vatra lako plane, ali isto tako može sagorjeti i ono što voliš ako nosiš zamjeru. Danas te oprost poziva da otpustiš ono što ti više ne služi, jer zamjeranje samo krade tvoju snagu. Oprosti ne znači zaboraviti, već osloboditi prostor da tvoja iskra zasja jače. Kada otpustiš teret, tvoje srce ponovno pronalazi slobodu, a tvoja odvažnost postaje čista i svjetlija. Tvoj plamen je stvoren za stvaranje, ne za gorčinu.",
   taurus: "Ponekad se čvrsto držiš boli jer ti daje osjećaj sigurnosti, ali danas shvati da je oprost dar koji prije svega daješ sebi. Teret zamjeranja pritiska tvoje srce i otežava tvoje korake. Kada otpustiš, vraćaš sebi mir i otvaraš prostor za radost. Oproštaj ne znači odobravanje, već oslobađanje. Tvoja snaga leži u mirnom prihvaćanju, a tvoj duh se obnavlja kad odlučiš živjeti bez nepotrebnog tereta.",
@@ -411,7 +411,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoja duša prirodno zna kako oprostiti, jer suosjećanje je utkano u tvoju bit. Danas vjeruj toj unutarnjoj mudrosti i dopusti da oprost poteče kroz tvoje srce poput rijeke. Oprost nije samo čin prema drugima, već i dar koji daješ sebi – oslobađanje od bola i povratak lakoći. Kada oprostiš, otvaraš prostor za iscjeljenje i nove snove. Danas neka tvoja osjetljivost vodi tvoje srce prema milosti i miru."
 },
 
-"2025-10-02": {
+"2025-11-01": {
   theme: "Jasnoća",
   aries: "Tvoja prirodna impulzivnost često te vodi naprijed, ali danas se magla povlači i otkriva put koji si tražio. Odluka koja ti je dugo bila skrivena sada postaje očita. Vjeruj svojoj percepciji, jer ono što vidiš sada nije iluzija već istina. Kad prihvatiš jasnoću, osjećaš kako ti snaga raste i smjer postaje jednostavan. Danas prestaješ sumnjati i počinješ djelovati s povjerenjem, vođen svjetlom koje ti pokazuje pravi korak.",
   taurus: "Jasnoća ti ne dolazi kroz užurbanost, već kroz tišinu i mir koji toliko cijeniš. Kada zastaneš i dopustiš sebi trenutak disanja, istina počinje isplivavati bez napora. Danas otkrivaš da jasnoća nije rezultat forsiranja, već dopuštanja. Tvoja unutarnja mudrost vodi te prema stabilnim odlukama, a kada se osloniš na tišinu, vidiš ono što je uvijek bilo tu. Jasnoća ti donosi sigurnost i mir u srcu.",
@@ -427,7 +427,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoja intuicija često vodi tvoje odluke, i iako ti ponekad izgleda nejasno, danas ona postaje kristalno jasna. Ono što je prije bilo maglovito sada djeluje istinito i jednostavno. Jasnoća kroz intuiciju ti pokazuje kako vjerovati svom unutarnjem glasu bez sumnje. Kada slušaš taj tihi šapat, otkrivaš smjer koji je u skladu s tvojom dušom. Danas je tvoj dar da vidiš jasno kroz osjećaje i snove."
 },
 
-"2025-10-03": {
+"2025-11-02": {
   theme: "Ravnoteža",
   aries: "Tvoja priroda voli krajnosti i nagle poteze, ali danas ti život šapuće da je snaga u sredini. Umjesto da goriš prebrzo ili stojiš potpuno mirno, pronađi ritam koji ti daje i energiju i mir. Ravnoteža znači da možeš djelovati hrabro, ali i slušati tišinu kada je potrebna. Kada prestaneš juriti između krajnosti, otkrivaš sklad u kojem tvoja vatra ne sagorijeva, već osvjetljava put. Danas pronađi sredinu koja ti daje dugotrajan sjaj.",
   taurus: "Tvoje tijelo i duh traže sklad između rada i odmora. Često se previše posvetiš jednom, pa zaboraviš drugo. Danas je pravi trenutak da zastaneš i zapitaš se: gdje mogu pronaći mir, a gdje trebam uložiti trud? Ravnoteža nije luksuz, već potreba koja ti omogućava da budeš stabilan i snažan. Kada pružiš tijelu i odmora i aktivnosti, zahvalit će ti osjećajem lakoće i sigurnosti. Danas njeguj svoj ritam kroz uravnoteženost.",
@@ -443,7 +443,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoji snovi i intuicija vode te daleko, ali danas si pozvan da pronađeš ravnotežu između vizije i djelovanja. Mašta ti daje smjer, ali bez koraka ona ostaje samo san. Ravnoteža znači da tvoji snovi zaslužuju život u stvarnosti. Kada spojiš svoju osjetljivost s hrabrošću da djeluješ, tvoja vizija postaje opipljiva. Danas je dan kada tvoji snovi mogu zakoračiti u svijet stvarnosti kroz sklad između misli i čina."
 },
 
-"2025-10-04": {
+"2025-11-03": {
   theme: "Obnova",
   aries: "Tvoja vatrena priroda uvijek traži pokret, a danas ti je darovan gumb za resetiranje. Sve što ti više ne služi možeš ostaviti iza sebe bez grižnje savjesti. Obnova ne znači slabost, već hrabrost da počneš iznova, bez obzira na prošle pogreške. Dopusti sebi da osjetiš uzbuđenje novog početka, kao da prvi put kročiš na svježi teren. Danas je tvoj trenutak da hrabro pritisneš 'reset' i povedeš sebe prema novom poglavlju.",
   taurus: "Tvoja sklonost stabilnosti ponekad te zadrži u starom, ali danas te život poziva da otpustiš ono što je postalo ustajalo i teško. Obnova počinje u trenutku kada pustiš teret i stvoriš prostor za novo. Kada se oslobodiš vezanosti, osjećaš kako tvoje tijelo i duša dišu lakše. Danas ne moraš sve promijeniti odjednom; dovoljan je mali čin otpuštanja koji vraća svježinu. Obnova dolazi kroz jednostavnost i oslobođenje.",
@@ -467,7 +467,7 @@ Object.assign(horoscopes, {
 
 
 Object.assign(horoscopes, {
-"2025-10-05": {
+"2025-11-04": {
   theme: "Perspektiva",
   aries: "Tvoj vatreni duh često želi djelovati odmah, no danas si pozvan da zastaneš i sagledaš širu sliku. Ono što ti djeluje hitno možda uopće nije ključno za tvoju budućnost. Kada se odmakneš korak unatrag, vidiš kako se komadići života uklapaju u skladnu cjelinu. Perspektiva ti donosi mudrost da razlikuješ bitno od prolaznog i snagu da usmjeriš svoju energiju tamo gdje zaista vrijedi.",
   taurus: "Tvoja stabilna priroda voli čvrste temelje, no danas te život poziva da promijeniš kut gledanja. Možda mala promjena u načinu na koji gledaš na situaciju otkriva novu istinu koja ti je promicala. Perspektiva ne znači gubitak sigurnosti, već dobivanje novih slojeva mudrosti. Kada dopustiš sebi da vidiš stvari iz drugačijeg ugla, otvaraš prostor za rast i dublje razumijevanje.",
@@ -483,7 +483,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoja osjetljivost ti često daje duboku intuiciju, a danas ti perspektiva poručuje da je proširiš kroz empatiju. Uđi u tuđe cipele, osjeti njihov put i pogledaj svijet očima drugih. Kada sagledaš situaciju kroz tuđe iskustvo, tvoja vizija postaje šira i mekša. Perspektiva ti ne oduzima snove, već im dodaje ljudsku toplinu. Danas tvoja empatija otvara vrata dubljoj istini."
 },
 
-"2025-10-06": {
+"2025-11-05": {
   theme: "Povjerenje",
   aries: "Tvoj vatreni duh često srlja naprijed bez oklijevanja, ali danas se pozivaš na dublju snagu: povjerenje u vlastite instinkte. Oni su ti već nebrojeno puta pokazali put, čak i kad si sumnjao u njih. Povjerenje ne znači slijepo kretanje, već prepoznavanje unutarnjeg kompasa koji je utemeljen na iskustvu i intuiciji. Danas se osloni na osjećaj u trbuhu—on zna istinu prije uma.",
   taurus: "Tvoja priroda voli sigurnost i opipljive rezultate, no rast često dolazi ispod površine, nevidljiv očima. Danas je tvoj zadatak vjerovati procesu, čak i ako nemaš dokaze na dohvat ruke. Sjeme koje si posijao klija u tišini, i povjerenje je tvoja voda koja ga njeguje. Kada otpustiš potrebu da odmah vidiš rezultate, otkrivaš mir u saznanju da život radi za tebe.",
@@ -499,7 +499,7 @@ Object.assign(horoscopes, {
   pisces: "Tvoja duša često plovi između snova i stvarnosti, a danas ti povjerenje šapće da san nije bijeg, već putokaz. Tvoje vizije i intuicija vode te prema nečemu stvarnom, iako se možda još ne vidi jasno. Povjerenje znači dopustiti snovima da budu temelj tvoje stvarnosti, a ne samo iluzija. Danas shvaćaš da ono što zamišljaš može biti most prema ostvarenju koje tek dolazi."
 },
 
-"2025-10-07": {
+"2025-11-06": {
   theme: "Otpuštanje",
   aries: "Tvoj plamteći duh često želi kontrolirati sve oko sebe, ali današnji dan te poziva da otpustiš tu potrebu. Sloboda i snaga dolaze ne iz stiskanja, već iz predaje. Kada dopustiš životu da te vodi bez borbe, otvaraš prostor za nepredviđene darove. Otpuštanje nije gubitak, već čin povjerenja—i u sebe i u tok koji te nosi. Danas otkrivaš kako istinska snaga dolazi iz opuštanja.",
   taurus: "Tvoja priroda traži sigurnost i udobnost, no postoje stvari koje su izgubile svoju toplinu i više te ne hrane. Danas je vrijeme da otpustiš ono što ti više ne pruža mir, čak i ako je nelagodno učiniti taj korak. Rast ne dolazi iz stagnacije, već iz hrabrosti da izađeš iz zone poznatog. Otpuštanjem starog stvaraš prostor za novu stabilnost, zdraviju i snažniju nego prije.",
